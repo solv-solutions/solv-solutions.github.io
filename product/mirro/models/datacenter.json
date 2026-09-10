@@ -1,0 +1,762 @@
+{
+  "code": "datacenter",
+  "name": "CloudScale Data Center",
+  "description": "Tier 4 data center with server halls, cooling systems, and network operations",
+  "category": "Technology",
+  "version": "1.0.0",
+  "rootAsset": {
+    "name": "CloudScale Data Center",
+    "position": [
+      -100,
+      0,
+      -80
+    ],
+    "dimension": [
+      220,
+      1,
+      180
+    ],
+    "isBackSide": true,
+    "children": [
+      {
+        "name": "Server Hall A",
+        "position": [
+          20,
+          1,
+          30
+        ],
+        "dimension": [
+          80,
+          12,
+          60
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "tier": 4,
+          "pue": 1.2,
+          "power": "10MW"
+        },
+        "children": [
+          {
+            "name": "Pod A1",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              20,
+              10,
+              24
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "racks": 40,
+              "servers": 1600,
+              "utilization": 0.87
+            },
+            "children": [
+              {
+                "name": "Rack Row A1-1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "compute"
+                }
+              },
+              {
+                "name": "Rack Row A1-2",
+                "position": [
+                  2,
+                  0,
+                  8
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "compute"
+                }
+              },
+              {
+                "name": "Rack Row A1-3",
+                "position": [
+                  2,
+                  0,
+                  14
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "storage"
+                }
+              },
+              {
+                "name": "Rack Row A1-4",
+                "position": [
+                  2,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "storage"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Pod A2",
+            "position": [
+              30,
+              0,
+              5
+            ],
+            "dimension": [
+              20,
+              10,
+              24
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "racks": 40,
+              "servers": 1600,
+              "utilization": 0.92
+            },
+            "children": [
+              {
+                "name": "Rack Row A2-1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "gpu-compute"
+                }
+              },
+              {
+                "name": "Rack Row A2-2",
+                "position": [
+                  2,
+                  0,
+                  8
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "gpu-compute"
+                }
+              },
+              {
+                "name": "Rack Row A2-3",
+                "position": [
+                  2,
+                  0,
+                  14
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "gpu-compute"
+                }
+              },
+              {
+                "name": "Rack Row A2-4",
+                "position": [
+                  2,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "network"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Pod A3",
+            "position": [
+              55,
+              0,
+              5
+            ],
+            "dimension": [
+              20,
+              10,
+              24
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "racks": 40,
+              "servers": 1600,
+              "utilization": 0.75
+            },
+            "children": [
+              {
+                "name": "Rack Row A3-1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "database"
+                }
+              },
+              {
+                "name": "Rack Row A3-2",
+                "position": [
+                  2,
+                  0,
+                  8
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "database"
+                }
+              },
+              {
+                "name": "Rack Row A3-3",
+                "position": [
+                  2,
+                  0,
+                  14
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "backup"
+                }
+              },
+              {
+                "name": "Rack Row A3-4",
+                "position": [
+                  2,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  16,
+                  8,
+                  4
+                ],
+                "metadata": {
+                  "racks": 8,
+                  "type": "backup"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Cold Aisle Containment",
+            "position": [
+              5,
+              0,
+              35
+            ],
+            "dimension": [
+              70,
+              8,
+              20
+            ],
+            "metadata": {
+              "type": "cooling",
+              "airflow": "cold-aisle"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Server Hall B",
+        "position": [
+          110,
+          1,
+          30
+        ],
+        "dimension": [
+          80,
+          12,
+          60
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "tier": 4,
+          "pue": 1.18,
+          "power": "12MW"
+        },
+        "children": [
+          {
+            "name": "Pod B1 - HPC Cluster",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              35,
+              10,
+              50
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "type": "hpc",
+              "nodes": 2048,
+              "interconnect": "InfiniBand"
+            },
+            "children": [
+              {
+                "name": "HPC Compute Rows",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  30,
+                  8,
+                  20
+                ],
+                "metadata": {
+                  "racks": 32,
+                  "gpusPerNode": 8
+                }
+              },
+              {
+                "name": "HPC Storage",
+                "position": [
+                  2,
+                  0,
+                  25
+                ],
+                "dimension": [
+                  30,
+                  8,
+                  20
+                ],
+                "metadata": {
+                  "type": "parallel-fs",
+                  "capacity": "50PB"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Pod B2 - Edge Compute",
+            "position": [
+              45,
+              0,
+              5
+            ],
+            "dimension": [
+              30,
+              10,
+              50
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "type": "edge",
+              "microDatacenters": 6
+            },
+            "children": [
+              {
+                "name": "Edge Zone 1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  12,
+                  8,
+                  22
+                ],
+                "metadata": {
+                  "region": "US-East",
+                  "latency": "2ms"
+                }
+              },
+              {
+                "name": "Edge Zone 2",
+                "position": [
+                  16,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  12,
+                  8,
+                  22
+                ],
+                "metadata": {
+                  "region": "EU-West",
+                  "latency": "5ms"
+                }
+              },
+              {
+                "name": "Edge Zone 3",
+                "position": [
+                  2,
+                  0,
+                  26
+                ],
+                "dimension": [
+                  26,
+                  8,
+                  22
+                ],
+                "metadata": {
+                  "region": "APAC",
+                  "latency": "8ms"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cooling Plant",
+        "position": [
+          20,
+          1,
+          100
+        ],
+        "dimension": [
+          50,
+          15,
+          40
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "cooling-plant",
+          "capacity": "25MW"
+        },
+        "children": [
+          {
+            "name": "Chiller Array",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              20,
+              12,
+              30
+            ],
+            "metadata": {
+              "chillers": 8,
+              "redundancy": "N+2"
+            }
+          },
+          {
+            "name": "Cooling Towers",
+            "position": [
+              30,
+              0,
+              5
+            ],
+            "dimension": [
+              15,
+              14,
+              30
+            ],
+            "metadata": {
+              "towers": 6,
+              "waterUsage": "efficient"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Power Infrastructure",
+        "position": [
+          80,
+          1,
+          100
+        ],
+        "dimension": [
+          60,
+          10,
+          40
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "power"
+        },
+        "children": [
+          {
+            "name": "Substation",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              20,
+              8,
+              15
+            ],
+            "metadata": {
+              "voltage": "138kV",
+              "transformers": 4
+            }
+          },
+          {
+            "name": "UPS Room",
+            "position": [
+              30,
+              0,
+              5
+            ],
+            "dimension": [
+              25,
+              8,
+              15
+            ],
+            "metadata": {
+              "modules": 24,
+              "runtime": "15min"
+            }
+          },
+          {
+            "name": "Generator Yard",
+            "position": [
+              5,
+              0,
+              25
+            ],
+            "dimension": [
+              50,
+              6,
+              12
+            ],
+            "metadata": {
+              "generators": 8,
+              "fuel": "48hr autonomy"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Network Operations Center",
+        "position": [
+          150,
+          1,
+          100
+        ],
+        "dimension": [
+          40,
+          15,
+          40
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "noc"
+        },
+        "children": [
+          {
+            "name": "NOC Floor",
+            "position": [
+              5,
+              8,
+              5
+            ],
+            "dimension": [
+              30,
+              6,
+              30
+            ],
+            "metadata": {
+              "operators": 12,
+              "screens": 48,
+              "alerts": 3
+            }
+          },
+          {
+            "name": "Meet-Me Room",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              15,
+              6,
+              15
+            ],
+            "metadata": {
+              "carriers": 15,
+              "crossConnects": 450
+            }
+          },
+          {
+            "name": "Network Core",
+            "position": [
+              22,
+              0,
+              5
+            ],
+            "dimension": [
+              15,
+              6,
+              15
+            ],
+            "metadata": {
+              "routers": 8,
+              "bandwidth": "4Tbps"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cloud Platform",
+        "position": [
+          100,
+          50,
+          80
+        ],
+        "dimension": [
+          20,
+          12,
+          20
+        ],
+        "VisualType": "ReactComponent",
+        "VisualName": "LiderCloud",
+        "children": [
+          {
+            "name": "Kubernetes Control Plane",
+            "position": [
+              2,
+              0,
+              2
+            ],
+            "dimension": [
+              6,
+              5,
+              6
+            ],
+            "metadata": {
+              "clusters": 24,
+              "pods": 85000
+            }
+          },
+          {
+            "name": "Object Storage",
+            "position": [
+              10,
+              0,
+              2
+            ],
+            "dimension": [
+              6,
+              5,
+              6
+            ],
+            "metadata": {
+              "capacity": "200PB",
+              "objects": "12B"
+            }
+          },
+          {
+            "name": "CDN Edge",
+            "position": [
+              6,
+              0,
+              10
+            ],
+            "dimension": [
+              8,
+              5,
+              6
+            ],
+            "metadata": {
+              "pops": 180,
+              "bandwidth": "50Tbps"
+            }
+          }
+        ],
+        "isBackSide": true
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": "NOC Floor",
+      "to": "Kubernetes Control Plane",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Cluster Telemetry"
+    },
+    {
+      "from": "Pod A2",
+      "to": "Object Storage",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "AI Training Data"
+    },
+    {
+      "from": "Cooling Plant",
+      "to": "NOC Floor",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Environmental Alerts"
+    }
+  ]
+}

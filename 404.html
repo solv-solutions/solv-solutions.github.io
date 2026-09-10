@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<script>
+  // Smart 404 routing for multi-project GitHub Pages
+  // SPA subpaths get sessionStorage-based redirect
+  (function() {
+    var path = window.location.pathname;
+    var spaSubpaths = ['/product/mirro/'];
+    for (var i = 0; i < spaSubpaths.length; i++) {
+      if (path.startsWith(spaSubpaths[i])) {
+        sessionStorage.setItem('spa-redirect', path + window.location.search + window.location.hash);
+        window.location.replace(spaSubpaths[i]);
+        return;
+      }
+    }
+    // For root-level unknown paths, fall through to website's own 404 handling
+  })();
+</script>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/assets/solv-logo-light-zYA6aBse.svg"
+    />
+    <!-- href="/vite.svg" -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <!-- Primary Meta Tags -->
+    <title>Solv</title>
+    <meta
+      name="title"
+      content="Solv | Software Technologies & Services"
+    />
+    <meta
+      name="description"
+      content="Solv is a leading software company providing innovative solutions in software development, 
+        digital transformation, and technology consulting."
+    />
+    <meta 
+      name="keywords" 
+      content="software development, digital transformation, technology consulting, industry 4.0, web development, RFID, RTLS"
+    />
+    <meta name="robots" content="index, follow" />
+    <!-- Add Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Open Sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-o95EhIva.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DOucxj3U.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

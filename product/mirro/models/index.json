@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "description": "SOLV-MIRRO Model Registry - Available 3D Business Models",
+  "models": [
+    {
+      "code": "hospital",
+      "name": "City General Hospital",
+      "description": "Multi-floor hospital with emergency, surgery, ICU, pharmacy, and patient wards",
+      "category": "Healthcare",
+      "file": "hospital.json"
+    },
+    {
+      "code": "logistics",
+      "name": "Global Logistics Hub",
+      "description": "Distribution center with sorting facilities, loading docks, and fleet management",
+      "category": "Logistics",
+      "file": "logistics.json"
+    },
+    {
+      "code": "datacenter",
+      "name": "CloudScale Data Center",
+      "description": "Tier 4 data center with server halls, cooling systems, and network operations",
+      "category": "Technology",
+      "file": "datacenter.json"
+    },
+    {
+      "code": "retail",
+      "name": "MegaMart Shopping Complex",
+      "description": "Large retail store with multiple departments, warehousing, and checkout systems",
+      "category": "Retail",
+      "file": "retail.json"
+    },
+    {
+      "code": "alfa",
+      "name": "Alfa Gıda, İzmir Şekerleme Tesisi",
+      "description": "Kurgusal şekerleme tesisi: bisküvi, çikolata-kaplama ve gofret hatları; silo kabulünden pişirme, soğutma, kremalama, kaplama, paketleme ve robotik paletlemeye kadar canlı enerji/ESG kokpiti ve OEE dijital ikiz katmanı. Veriler temsilidir.",
+      "category": "Manufacturing",
+      "file": "alfa.json",
+      "features": {
+        "batchTransfer": true,
+        "warehouseVisualization": true
+      }
+    },
+    {
+      "code": "meridian",
+      "name": "Meridian Pharma — GMP Tablet Plant & Warehouse",
+      "description": "Fictional multi-market generic OSD plant: GMP raw-material warehouse with quarantine/released/rejected status flow, granulation, compression, coating, blister packaging with serialization & aggregation, QC labs, FEFO finished-goods store, AutoShip RFID dispatch gates, 2–8 °C cold chain and a live HVAC-centric energy/ESG cockpit. Data is illustrative.",
+      "category": "Pharmaceuticals",
+      "file": "meridian.json",
+      "features": {
+        "batchTransfer": true,
+        "warehouseVisualization": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "code": "hospital",
+  "name": "City General Hospital",
+  "description": "Multi-floor hospital with emergency, surgery, ICU, pharmacy, and patient wards",
+  "category": "Healthcare",
+  "version": "1.0.0",
+  "rootAsset": {
+    "name": "City General Hospital",
+    "position": [
+      -80,
+      0,
+      -60
+    ],
+    "dimension": [
+      180,
+      1,
+      140
+    ],
+    "isBackSide": true,
+    "children": [
+      {
+        "name": "Main Hospital Building",
+        "position": [
+          20,
+          1,
+          30
+        ],
+        "dimension": [
+          100,
+          30,
+          80
+        ],
+        "isBackSide": true,
+        "children": [
+          {
+            "name": "Emergency Department",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              30,
+              6,
+              25
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 1,
+              "department": "emergency",
+              "beds": 24,
+              "status": "high-load"
+            },
+            "children": [
+              {
+                "name": "Trauma Bay 1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  8
+                ],
+                "metadata": {
+                  "type": "trauma-bay",
+                  "status": "occupied"
+                }
+              },
+              {
+                "name": "Trauma Bay 2",
+                "position": [
+                  12,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  8
+                ],
+                "metadata": {
+                  "type": "trauma-bay",
+                  "status": "available"
+                }
+              },
+              {
+                "name": "Triage Station",
+                "position": [
+                  22,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  6,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "triage",
+                  "waitingPatients": 12
+                }
+              }
+            ]
+          },
+          {
+            "name": "Surgery Wing",
+            "position": [
+              40,
+              0,
+              5
+            ],
+            "dimension": [
+              35,
+              6,
+              25
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 1,
+              "department": "surgery"
+            },
+            "children": [
+              {
+                "name": "Operating Room 1",
+                "position": [
+                  3,
+                  0,
+                  3
+                ],
+                "dimension": [
+                  10,
+                  5,
+                  10
+                ],
+                "metadata": {
+                  "type": "operating-room",
+                  "status": "in-surgery",
+                  "procedure": "Cardiac Bypass"
+                }
+              },
+              {
+                "name": "Operating Room 2",
+                "position": [
+                  16,
+                  0,
+                  3
+                ],
+                "dimension": [
+                  10,
+                  5,
+                  10
+                ],
+                "metadata": {
+                  "type": "operating-room",
+                  "status": "preparing"
+                }
+              },
+              {
+                "name": "Sterilization Unit",
+                "position": [
+                  3,
+                  0,
+                  16
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "sterilization"
+                }
+              }
+            ]
+          },
+          {
+            "name": "ICU",
+            "position": [
+              5,
+              8,
+              5
+            ],
+            "dimension": [
+              30,
+              6,
+              25
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 2,
+              "department": "icu",
+              "beds": 16,
+              "occupancy": 14
+            },
+            "children": [
+              {
+                "name": "ICU Pod A",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  12,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "beds": 8,
+                  "occupied": 7
+                }
+              },
+              {
+                "name": "ICU Pod B",
+                "position": [
+                  16,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  12,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "beds": 8,
+                  "occupied": 7
+                }
+              },
+              {
+                "name": "ICU Nursing Station",
+                "position": [
+                  8,
+                  0,
+                  15
+                ],
+                "dimension": [
+                  14,
+                  3,
+                  8
+                ],
+                "metadata": {
+                  "type": "nursing-station",
+                  "staff": 6
+                }
+              }
+            ]
+          },
+          {
+            "name": "Patient Ward A",
+            "position": [
+              40,
+              8,
+              5
+            ],
+            "dimension": [
+              35,
+              6,
+              25
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 2,
+              "department": "general-ward",
+              "beds": 40
+            },
+            "children": [
+              {
+                "name": "Room Block A1",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  15,
+                  4,
+                  20
+                ],
+                "metadata": {
+                  "rooms": 10,
+                  "occupied": 8
+                }
+              },
+              {
+                "name": "Room Block A2",
+                "position": [
+                  19,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  15,
+                  4,
+                  20
+                ],
+                "metadata": {
+                  "rooms": 10,
+                  "occupied": 9
+                }
+              }
+            ]
+          },
+          {
+            "name": "Radiology Department",
+            "position": [
+              5,
+              16,
+              5
+            ],
+            "dimension": [
+              25,
+              6,
+              20
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 3,
+              "department": "radiology"
+            },
+            "children": [
+              {
+                "name": "MRI Suite",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  10,
+                  5,
+                  8
+                ],
+                "metadata": {
+                  "type": "mri",
+                  "status": "scanning"
+                }
+              },
+              {
+                "name": "CT Scanner",
+                "position": [
+                  14,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  8,
+                  5,
+                  8
+                ],
+                "metadata": {
+                  "type": "ct",
+                  "status": "available"
+                }
+              },
+              {
+                "name": "X-Ray Room",
+                "position": [
+                  2,
+                  0,
+                  12
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "xray",
+                  "status": "in-use"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Laboratory",
+            "position": [
+              35,
+              16,
+              5
+            ],
+            "dimension": [
+              20,
+              6,
+              15
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "floor": 3,
+              "department": "lab"
+            },
+            "children": [
+              {
+                "name": "Blood Lab",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "type": "blood-analysis",
+                  "pendingSamples": 47
+                }
+              },
+              {
+                "name": "Pathology",
+                "position": [
+                  12,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  6,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "type": "pathology"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pharmacy Building",
+        "position": [
+          130,
+          1,
+          30
+        ],
+        "dimension": [
+          30,
+          12,
+          30
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "pharmacy",
+          "inventoryItems": 4500
+        },
+        "children": [
+          {
+            "name": "Drug Storage",
+            "position": [
+              3,
+              0,
+              3
+            ],
+            "dimension": [
+              24,
+              8,
+              12
+            ],
+            "metadata": {
+              "type": "storage",
+              "temperature": "controlled"
+            }
+          },
+          {
+            "name": "Dispensary",
+            "position": [
+              3,
+              0,
+              18
+            ],
+            "dimension": [
+              24,
+              6,
+              10
+            ],
+            "metadata": {
+              "type": "dispensary",
+              "prescriptionQueue": 23
+            }
+          }
+        ]
+      },
+      {
+        "name": "Parking Structure",
+        "position": [
+          20,
+          1,
+          115
+        ],
+        "dimension": [
+          60,
+          12,
+          20
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "parking",
+          "levels": 3,
+          "spaces": 450,
+          "occupied": 387
+        }
+      },
+      {
+        "name": "Helipad",
+        "position": [
+          90,
+          31,
+          50
+        ],
+        "dimension": [
+          20,
+          1,
+          20
+        ],
+        "metadata": {
+          "type": "helipad",
+          "status": "clear"
+        }
+      },
+      {
+        "name": "Hospital Cloud",
+        "position": [
+          150,
+          50,
+          70
+        ],
+        "dimension": [
+          16,
+          10,
+          16
+        ],
+        "VisualType": "ReactComponent",
+        "VisualName": "LiderCloud",
+        "children": [
+          {
+            "name": "Hospital Information System",
+            "position": [
+              4,
+              0,
+              4
+            ],
+            "dimension": [
+              8,
+              4,
+              8
+            ],
+            "metadata": {
+              "type": "his",
+              "activeUsers": 234
+            }
+          }
+        ],
+        "isBackSide": true
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": "Emergency Department",
+      "to": "Hospital Information System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Patient Admissions"
+    },
+    {
+      "from": "Laboratory",
+      "to": "Hospital Information System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Lab Results"
+    },
+    {
+      "from": "Pharmacy Building",
+      "to": "Hospital Information System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Prescription Data"
+    }
+  ]
+}
