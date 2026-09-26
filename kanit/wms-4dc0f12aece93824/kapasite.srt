@@ -1,0 +1,11 @@
+1
+00:00:02,202 --> 00:00:09,602
+Kapasite tahmini. Her alanın palet yeri, şu anki doluluğu ve önümüzdeki 24 saat, saat saat.
+
+2
+00:00:09,935 --> 00:00:19,121
+Tahmin kendiliğinden hesaplanıyor: gelecek araçlar ekleniyor, planlı sevkiyatlar ve hatta gidecek malzeme düşülüyor.
+
+3
+00:00:19,449 --> 00:00:30,420
+Kalite bekleme alanı saat 13:00'te doluyor. Vardiya bunu sabahtan görüyor; bir randevu kaydırılabilir ya da kalite kontrol hızlandırılabilir.

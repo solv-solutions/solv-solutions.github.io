@@ -1,0 +1,645 @@
+{
+  "code": "logistics",
+  "name": "Global Logistics Hub",
+  "description": "Distribution center with sorting facilities, loading docks, and fleet management",
+  "category": "Logistics",
+  "version": "1.0.0",
+  "rootAsset": {
+    "name": "Global Logistics Hub",
+    "position": [
+      -120,
+      0,
+      -100
+    ],
+    "dimension": [
+      280,
+      1,
+      220
+    ],
+    "isBackSide": true,
+    "children": [
+      {
+        "name": "Main Distribution Center",
+        "position": [
+          40,
+          1,
+          40
+        ],
+        "dimension": [
+          120,
+          20,
+          100
+        ],
+        "isBackSide": true,
+        "children": [
+          {
+            "name": "Inbound Sorting",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              50,
+              12,
+              40
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "zone": "inbound",
+              "conveyorSpeed": "2.5m/s"
+            },
+            "children": [
+              {
+                "name": "Scanner Station 1",
+                "position": [
+                  5,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "scanner",
+                  "throughput": "1200/hr",
+                  "status": "active"
+                }
+              },
+              {
+                "name": "Scanner Station 2",
+                "position": [
+                  18,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "scanner",
+                  "throughput": "1200/hr",
+                  "status": "active"
+                }
+              },
+              {
+                "name": "Scanner Station 3",
+                "position": [
+                  31,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  8,
+                  4,
+                  6
+                ],
+                "metadata": {
+                  "type": "scanner",
+                  "throughput": "1200/hr",
+                  "status": "maintenance"
+                }
+              },
+              {
+                "name": "Conveyor Hub A",
+                "position": [
+                  10,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  30,
+                  3,
+                  15
+                ],
+                "metadata": {
+                  "type": "conveyor-junction",
+                  "lines": 6
+                }
+              }
+            ]
+          },
+          {
+            "name": "Outbound Sorting",
+            "position": [
+              60,
+              0,
+              5
+            ],
+            "dimension": [
+              50,
+              12,
+              40
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "zone": "outbound"
+            },
+            "children": [
+              {
+                "name": "Regional Sorter North",
+                "position": [
+                  5,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  18,
+                  6,
+                  12
+                ],
+                "metadata": {
+                  "region": "north",
+                  "destinations": 45
+                }
+              },
+              {
+                "name": "Regional Sorter South",
+                "position": [
+                  27,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  18,
+                  6,
+                  12
+                ],
+                "metadata": {
+                  "region": "south",
+                  "destinations": 52
+                }
+              },
+              {
+                "name": "Express Lane",
+                "position": [
+                  5,
+                  0,
+                  22
+                ],
+                "dimension": [
+                  40,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "type": "express",
+                  "priority": "high"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Cold Storage",
+            "position": [
+              5,
+              0,
+              55
+            ],
+            "dimension": [
+              40,
+              15,
+              35
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "temperature": "-18°C",
+              "capacity": "5000 pallets"
+            },
+            "children": [
+              {
+                "name": "Freezer Zone A",
+                "position": [
+                  3,
+                  0,
+                  3
+                ],
+                "dimension": [
+                  16,
+                  12,
+                  28
+                ],
+                "metadata": {
+                  "temp": "-25°C",
+                  "utilization": 0.78
+                }
+              },
+              {
+                "name": "Chiller Zone",
+                "position": [
+                  22,
+                  0,
+                  3
+                ],
+                "dimension": [
+                  15,
+                  12,
+                  28
+                ],
+                "metadata": {
+                  "temp": "4°C",
+                  "utilization": 0.65
+                }
+              }
+            ]
+          },
+          {
+            "name": "Bulk Storage",
+            "position": [
+              55,
+              0,
+              55
+            ],
+            "dimension": [
+              55,
+              15,
+              35
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "type": "ambient",
+              "racks": 120
+            },
+            "children": [
+              {
+                "name": "Aisle A",
+                "position": [
+                  5,
+                  0,
+                  5
+                ],
+                "dimension": [
+                  45,
+                  12,
+                  8
+                ],
+                "metadata": {
+                  "levels": 5,
+                  "positions": 200
+                }
+              },
+              {
+                "name": "Aisle B",
+                "position": [
+                  5,
+                  0,
+                  15
+                ],
+                "dimension": [
+                  45,
+                  12,
+                  8
+                ],
+                "metadata": {
+                  "levels": 5,
+                  "positions": 200
+                }
+              },
+              {
+                "name": "Aisle C",
+                "position": [
+                  5,
+                  0,
+                  25
+                ],
+                "dimension": [
+                  45,
+                  12,
+                  8
+                ],
+                "metadata": {
+                  "levels": 5,
+                  "positions": 200
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Loading Dock Area",
+        "position": [
+          40,
+          1,
+          150
+        ],
+        "dimension": [
+          120,
+          8,
+          30
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "loading-docks",
+          "totalDocks": 24
+        },
+        "children": [
+          {
+            "name": "Dock 1-6",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              25,
+              6,
+              20
+            ],
+            "metadata": {
+              "docks": "1-6",
+              "status": "4 active"
+            }
+          },
+          {
+            "name": "Dock 7-12",
+            "position": [
+              35,
+              0,
+              5
+            ],
+            "dimension": [
+              25,
+              6,
+              20
+            ],
+            "metadata": {
+              "docks": "7-12",
+              "status": "5 active"
+            }
+          },
+          {
+            "name": "Dock 13-18",
+            "position": [
+              65,
+              0,
+              5
+            ],
+            "dimension": [
+              25,
+              6,
+              20
+            ],
+            "metadata": {
+              "docks": "13-18",
+              "status": "6 active"
+            }
+          },
+          {
+            "name": "Dock 19-24",
+            "position": [
+              95,
+              0,
+              5
+            ],
+            "dimension": [
+              25,
+              6,
+              20
+            ],
+            "metadata": {
+              "docks": "19-24",
+              "status": "3 active"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Fleet Yard",
+        "position": [
+          180,
+          1,
+          40
+        ],
+        "dimension": [
+          80,
+          1,
+          80
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "fleet-yard"
+        },
+        "children": [
+          {
+            "name": "Truck Parking Zone A",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              30,
+              1,
+              35
+            ],
+            "metadata": {
+              "capacity": 20,
+              "occupied": 14
+            }
+          },
+          {
+            "name": "Truck Parking Zone B",
+            "position": [
+              40,
+              0,
+              5
+            ],
+            "dimension": [
+              30,
+              1,
+              35
+            ],
+            "metadata": {
+              "capacity": 20,
+              "occupied": 18
+            }
+          },
+          {
+            "name": "Maintenance Bay",
+            "position": [
+              5,
+              0,
+              50
+            ],
+            "dimension": [
+              35,
+              8,
+              25
+            ],
+            "metadata": {
+              "bays": 4,
+              "inService": 2
+            }
+          },
+          {
+            "name": "Fuel Station",
+            "position": [
+              50,
+              0,
+              50
+            ],
+            "dimension": [
+              20,
+              6,
+              25
+            ],
+            "metadata": {
+              "pumps": 6,
+              "dieselCapacity": "50000L"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Control Tower",
+        "position": [
+          10,
+          1,
+          80
+        ],
+        "dimension": [
+          20,
+          25,
+          20
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "control-center"
+        },
+        "children": [
+          {
+            "name": "Operations Center",
+            "position": [
+              2,
+              15,
+              2
+            ],
+            "dimension": [
+              16,
+              8,
+              16
+            ],
+            "metadata": {
+              "monitors": 24,
+              "operators": 8
+            }
+          },
+          {
+            "name": "Dispatch Office",
+            "position": [
+              2,
+              5,
+              2
+            ],
+            "dimension": [
+              16,
+              8,
+              16
+            ],
+            "metadata": {
+              "dispatchers": 6,
+              "activeRoutes": 127
+            }
+          }
+        ]
+      },
+      {
+        "name": "Logistics Cloud",
+        "position": [
+          200,
+          60,
+          100
+        ],
+        "dimension": [
+          16,
+          10,
+          16
+        ],
+        "VisualType": "ReactComponent",
+        "VisualName": "LiderCloud",
+        "children": [
+          {
+            "name": "WMS System",
+            "position": [
+              2,
+              0,
+              2
+            ],
+            "dimension": [
+              5,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "wms",
+              "version": "4.2"
+            }
+          },
+          {
+            "name": "TMS System",
+            "position": [
+              9,
+              0,
+              2
+            ],
+            "dimension": [
+              5,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "tms",
+              "activeShipments": 847
+            }
+          },
+          {
+            "name": "Route Optimizer",
+            "position": [
+              5,
+              0,
+              9
+            ],
+            "dimension": [
+              6,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "optimizer",
+              "efficiency": "94%"
+            }
+          }
+        ],
+        "isBackSide": true
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": "Inbound Sorting",
+      "to": "WMS System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Receiving Data"
+    },
+    {
+      "from": "Outbound Sorting",
+      "to": "TMS System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Shipment Data"
+    },
+    {
+      "from": "Dispatch Office",
+      "to": "Route Optimizer",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Route Plans"
+    }
+  ]
+}

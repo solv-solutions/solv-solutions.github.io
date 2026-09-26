@@ -1,0 +1,15 @@
+1
+00:00:02,204 --> 00:00:09,675
+Palet aritmetiği, el terminalinde. Bir paletten bir kısmı alınıyor, yeni bir palet oluşuyor.
+
+2
+00:00:10,014 --> 00:00:18,485
+Ayrılan miktar geri, başka bir palete birleştiriliyor. Boşalan paletin numarası kapanıyor ama kaybolmuyor.
+
+3
+00:00:18,813 --> 00:00:24,142
+Üretimden artan malzeme iade belgesiyle aynı palete ekleniyor.
+
+4
+00:00:24,470 --> 00:00:33,084
+Her paletin geçmişi duruyor: hangi paletten ayrıldı, nereye birleşti, kim yaptı. Her hareket SAP'ye gidiyor.

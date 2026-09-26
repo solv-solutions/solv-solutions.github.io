@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="tr" data-look="komuta">
+    <head>
+      <script>(function () {
+/*
+ * The look, decided before the first paint (İP-17).
+ *
+ * A plain script, not a module: the build puts this file's text, verbatim,
+ * in an inline <script> at the top of <head> (`build/theme-boot.ts`), where
+ * the parser runs it before anything is painted, and calls the function with
+ * the configuration in `theme-config.ts`. The unit tests run the same text.
+ *
+ * The order: the person's own choice (this browser's storage); without one,
+ * the installation's look, which the build wrote on the root; without that,
+ * the system's light or dark preference. A storage that cannot be read (a
+ * locked-down or private window) and a stored value that names no look are
+ * said on the console and treated as no choice: the page still opens, in the
+ * installation's look.
+ *
+ * The reader's text size (IP-18) is decided in the same pass, from the same
+ * storage: the remembered size, or normal when there is none, when it names
+ * no size, or when the storage cannot be read.
+ */
+/* exported autoleadThemeBoot */
+function autoleadThemeBoot(win, config) {
+    const root = win.document.documentElement;
+    const known = (value) => typeof value === "string" && Object.prototype.hasOwnProperty.call(config.themes, value);
+
+    let chosen = null;
+    let size = null;
+    try {
+        chosen = win.localStorage.getItem(config.storageKey);
+        size = win.localStorage.getItem(config.textSize.storageKey);
+    } catch (cause) {
+        win.console.warn("autolead.look: this browser's storage cannot be read; the installation's look is shown, at normal text size", cause);
+    }
+    if (size !== null && config.textSize.sizes.indexOf(size) === -1) {
+        win.console.warn("autolead.textSize: the remembered text size is not one this product has", size);
+        size = null;
+    }
+    root.setAttribute(config.textSize.attribute, size ?? config.textSize.fallback);
+
+    if (chosen !== null && !known(chosen)) {
+        win.console.warn("autolead.look: the remembered look is not one this product has", chosen);
+        chosen = null;
+    }
+
+    const installed = root.getAttribute(config.installAttribute);
+    if (installed !== null && installed !== "" && !known(installed)) {
+        win.console.warn("autolead.look: the page was built with no look this product has; the system preference decides", installed);
+    }
+    const look = chosen ?? (known(installed) ? installed : win.matchMedia("(prefers-color-scheme: dark)").matches ? config.system.dark : config.system.light);
+    root.setAttribute(config.attribute, config.themes[look]);
+}
+
+autoleadThemeBoot(window, {"storageKey":"autolead.look","attribute":"data-theme","installAttribute":"data-look","themes":{"komuta":"dark","calisma":"light","sade":"cupertino"},"system":{"dark":"komuta","light":"calisma"},"textSize":{"storageKey":"autolead.textSize","attribute":"data-density","sizes":["normal","large"],"fallback":"normal"}});
+})();</script>
+      <style>html[data-theme="light"]{color-scheme:light;background-color:#eae5dd}
+html[data-theme="dark"]{color-scheme:dark;background-color:#04070c}
+html[data-theme="cupertino"]{color-scheme:light;background-color:#f2f2f7}</style>
+
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/product/autolead/favicon.svg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AutoLead</title>
+        <style>
+            html,
+            body,
+            #root {
+                margin: 0;
+                height: 100%;
+                background: var(--color-surface-scene);
+            }
+        </style>
+      <script type="module" crossorigin src="/product/autolead/assets/index-inr9ghLp.js"></script>
+      <link rel="stylesheet" crossorigin href="/product/autolead/assets/index-BbS2KrmQ.css">
+    </head>
+    <body>
+        <div id="root"></div>
+    </body>
+</html>

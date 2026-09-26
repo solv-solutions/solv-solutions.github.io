@@ -1,0 +1,11 @@
+1
+00:00:02,203 --> 00:00:10,532
+Tedarikçi portalı. Tedarikçi kendi açık siparişlerini görüyor. Her satırda basılabilecek miktar yazıyor.
+
+2
+00:00:10,869 --> 00:00:19,126
+Tedarikçi palet sayısını ve palet başına miktarı giriyor. İrsaliye numarası girilmeden etiket çıkmıyor.
+
+3
+00:00:19,454 --> 00:00:26,425
+Etiketler basıldı. Her palete bir barkod. Siparişte kalan miktar kendiliğinden düştü.

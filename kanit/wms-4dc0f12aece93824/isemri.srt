@@ -1,0 +1,11 @@
+1
+00:00:02,201 --> 00:00:12,244
+İş emri eşleştirme. Operatör el terminalinde hattı beslerken önce iş emrini seçiyor. Reçetede olmayan bir palet hatta gidemiyor.
+
+2
+00:00:12,575 --> 00:00:21,046
+Reçetedeki paleti okutunca palet iş emrine bağlanıyor, SAP'ye 261 hareketi gidiyor, kalan ihtiyaç düşüyor.
+
+3
+00:00:24,958 --> 00:00:34,715
+Vardiya lideri tabletinde iş emrinin tüketimini ve hangi paletlerin gittiğini görüyor. Eksik kalmayınca iş emrini kapatıyor.

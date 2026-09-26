@@ -1,0 +1,15 @@
+1
+00:00:02,202 --> 00:00:14,102
+Fason takibi. Aynı cam iki fasoncuya gidiyor, her biri kendi koduyla çerçeveli raf olarak geri gönderiyor. Hangi fasoncuda ne kadar malzeme olduğu burada.
+
+2
+00:00:14,434 --> 00:00:23,263
+Vardiya lideri bir cam paletini fasoncuya gönderiyor. SAP'ye 541 hareketi gidiyor, fasoncunun bakiyesi artıyor.
+
+3
+00:00:23,588 --> 00:00:31,774
+Diğer fasoncudan 21 çerçeveli raf geldi. Dönüş oranı 20'ye 21; fasoncunun bakiyesinden 20 cam düşüyor.
+
+4
+00:00:32,100 --> 00:00:41,571
+Fasoncular malzemeyi depoya uğramadan birbirine aktarabiliyor. Hareket bugün kaydediliyor, irsaliyesi gelince ekleniyor.

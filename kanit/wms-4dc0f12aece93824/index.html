@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 24px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0 0 20px; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); }
+  ul { padding-left: 18px; }
+  a { color: #3aa0ff; }
+  .note { margin-top: 24px; padding: 12px 14px; border-left: 2px solid #1f8fff; background: rgba(31, 143, 255, 0.08); color: #f5f9ff; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+  h2 { margin: 40px 0 4px; font-size: 18px; font-weight: 600; color: #f5f9ff; }
+  h2 span { color: #3aa0ff; font-variant-numeric: tabular-nums; margin-right: 8px; }
+  .toc { margin: 32px 0 0; padding: 12px 14px 12px 32px; border: 1px solid rgba(102, 152, 210, 0.28); }
+  .toc li { margin: 4px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS</h1>
+  <p class="sub">Kural motorlu, SAP ile entegre depo yönetimi: el terminali, tablet ve ofis aynı programda. Tanıtım, 26.09.2026.</p>
+  <video src="tanitim.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="tanitim.mp4">Videoyu indir</a> (altyazılı)</li>
+    <li><a href="tanitim.srt">Altyazı dosyası</a></li>
+  </ul>
+  <p class="note">Demo ortamı: SAP bağlantısı, firmalar ve veriler kurgu. Menüde soluk görünen ekranlar kapsamda, bu demoda kapalı.</p>
+  <h2>Konu konu</h2>
+  <ol class="toc">
+    <li><a href="#portal">01 · Tedarikçi portalı ve etiket</a></li>
+    <li><a href="#randevu">02 · Randevu ve rampa</a></li>
+    <li><a href="#palet">03 · Palet aritmetiği</a></li>
+    <li><a href="#tutanak">04 · Eksik, fazla ve hasar tutanağı</a></li>
+    <li><a href="#acil">05 · Acil üretim ihtiyacı</a></li>
+    <li><a href="#sira">06 · FIFO, FEFO ve son kullanma tarihi</a></li>
+    <li><a href="#kapasite">07 · Kapasite tahmini</a></li>
+    <li><a href="#fason">08 · Fason ve emanet</a></li>
+    <li><a href="#kasa">09 · Boş kasa ve palet</a></li>
+    <li><a href="#isemri">10 · İş emri eşleştirme</a></li>
+  </ol>
+  <section id="portal">
+  <h2><span>01</span>Tedarikçi portalı ve etiket</h2>
+  <p class="sub">Tedarikçi açık siparişini görür, irsaliye numarasıyla palet etiketini kendisi basar.</p>
+  <video src="portal.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="portal.mp4">Videoyu indir</a></li>
+    <li><a href="portal.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="randevu">
+  <h2><span>02</span>Randevu ve rampa</h2>
+  <p class="sub">Randevusuz sevk çıkmaz; rampa takvimi, araç geldi, basılan etiket kabulde okunur.</p>
+  <video src="randevu.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="randevu.mp4">Videoyu indir</a></li>
+    <li><a href="randevu.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="palet">
+  <h2><span>03</span>Palet aritmetiği</h2>
+  <p class="sub">Bölme, birleştirme, üretim iadesi; her paletin izlenebilir geçmişi.</p>
+  <video src="palet.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="palet.mp4">Videoyu indir</a></li>
+    <li><a href="palet.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="tutanak">
+  <h2><span>04</span>Eksik, fazla ve hasar tutanağı</h2>
+  <p class="sub">İrsaliye kalemine bağlı, notlu ve fotoğraflı tutanak; çözümüyle kapanır.</p>
+  <video src="tutanak.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="tutanak.mp4">Videoyu indir</a></li>
+    <li><a href="tutanak.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="acil">
+  <h2><span>05</span>Acil üretim ihtiyacı</h2>
+  <p class="sub">Bayrak SAP planından gelir ya da elle konur; elle konanı SAP verisi ezmez.</p>
+  <video src="acil.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="acil.mp4">Videoyu indir</a></li>
+    <li><a href="acil.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="sira">
+  <h2><span>06</span>FIFO, FEFO ve son kullanma tarihi</h2>
+  <p class="sub">Çıkış sırası malzeme grubu başına kural tablosunda; FEFO etiketten okunan son kullanma tarihine göre çalışır.</p>
+  <video src="sira.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="sira.mp4">Videoyu indir</a></li>
+    <li><a href="sira.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="kapasite">
+  <h2><span>07</span>Kapasite tahmini</h2>
+  <p class="sub">Gelecek araçlar, planlı sevkiyatlar ve hat beslemesiyle alan alan, saat saat doluluk.</p>
+  <video src="kapasite.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="kapasite.mp4">Videoyu indir</a></li>
+    <li><a href="kapasite.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="fason">
+  <h2><span>08</span>Fason ve emanet</h2>
+  <p class="sub">541 çıkış, farklı kodla ve oranla dönüş, fasoncular arası aktarma, sonradan gelen irsaliye.</p>
+  <video src="fason.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="fason.mp4">Videoyu indir</a></li>
+    <li><a href="fason.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="kasa">
+  <h2><span>09</span>Boş kasa ve palet</h2>
+  <p class="sub">Çevrim sözleşmeli kasa havuzu; kendi irsaliyesiyle giden ve gelen kasa.</p>
+  <video src="kasa.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="kasa.mp4">Videoyu indir</a></li>
+    <li><a href="kasa.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="isemri">
+  <h2><span>10</span>İş emri eşleştirme</h2>
+  <p class="sub">Hatta giden her palet bir iş emrine bağlanır; tüketim ve izlenebilirlik iş emrinde.</p>
+  <video src="isemri.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="isemri.mp4">Videoyu indir</a></li>
+    <li><a href="isemri.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+</body>
+</html>

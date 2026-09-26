@@ -1,0 +1,15 @@
+1
+00:00:02,204 --> 00:00:11,033
+Çıkış sırası kural tablosunda, her malzeme grubu için bir kolon. Mamul grubu şu an FIFO: önce giren önce çıkar.
+
+2
+00:00:14,950 --> 00:00:24,993
+Operatör el terminalinde sevkiyat için bir palet okutuyor. Aynı üründen daha önce gelmiş bir palet var; sistem önce onu istiyor.
+
+3
+00:00:28,906 --> 00:00:36,663
+Sistem yöneticisi mamul grubunu FEFO'ya çeviriyor: son kullanma tarihi en yakın olan önce çıkar.
+
+4
+00:00:40,591 --> 00:00:48,848
+Aynı palet bu kez kabul ediliyor. Son kullanma tarihi etiketten okundu ve bu paletin tarihi daha yakın.
