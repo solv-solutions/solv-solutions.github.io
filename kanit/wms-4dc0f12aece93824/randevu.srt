@@ -1,0 +1,19 @@
+1
+00:00:02,204 --> 00:00:08,604
+Tedarikçi etiketlerini bastı. Randevusuz sevk çıkamıyor; sevk düğmesi kapalı.
+
+2
+00:00:08,941 --> 00:00:14,912
+Tedarikçi rampayı ve saati seçip randevu alıyor, sonra sevke çıkarıyor.
+
+3
+00:00:18,830 --> 00:00:27,730
+Depoda vardiya lideri rampa takvimini görüyor. SAP'den gelen ön bildirimler ve portal randevuları aynı takvimde.
+
+4
+00:00:28,066 --> 00:00:32,752
+Araç geldiğinde tek dokunuşla mal kabul işi açılıyor.
+
+5
+00:00:36,665 --> 00:00:46,065
+Operatör el terminalinde görevini açıp tedarikçinin bastığı etiketi okutuyor. Palet siparişle ve irsaliyeyle eşleşiyor.

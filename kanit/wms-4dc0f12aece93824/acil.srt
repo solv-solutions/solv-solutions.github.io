@@ -1,0 +1,11 @@
+1
+00:00:02,204 --> 00:00:12,533
+Acil üretim ihtiyacı. SAP planı bir kompresörü birinci hatta acil gösteriyor. Bu malzemenin paleti rafa değil, doğrudan hatta gider.
+
+2
+00:00:12,869 --> 00:00:18,769
+Vardiya lideri bir malzemeyi de kendisi işaretliyor, nedenini yazıyor.
+
+3
+00:00:19,097 --> 00:00:25,426
+Elle konan bayrağı SAP verisi ezmiyor. Bayrağı yalnız bir kişi kaldırabilir.

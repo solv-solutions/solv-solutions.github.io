@@ -1,0 +1,27 @@
+1
+00:00:02,203 --> 00:00:09,174
+Bu, depo yönetim sistemi. El terminalinde, tablette ve ofiste aynı program çalışıyor.
+
+2
+00:00:09,504 --> 00:00:19,833
+Menü bitmiş sistemin tamamı: giriş, depo, üretim besleme, çıkış, kalite, onaylar, SAP entegrasyonu, etiketler, raporlar ve tanımlar.
+
+3
+00:00:20,168 --> 00:00:26,497
+Açık ekranlar bu demoda çalışıyor. Soluk olanlar da kapsamda; demoda kapalı.
+
+4
+00:00:26,828 --> 00:00:31,871
+Menü istenince sola çekiliyor; ekranın tamamı işe kalıyor.
+
+5
+00:00:32,199 --> 00:00:40,456
+Alttaki durum çubuğu programın bağlı olduğu SAP sistemini ve SAP'ye giden kuyruğun durumunu gösteriyor.
+
+6
+00:00:44,368 --> 00:00:50,411
+Aynı program el terminalinde. Operatör yalnız kendi görevlerini görüyor.
+
+7
+00:00:54,322 --> 00:01:01,436
+Tedarikçi aynı programı portal olarak kullanıyor ve yalnız kendi siparişlerini görüyor.

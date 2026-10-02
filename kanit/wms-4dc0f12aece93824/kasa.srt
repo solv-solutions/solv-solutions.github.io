@@ -1,0 +1,15 @@
+1
+00:00:02,202 --> 00:00:10,673
+Boş kasa havuzu. Çevrim sözleşmesiyle tedarikçiye verilen kasaların kaçı depoda, kaçı tedarikçide, burada.
+
+2
+00:00:11,002 --> 00:00:18,973
+Operatör el terminalinden 30 boş kasayı tedarikçiye gönderiyor. Kasanın irsaliyesi malzemeden ayrı.
+
+3
+00:00:19,302 --> 00:00:25,059
+Tedarikçide olandan fazlası geri alınamıyor; sistem bunu reddediyor.
+
+4
+00:00:25,386 --> 00:00:31,572
+45 kasa dolu malzemeyle geri geldi. Havuzun bakiyesi her hareketle güncel.
