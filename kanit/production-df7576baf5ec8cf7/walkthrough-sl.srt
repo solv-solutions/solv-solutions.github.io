@@ -1,0 +1,71 @@
+1
+00:00:03,004 --> 00:00:15,310
+To je pregled naročil v obratu, ki predeluje fleksibilno embalažo: vsako odprto naročilo, vsak korak, v primerjavi z rokom, ki ga je dobila stranka.
+
+2
+00:00:15,633 --> 00:00:26,093
+Laminacija, utrjevanje, razrez in izdelava vrečk. Pri vsakem koraku je vidno, ali je planiran, teče, je končan ali zaostaja.
+
+3
+00:00:26,416 --> 00:00:37,099
+Stroj za vrečke 2 je stal od petka opoldne do danes zjutraj. Naročili v njegovi vrsti zato zamujata, eno en dan, drugo tri dni.
+
+4
+00:00:37,421 --> 00:00:48,182
+Zadnji stolpec pove, koliko lahko roku zaupamo: potrjeni podatki, podatki iz ERP, ki jih še nihče ni preveril, ali predpostavka.
+
+5
+00:00:49,343 --> 00:00:58,789
+Kliče stranka: 60.000 vakuumskih vrečk, želi jih čez deset dni. Prodaja vnese naročilo, kot ga je dala stranka.
+
+6
+00:00:59,111 --> 00:01:04,412
+En klik in današnji plan odgovori z rokom: na želeni dan.
+
+7
+00:01:04,732 --> 00:01:15,800
+Z vsemi razlogi: PE folije primanjkuje, nabava prispe v četrtek. Nato laminacija, 48 ur utrjevanja lepila, razrez in izdelava vrečk.
+
+8
+00:01:16,120 --> 00:01:23,268
+Rok temelji na eni predpostavki: hitrosti stroja za vrečke 1 še nihče ni potrdil.
+
+9
+00:01:23,590 --> 00:01:27,735
+Planiranje jo potrdi in rok postane zelen.
+
+10
+00:01:28,056 --> 00:01:36,274
+Prodaja potrdi naročilo. Koraki se uvrstijo v vrste strojev, ERP je obveščen, stranka dobi rok.
+
+11
+00:01:37,414 --> 00:01:42,860
+To je potrditev, ki jo je stranka prejela, v svojem jeziku.
+
+12
+00:01:44,833 --> 00:01:52,280
+Obremenitev strojev za dva tedna. Novo naročilo je na koncu vrste stroja za vrečke 1.
+
+13
+00:01:52,602 --> 00:01:59,748
+Na stroju za vrečke 2 delo, ki ga je zadržal zastoj, potisne vse, kar je za njim.
+
+14
+00:02:06,064 --> 00:02:13,816
+Pri stroju operater vidi delo, ki je na stroju, in naslednja dela, po vrstnem redu plana.
+
+15
+00:02:14,140 --> 00:02:20,971
+Stroj za vrečke zaključi delo: 60.000 vrečk. To je bil zadnji korak naročila.
+
+16
+00:02:21,292 --> 00:02:27,051
+Naročilo je pripravljeno in stranka je obveščena v isti minuti.
+
+17
+00:02:28,199 --> 00:02:32,800
+Na pregledu je naročilo pripravljeno za odpremo.
+
+18
+00:02:33,122 --> 00:02:45,649
+Zgrajeno na podatkih obrata: naročila in zaloga iz njegovega ERP, stroji in pravila, ki jih potrdijo njegovi ljudje. Najprej en proces, nato naslednji.

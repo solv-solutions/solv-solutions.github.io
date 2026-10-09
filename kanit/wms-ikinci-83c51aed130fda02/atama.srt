@@ -1,0 +1,27 @@
+1
+00:00:05,736 --> 00:00:16,041
+Görev ataması kural setinde, görev türü başına tanımlı. Görev havuza düşer ya da en az işi olan operatöre kendiliğinden atanır.
+
+2
+00:00:21,164 --> 00:00:26,105
+Vardiya lideri kimin elinde kaç iş olduğunu görüyor.
+
+3
+00:00:26,736 --> 00:00:35,039
+Kimin hangi belgeye sahip olduğu da burada. Forklift isteyen işler yalnız ehliyeti olana veriliyor.
+
+4
+00:00:35,665 --> 00:00:43,803
+Kimin vardiyada olduğu da görünüyor. Vardiyadan çıkanın başlamamış işleri yeniden dağıtılıyor.
+
+5
+00:00:44,475 --> 00:00:49,274
+Bölge yoğunluğu her bölgedeki açık işi gösteriyor.
+
+6
+00:00:51,002 --> 00:00:58,480
+Havuzdaki bir görev bir operatöre veriliyor.
+
+7
+00:01:02,698 --> 00:01:10,576
+Görev operatörün el terminalinde, kendi işleri arasında. Başka bir operatör bu görevi alamaz.

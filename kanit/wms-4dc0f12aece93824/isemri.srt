@@ -1,0 +1,39 @@
+1
+00:00:05,031 --> 00:00:14,193
+Operatör hattı ve o hattın iş emrini seçiyor.
+
+2
+00:00:14,836 --> 00:00:22,504
+Reçetede olmayan bir paleti okutuyor.
+
+3
+00:00:23,149 --> 00:00:27,173
+Reçetede olmayan palet hatta gidemiyor.
+
+4
+00:00:27,794 --> 00:00:37,371
+Reçetedeki paleti okutunca palet iş emrine bağlanıyor.
+
+5
+00:00:38,015 --> 00:00:42,603
+SAP'ye 261 hareketi gitti, kalan ihtiyaç düştü.
+
+6
+00:00:43,226 --> 00:00:52,157
+Sebzelik paletinde 480 çekmece var, iş emri 96 istiyor.
+
+7
+00:00:52,799 --> 00:00:59,755
+Sistem yalnız 96'sını hatta verdi. Kalan 384 aynı palet numarasıyla rafta kaldı.
+
+8
+00:01:05,677 --> 00:01:13,211
+Vardiya lideri tabletinde iş emrinin tüketimini görüyor.
+
+9
+00:01:13,847 --> 00:01:17,302
+Hatta giden paletler de burada.
+
+10
+00:01:17,942 --> 00:01:24,114
+Eksik kalmayınca iş emrini kapatıyor.

@@ -1,0 +1,671 @@
+{
+  "code": "retail",
+  "name": "MegaMart Shopping Complex",
+  "description": "Large retail store with multiple departments, warehousing, and checkout systems",
+  "category": "Retail",
+  "version": "1.0.0",
+  "rootAsset": {
+    "name": "MegaMart Shopping Complex",
+    "position": [
+      -100,
+      0,
+      -80
+    ],
+    "dimension": [
+      220,
+      1,
+      180
+    ],
+    "isBackSide": true,
+    "children": [
+      {
+        "name": "Main Store Building",
+        "position": [
+          30,
+          1,
+          30
+        ],
+        "dimension": [
+          140,
+          12,
+          100
+        ],
+        "isBackSide": true,
+        "children": [
+          {
+            "name": "Grocery Section",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              50,
+              8,
+              45
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "department": "grocery",
+              "aisles": 24,
+              "skus": 15000
+            },
+            "children": [
+              {
+                "name": "Fresh Produce",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  20,
+                  4,
+                  15
+                ],
+                "metadata": {
+                  "type": "produce",
+                  "refrigerated": true
+                }
+              },
+              {
+                "name": "Dairy & Frozen",
+                "position": [
+                  25,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  22,
+                  6,
+                  15
+                ],
+                "metadata": {
+                  "type": "cold-storage",
+                  "temperature": "2-4°C"
+                }
+              },
+              {
+                "name": "Bakery",
+                "position": [
+                  2,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  15,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "type": "bakery",
+                  "freshBaked": true
+                }
+              },
+              {
+                "name": "Deli Counter",
+                "position": [
+                  20,
+                  0,
+                  20
+                ],
+                "dimension": [
+                  12,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "type": "deli",
+                  "staff": 4
+                }
+              },
+              {
+                "name": "Packaged Foods",
+                "position": [
+                  2,
+                  0,
+                  33
+                ],
+                "dimension": [
+                  45,
+                  6,
+                  10
+                ],
+                "metadata": {
+                  "aisles": "1-12"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Electronics Section",
+            "position": [
+              60,
+              0,
+              5
+            ],
+            "dimension": [
+              35,
+              8,
+              30
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "department": "electronics",
+              "highValue": true
+            },
+            "children": [
+              {
+                "name": "TV Display",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  15,
+                  6,
+                  12
+                ],
+                "metadata": {
+                  "type": "display",
+                  "units": 45
+                }
+              },
+              {
+                "name": "Mobile Phones",
+                "position": [
+                  20,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  12,
+                  4,
+                  12
+                ],
+                "metadata": {
+                  "type": "secure-display",
+                  "staff": 3
+                }
+              },
+              {
+                "name": "Computing",
+                "position": [
+                  2,
+                  0,
+                  16
+                ],
+                "dimension": [
+                  30,
+                  5,
+                  12
+                ],
+                "metadata": {
+                  "laptops": 60,
+                  "desktops": 25
+                }
+              }
+            ]
+          },
+          {
+            "name": "Home & Garden",
+            "position": [
+              100,
+              0,
+              5
+            ],
+            "dimension": [
+              35,
+              8,
+              45
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "department": "home-garden"
+            },
+            "children": [
+              {
+                "name": "Furniture Display",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  30,
+                  6,
+                  18
+                ],
+                "metadata": {
+                  "showrooms": 8
+                }
+              },
+              {
+                "name": "Kitchen Appliances",
+                "position": [
+                  2,
+                  0,
+                  22
+                ],
+                "dimension": [
+                  15,
+                  5,
+                  10
+                ],
+                "metadata": {
+                  "type": "appliances"
+                }
+              },
+              {
+                "name": "Garden Center",
+                "position": [
+                  2,
+                  0,
+                  34
+                ],
+                "dimension": [
+                  30,
+                  4,
+                  10
+                ],
+                "metadata": {
+                  "outdoor": true,
+                  "seasonal": true
+                }
+              }
+            ]
+          },
+          {
+            "name": "Clothing Section",
+            "position": [
+              5,
+              0,
+              55
+            ],
+            "dimension": [
+              60,
+              8,
+              40
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "department": "clothing"
+            },
+            "children": [
+              {
+                "name": "Women's Wear",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  25,
+                  6,
+                  18
+                ],
+                "metadata": {
+                  "category": "womens",
+                  "fittingRooms": 6
+                }
+              },
+              {
+                "name": "Men's Wear",
+                "position": [
+                  30,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  25,
+                  6,
+                  18
+                ],
+                "metadata": {
+                  "category": "mens",
+                  "fittingRooms": 4
+                }
+              },
+              {
+                "name": "Kids Section",
+                "position": [
+                  2,
+                  0,
+                  22
+                ],
+                "dimension": [
+                  25,
+                  5,
+                  15
+                ],
+                "metadata": {
+                  "category": "kids"
+                }
+              },
+              {
+                "name": "Shoes",
+                "position": [
+                  30,
+                  0,
+                  22
+                ],
+                "dimension": [
+                  25,
+                  5,
+                  15
+                ],
+                "metadata": {
+                  "category": "footwear"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Checkout Area",
+            "position": [
+              70,
+              0,
+              55
+            ],
+            "dimension": [
+              65,
+              5,
+              40
+            ],
+            "isBackSide": true,
+            "metadata": {
+              "department": "checkout"
+            },
+            "children": [
+              {
+                "name": "Regular Registers 1-10",
+                "position": [
+                  2,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  30,
+                  4,
+                  8
+                ],
+                "metadata": {
+                  "registers": 10,
+                  "staffed": 7,
+                  "type": "manned"
+                }
+              },
+              {
+                "name": "Regular Registers 11-20",
+                "position": [
+                  35,
+                  0,
+                  2
+                ],
+                "dimension": [
+                  28,
+                  4,
+                  8
+                ],
+                "metadata": {
+                  "registers": 10,
+                  "staffed": 5,
+                  "type": "manned"
+                }
+              },
+              {
+                "name": "Self-Checkout Zone",
+                "position": [
+                  2,
+                  0,
+                  14
+                ],
+                "dimension": [
+                  40,
+                  4,
+                  12
+                ],
+                "metadata": {
+                  "kiosks": 16,
+                  "active": 14,
+                  "type": "self-service"
+                }
+              },
+              {
+                "name": "Customer Service",
+                "position": [
+                  45,
+                  0,
+                  14
+                ],
+                "dimension": [
+                  18,
+                  4,
+                  8
+                ],
+                "metadata": {
+                  "counters": 4,
+                  "returns": true
+                }
+              },
+              {
+                "name": "Shopping Cart Corral",
+                "position": [
+                  2,
+                  0,
+                  30
+                ],
+                "dimension": [
+                  60,
+                  2,
+                  8
+                ],
+                "metadata": {
+                  "carts": 200
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Back Warehouse",
+        "position": [
+          30,
+          1,
+          135
+        ],
+        "dimension": [
+          100,
+          10,
+          35
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "type": "warehouse"
+        },
+        "children": [
+          {
+            "name": "Receiving Dock",
+            "position": [
+              5,
+              0,
+              25
+            ],
+            "dimension": [
+              30,
+              8,
+              8
+            ],
+            "metadata": {
+              "docks": 6,
+              "active": 3
+            }
+          },
+          {
+            "name": "Overstock Storage",
+            "position": [
+              5,
+              0,
+              5
+            ],
+            "dimension": [
+              45,
+              8,
+              18
+            ],
+            "metadata": {
+              "racks": 40,
+              "pallets": 800
+            }
+          },
+          {
+            "name": "Online Order Staging",
+            "position": [
+              55,
+              0,
+              5
+            ],
+            "dimension": [
+              40,
+              8,
+              18
+            ],
+            "metadata": {
+              "type": "ecommerce",
+              "pendingOrders": 145
+            }
+          },
+          {
+            "name": "Cold Room",
+            "position": [
+              55,
+              0,
+              25
+            ],
+            "dimension": [
+              20,
+              8,
+              8
+            ],
+            "metadata": {
+              "temperature": "-18°C"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Parking Lot",
+        "position": [
+          140,
+          1,
+          135
+        ],
+        "dimension": [
+          60,
+          1,
+          35
+        ],
+        "isBackSide": true,
+        "metadata": {
+          "spaces": 500,
+          "occupied": 342,
+          "evChargers": 20
+        }
+      },
+      {
+        "name": "Store Systems",
+        "position": [
+          180,
+          40,
+          80
+        ],
+        "dimension": [
+          16,
+          10,
+          16
+        ],
+        "VisualType": "ReactComponent",
+        "VisualName": "LiderCloud",
+        "children": [
+          {
+            "name": "POS System",
+            "position": [
+              2,
+              0,
+              2
+            ],
+            "dimension": [
+              5,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "pos",
+              "transactions": 4521
+            }
+          },
+          {
+            "name": "Inventory Management",
+            "position": [
+              9,
+              0,
+              2
+            ],
+            "dimension": [
+              5,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "inventory",
+              "skus": 45000
+            }
+          },
+          {
+            "name": "Customer Analytics",
+            "position": [
+              5,
+              0,
+              9
+            ],
+            "dimension": [
+              6,
+              4,
+              5
+            ],
+            "metadata": {
+              "type": "analytics",
+              "footfallToday": 8934
+            }
+          }
+        ],
+        "isBackSide": true
+      }
+    ]
+  },
+  "connections": [
+    {
+      "from": "Checkout Area",
+      "to": "POS System",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Sales Transactions"
+    },
+    {
+      "from": "Back Warehouse",
+      "to": "Inventory Management",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Stock Updates"
+    },
+    {
+      "from": "Self-Checkout Zone",
+      "to": "Customer Analytics",
+      "animationType": "batch-transfer",
+      "dataProvider": "fake-batch-data",
+      "label": "Shopping Patterns"
+    }
+  ]
+}

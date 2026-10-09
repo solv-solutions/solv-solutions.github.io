@@ -1,0 +1,71 @@
+1
+00:00:03,003 --> 00:00:13,073
+Bu, esnek ambalaj dönüştüren bir tesisin sipariş panosu: açık her sipariş, her adımıyla, müşteriye verilen tarihe göre.
+
+2
+00:00:13,395 --> 00:00:23,626
+Laminasyon, kür, dilme, torba yapımı. Her adımın planlı mı, çalışıyor mu, bitti mi, planın gerisinde mi olduğu görünüyor.
+
+3
+00:00:23,948 --> 00:00:34,168
+Torba makinesi 2 cuma öğleden bu sabaha kadar durdu. Kuyruğundaki iki sipariş şimdi gecikmiş: biri bir gün, öteki üç gün.
+
+4
+00:00:34,490 --> 00:00:44,556
+Son sütun tarihe ne kadar güvenileceğini söylüyor: onaylı veri, henüz kimsenin bakmadığı ERP verisi ya da bir varsayım.
+
+5
+00:00:45,754 --> 00:00:55,277
+Bir müşteri arıyor: 60.000 vakum torbası, on gün içinde istiyor. Satış siparişi müşterinin verdiği gibi giriyor.
+
+6
+00:00:55,600 --> 00:01:01,207
+Tek tık, bugünkü plan bir tarihle cevap veriyor: istenen gün.
+
+7
+00:01:01,530 --> 00:01:12,443
+Bütün gerekçesiyle: PE film eksik, satın alma perşembe geliyor. Sonra laminasyon, 48 saat yapıştırıcı kürü, dilme ve torba yapımı.
+
+8
+00:01:12,766 --> 00:01:19,910
+Tarih bir varsayıma dayanıyor: torba makinesi 1'in hızını henüz kimse onaylamadı.
+
+9
+00:01:20,233 --> 00:01:24,300
+Planlama onaylıyor, tarih yeşile dönüyor.
+
+10
+00:01:24,622 --> 00:01:33,761
+Satış siparişi onaylıyor. Adımlar makine kuyruklarına giriyor, ERP'ye haber gidiyor, müşteri tarihi alıyor.
+
+11
+00:01:34,907 --> 00:01:39,849
+Müşterinin aldığı onay bu, kendi dilinde.
+
+12
+00:01:41,811 --> 00:01:48,719
+İki haftalık makine yükü. Yeni sipariş torba makinesi 1'in kuyruğunun sonunda.
+
+13
+00:01:49,041 --> 00:01:55,488
+Torba makinesi 2'de duruşun geciktirdiği iş, arkasındaki her işi itiyor.
+
+14
+00:02:01,822 --> 00:02:08,729
+Makine başında operatör makinedeki işi ve sıradakileri plan sırasıyla görüyor.
+
+15
+00:02:09,054 --> 00:02:15,269
+Torba makinesi işini bitiriyor: 60.000 torba. Siparişin son adımıydı.
+
+16
+00:02:15,592 --> 00:02:20,424
+Sipariş hazır, müşteriye aynı dakika haber gidiyor.
+
+17
+00:02:21,581 --> 00:02:25,934
+Panoda sipariş sevke hazır.
+
+18
+00:02:26,256 --> 00:02:38,398
+Tesisin kendi verisi üstüne kurulu: siparişler ve stok ERP'den, makineler ve kurallar kendi insanlarının onayıyla. Önce bir süreç, sonra sıradaki.

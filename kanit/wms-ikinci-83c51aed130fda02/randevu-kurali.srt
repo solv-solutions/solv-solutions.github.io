@@ -1,0 +1,23 @@
+1
+00:00:05,794 --> 00:00:12,893
+Randevu kuralları firma başına tanımlı. Günde en fazla kaç araç ve hangi rampalar.
+
+2
+00:00:13,539 --> 00:00:20,673
+Bu tedarikçiye günde bir randevu hakkı veriliyor.
+
+3
+00:00:21,320 --> 00:00:24,269
+Yedinci rampaya gelemez.
+
+4
+00:00:29,352 --> 00:00:47,167
+Tedarikçi bir gönderinin palet etiketlerini basıyor.
+
+5
+00:00:48,659 --> 00:00:57,510
+Randevu alırken yalnız izinli rampaları görüyor. Yedinci rampa listede yok.
+
+6
+00:00:58,960 --> 00:01:07,997
+Bugünkü hakkı dolu, ilk boş saat yarın. Hakkını ön bildirimdeki araç doldurdu.

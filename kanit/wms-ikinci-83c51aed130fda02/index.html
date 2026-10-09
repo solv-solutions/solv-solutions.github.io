@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS: ikinci tur · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 24px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0 0 20px; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); }
+  ul { padding-left: 18px; }
+  a { color: #3aa0ff; }
+  .note { margin-top: 24px; padding: 12px 14px; border-left: 2px solid #1f8fff; background: rgba(31, 143, 255, 0.08); color: #f5f9ff; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+  h2 { margin: 40px 0 4px; font-size: 18px; font-weight: 600; color: #f5f9ff; }
+  h2 span { color: #3aa0ff; font-variant-numeric: tabular-nums; margin-right: 8px; }
+  .toc { margin: 32px 0 0; padding: 12px 14px 12px 32px; border: 1px solid rgba(102, 152, 210, 0.28); }
+  .toc li { margin: 4px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS: ikinci tur</h1>
+  <p class="sub">İlk demodan sonra sorulan konular ve yeni gelenler: dalga toplama, liste ve kayıtlı görünüm, toplu transfer, LIFO ve depolama koşulu, görev ataması ve işlem teyidi, sayım ve COGI, randevu kuralları ve plakayla kabul, yük altında SAP kuyruğu. Tanıtım, 09.10.2026.</p>
+  <video src="ikinci-tur.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="ikinci-tur.mp4">Videoyu indir</a> (altyazılı)</li>
+  </ul>
+  <p class="note">Demo ortamı: SAP bağlantısı, firmalar ve veriler kurgu.</p>
+  <h2>Konu konu</h2>
+  <ol class="toc">
+    <li><a href="#dalga">01 · Dalga toplama ve yönlendirmeli toplama</a></li>
+    <li><a href="#liste">02 · Liste, filtre ve kayıtlı görünüm</a></li>
+    <li><a href="#toplu">03 · Toplu taşıma, iki okutmayla</a></li>
+    <li><a href="#lifo">04 · LIFO</a></li>
+    <li><a href="#depolama">05 · Depolama koşulları ve ayrı tutma</a></li>
+    <li><a href="#atama">06 · Görev ataması</a></li>
+    <li><a href="#teyit">07 · İşlem doğrulama</a></li>
+    <li><a href="#sayim">08 · Sayım</a></li>
+    <li><a href="#cogi">09 · COGI'den otomatik sayım</a></li>
+    <li><a href="#randevu-kurali">10 · Randevu kuralları</a></li>
+    <li><a href="#plaka">11 · Plaka bazında kabul ve ret</a></li>
+    <li><a href="#kuyruk">12 · SAP kuyruğu yük altında</a></li>
+  </ol>
+  <section id="dalga">
+  <h2><span>01</span>Dalga toplama ve yönlendirmeli toplama</h2>
+  <p class="sub">Birlikte sevk edilecek teslimatlar tek dalgada toplanır: bölge başına tek rota, raflar yürüme sırasıyla, paletler FIFO ve FEFO sırasıyla. El terminali sıradaki rafı ve paleti yazar; tek teslimatlık toplamada da yol gösterir.</p>
+  <video src="dalga.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="dalga.mp4">Videoyu indir</a></li>
+    <li><a href="dalga.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="liste">
+  <h2><span>02</span>Liste, filtre ve kayıtlı görünüm</h2>
+  <p class="sub">Bütün listeler aynı biçimde: 20.000'i aşkın palet tek tabloda, sayılı filtreler, kişiye özel kayıtlı görünüm, sütun düzeni, Excel'e aktarma; kayda tıklayınca detay yanda.</p>
+  <video src="liste.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="liste.mp4">Videoyu indir</a></li>
+    <li><a href="liste.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="toplu">
+  <h2><span>03</span>Toplu taşıma, iki okutmayla</h2>
+  <p class="sub">Palet yerinde okutulup alınır, forklifte geçer ve eski yeri boşalır; hedef okutulunca hepsi oraya bırakılır, biri kurala uymazsa hiçbiri bırakılmaz. Her palet bırakıldığı anda SAP'ye ayrı transfer olarak gider. Ofis taşımayı planlayabilir: hedef ayrılır, görev terminale düşer; kritik malzemenin taşıması onayla planlanır.</p>
+  <video src="toplu.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="toplu.mp4">Videoyu indir</a></li>
+    <li><a href="toplu.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="lifo">
+  <h2><span>04</span>LIFO</h2>
+  <p class="sub">FIFO ve FEFO'nun yanında LIFO: en son giren önce çıkar. Malzeme grubu başına kural setinde, gerekirse tek bir malzemeye kendi sırası verilir; hat beslemede sıra dışı palet reddedilir.</p>
+  <video src="lifo.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="lifo.mp4">Videoyu indir</a></li>
+    <li><a href="lifo.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="depolama">
+  <h2><span>05</span>Depolama koşulları ve ayrı tutma</h2>
+  <p class="sub">Malzeme grubu başına depolama koşulu ve her bölgenin sağladığı koşul ana veride; kimyasal iklimlendirilmiş alan dışına taşınamaz. Yanıcı kimyasal ile ambalaj gibi gruplar aynı lokasyonda durmaz; yerleştirme ve taşıma bu kurallara uyar.</p>
+  <video src="depolama.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="depolama.mp4">Videoyu indir</a></li>
+    <li><a href="depolama.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="atama">
+  <h2><span>06</span>Görev ataması</h2>
+  <p class="sub">Görev türü başına havuz ya da otomatik atama. İş yalnız vardiyada olan ve gereken belgeye sahip olana verilir (forklift işleri ehliyetliye); vardiyadan çıkanın başlamamış işleri yeniden dağıtılır. Vardiya lideri kişi ve bölge başına açık işi görür, görevi kişiye verir.</p>
+  <video src="atama.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="atama.mp4">Videoyu indir</a></li>
+    <li><a href="atama.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="teyit">
+  <h2><span>07</span>İşlem doğrulama</h2>
+  <p class="sub">İş doğru olsa bile sistem sorar: bu palet, bu yer, bu miktar; emin misiniz? Yerleştirme, taşıma, hat besleme, toplama ve yüklemede ayrı ayrı açılır; hangi malzemede sorulacağı kural setinde. İstenirse miktar sayılıp yazılır, tutmazsa hiçbir şey kaydedilmez.</p>
+  <video src="teyit.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="teyit.mp4">Videoyu indir</a></li>
+    <li><a href="teyit.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="sayim">
+  <h2><span>08</span>Sayım</h2>
+  <p class="sub">Kör sayım: sayan kişi beklenen paleti ve miktarı görmez. Sayım sürerken lokasyona palet girmez, çıkmaz. Her lokasyon okunarak ya da boş kaydedilerek kapanır; sistemde olmayan palet malzemesiyle sayılır. Her fark onaya gider (711/712); istenirse küçük farklar için tolerans tanımlanır.</p>
+  <video src="sayim.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="sayim.mp4">Videoyu indir</a></li>
+    <li><a href="sayim.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="cogi">
+  <h2><span>09</span>COGI'den otomatik sayım</h2>
+  <p class="sub">SAP'den gelen COGI kaydı sayım emrini kendiliğinden açar: son görüldüğü lokasyonlar ve hat. Operatör kör sayar, iki lokasyonu da kapatır; fark onaylanınca SAP'de stok düzelir.</p>
+  <video src="cogi.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="cogi.mp4">Videoyu indir</a></li>
+    <li><a href="cogi.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="randevu-kurali">
+  <h2><span>10</span>Randevu kuralları</h2>
+  <p class="sub">Firma başına günlük randevu hakkı ve izinli rampalar; portal yalnız izin verilenleri gösterir.</p>
+  <video src="randevu-kurali.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="randevu-kurali.mp4">Videoyu indir</a></li>
+    <li><a href="randevu-kurali.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="plaka">
+  <h2><span>11</span>Plaka bazında kabul ve ret</h2>
+  <p class="sub">Plaka yazılınca araçtaki irsaliye, sipariş ve etiketler görünür; araç tek tek okutmadan bütünüyle kabul ya da gerekçesiyle reddedilir.</p>
+  <video src="plaka.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="plaka.mp4">Videoyu indir</a></li>
+    <li><a href="plaka.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="kuyruk">
+  <h2><span>12</span>SAP kuyruğu yük altında</h2>
+  <p class="sub">Okutma SAP'yi beklemez; birikme arkada boşalır, üretim ve mal girişi önce gider. Kapasite ve uyarı eşiği kural setinde; 2.400 hareketlik yük testi.</p>
+  <video src="kuyruk.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="kuyruk.mp4">Videoyu indir</a></li>
+    <li><a href="kuyruk.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+</body>
+</html>

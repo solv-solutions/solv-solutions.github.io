@@ -1,0 +1,31 @@
+1
+00:00:05,075 --> 00:00:13,901
+Boş kasa havuzu çevrim sözleşmesindeki kasaları izliyor. 300 kasalık sözleşme: 280 depoda, 20 tedarikçide.
+
+2
+00:00:14,525 --> 00:00:22,987
+Operatör tedarikçiyi arayıp seçiyor.
+
+3
+00:00:23,607 --> 00:00:37,634
+30 boş kasayı kendi irsaliyesiyle gönderiyor. Kasanın irsaliyesi malzemeden ayrı.
+
+4
+00:00:38,303 --> 00:00:41,753
+Tedarikçideki kasa 50'ye çıktı.
+
+5
+00:00:42,398 --> 00:00:55,008
+Operatör tedarikçiden 60 kasa geri almak istiyor.
+
+6
+00:00:55,641 --> 00:01:00,014
+Tedarikçide olandan fazlası geri alınamıyor.
+
+7
+00:01:00,638 --> 00:01:08,766
+45 kasa dolu malzemeyle geri geldi.
+
+8
+00:01:09,387 --> 00:01:14,865
+Havuzun bakiyesi her hareketle güncel. Depoda 295 kasa var.

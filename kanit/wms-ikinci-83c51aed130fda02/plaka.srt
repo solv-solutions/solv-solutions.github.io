@@ -1,0 +1,35 @@
+1
+00:00:04,212 --> 00:00:12,287
+Vardiya lideri aracın plakasını yazıyor.
+
+2
+00:00:12,915 --> 00:00:18,223
+Araçtaki irsaliye, sipariş ve palet etiketleri görünüyor.
+
+3
+00:00:18,845 --> 00:00:23,152
+Araç gerekçesiyle bütünüyle reddedilebilir.
+
+4
+00:00:23,779 --> 00:00:35,737
+Kabul için araçtaki paletler sayılıp yazılıyor. Sayı irsaliyeyle tutmazsa paletler tek tek okutulur.
+
+5
+00:00:36,360 --> 00:00:44,474
+Sayı tutuyor: araç tek tuşla kabul ediliyor.
+
+6
+00:00:45,095 --> 00:00:52,752
+Her palet okutulmuş gibi kontrol edildi. Rafları belirlendi, mal girişleri SAP'ye gidiyor.
+
+7
+00:00:58,610 --> 00:01:05,554
+Operatör paleti rafa götürmek için görevi açıyor.
+
+8
+00:01:06,174 --> 00:01:17,301
+Palet rampada yoksa eksik bildiriyor.
+
+9
+00:01:17,943 --> 00:01:27,819
+Palet stoktan çıktı, rafa taşıma görevi listeden düştü. İrsaliyeye eksik tutanağı açıldı, mal girişi SAP'den geri alındı.

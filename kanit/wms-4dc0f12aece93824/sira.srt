@@ -1,0 +1,31 @@
+1
+00:00:04,216 --> 00:00:13,329
+Çıkış sırası kural setinde, malzeme grubu başına seçiliyor. Köpük kimyasalı şu an FIFO: önce giren önce çıkar.
+
+2
+00:00:20,067 --> 00:00:29,026
+Operatör ikinci hattın iş emrini besliyor.
+
+3
+00:00:29,645 --> 00:00:37,359
+Sonra gelen kimyasal paletini okutuyor.
+
+4
+00:00:37,978 --> 00:00:41,574
+Sistem önce gelen paleti istiyor.
+
+5
+00:00:47,512 --> 00:00:55,658
+Sistem operatörü kimyasal grubunu FEFO'ya çeviriyor.
+
+6
+00:00:56,308 --> 00:01:01,277
+Artık son kullanma tarihi en yakın palet önce çıkar.
+
+7
+00:01:11,245 --> 00:01:19,694
+Operatör aynı paleti yeniden okutuyor.
+
+8
+00:01:20,310 --> 00:01:27,976
+Palet bu kez hatta gidiyor. Son kullanma tarihi etiketten okundu, bu paletinki daha yakın.

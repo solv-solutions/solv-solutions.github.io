@@ -1,0 +1,39 @@
+1
+00:00:05,004 --> 00:00:11,886
+Operatör paleti okutuyor.
+
+2
+00:00:12,502 --> 00:00:21,953
+Paletin bir kısmını ayırıyor: 10 adet.
+
+3
+00:00:22,586 --> 00:00:26,929
+Ayrılan kısım yeni bir palet numarası aldı.
+
+4
+00:00:27,556 --> 00:00:37,047
+Operatör yeni paleti okutup birleştirmeyi seçiyor.
+
+5
+00:00:37,674 --> 00:00:45,904
+Hedef paleti okutunca iki palet birleşiyor.
+
+6
+00:00:46,536 --> 00:00:51,237
+Boşalan paletin numarası kapandı ama kaybolmadı.
+
+7
+00:00:52,688 --> 00:01:02,112
+Sabahki iş emrinden artan raflar aynı palete dönüyor.
+
+8
+00:01:02,737 --> 00:01:11,080
+İade iş emrine bağlı. O emre verilenden fazlası dönemez.
+
+9
+00:01:11,703 --> 00:01:19,482
+İade SAP'ye 262 hareketiyle iş emrine yazılıyor.
+
+10
+00:01:20,122 --> 00:01:28,360
+Paletin geçmişi duruyor: bölme, birleştirme, iade. Her satırda kim yaptı, ne zaman, hangi paletle.

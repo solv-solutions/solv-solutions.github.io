@@ -1,0 +1,31 @@
+1
+00:00:05,230 --> 00:00:15,971
+Depolama koşulu malzeme grubu başına tanımlı. Normal, iklimlendirilmiş ya da tehlikeli madde. Kimyasal iklimlendirilmiş alanda durur.
+
+2
+00:00:16,593 --> 00:00:23,823
+Her bölgenin sağladığı koşul da ana veride. A bölgesi yalnız normal koşulu sağlıyor.
+
+3
+00:00:24,443 --> 00:00:34,534
+Bazı gruplar aynı lokasyonda durmaz: yanıcı kimyasal ile ambalaj. Yerleştirme yanına planlamıyor, taşıma oraya bırakılmıyor.
+
+4
+00:00:41,226 --> 00:00:49,003
+Operatör kimyasal paleti alıyor.
+
+5
+00:00:49,651 --> 00:00:57,686
+Paleti normal bir alana bırakmak istiyor.
+
+6
+00:00:58,328 --> 00:01:05,567
+Sistem reddediyor ve nedenini yazıyor. A bölgesi iklimlendirilmiş koşulu sağlamıyor.
+
+7
+00:01:06,192 --> 00:01:16,331
+Operatör iklimlendirilmiş C bölgesinde bir lokasyon okutuyor.
+
+8
+00:01:16,959 --> 00:01:25,483
+Taşıma kabul edildi. Yerleştirme de aynı kurala uyar: kimyasal kabulde iklimlendirilmiş bölgeye gider.

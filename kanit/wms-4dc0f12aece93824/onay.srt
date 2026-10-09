@@ -1,0 +1,51 @@
+1
+00:00:02,525 --> 00:00:11,952
+Operatör toplama görevini açıp bir palet okutuyor.
+
+2
+00:00:12,576 --> 00:00:17,817
+Sistem FIFO kırmızısı veriyor. Önce gelen palet çıkmalı.
+
+3
+00:00:18,440 --> 00:00:30,768
+Operatör öncelikli palete erişemiyor, nedenini yazıp onay istiyor.
+
+4
+00:00:35,865 --> 00:00:43,182
+Talep onaylayacak kişiye bildirim olarak düştü. Bildirim uygulamaya ve Teams'e gitti.
+
+5
+00:00:46,320 --> 00:00:53,069
+Akışta yazan hedef süre işliyor. Vardiya lideri 10 dakika içinde karar verir.
+
+6
+00:00:53,696 --> 00:01:01,440
+Vardiya lideri talebi onaylıyor.
+
+7
+00:01:03,710 --> 00:01:12,100
+Sebep kodu ve kapanış nedeni kendiliğinden kayda geçti. Kim, ne zaman, neden: hepsi akış geçmişinde.
+
+8
+00:01:17,140 --> 00:01:24,446
+Operatör paleti yeniden okutuyor.
+
+9
+00:01:25,091 --> 00:01:28,327
+Palet bu istisnayla geçiyor.
+
+10
+00:01:35,927 --> 00:01:44,229
+Hedef süresinde karar verilmeyen talep depo müdürüne yükseldi. Yükselme anı da bildirim de kayıtta.
+
+11
+00:01:50,092 --> 00:01:58,460
+Eksik belgeyle şartlı kabulün onayı iki seviyeli. Vardiya lideri onayladı, karar şimdi mali işlerde.
+
+12
+00:02:04,350 --> 00:02:11,379
+Bütün istisnalar aynı motorla çalışıyor. 19 akışın her biri bu tabloda bir satır.
+
+13
+00:02:11,998 --> 00:02:20,515
+Satırda istisna türü, onay seviyeleri ve hedef süre var. Eskalasyon, form ve bildirim de aynı satırda.

@@ -1,0 +1,23 @@
+1
+00:00:03,385 --> 00:00:11,546
+Cevap en üstte: hangi alan saat kaçta doluyor. En sıkışık anda kaç palet yeri kaldığı da yazıyor.
+
+2
+00:00:12,166 --> 00:00:16,544
+Altta her alan bir satır, her kare bir saat.
+
+3
+00:00:17,167 --> 00:00:21,477
+Yeşil rahat, turuncu sıkışık, kırmızı dolu.
+
+4
+00:00:22,116 --> 00:00:27,778
+Karedeki sayı boş palet yeri. Yalnız değiştiği saatte yazıyor.
+
+5
+00:00:28,400 --> 00:00:32,729
+Kalite bekleme alanı saat 13:00'te doluyor.
+
+6
+00:00:33,351 --> 00:00:41,516
+Vardiya bunu sabahtan görüyor. Bir randevu kaydırılabilir ya da kalite kontrol hızlandırılabilir.

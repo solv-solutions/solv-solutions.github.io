@@ -1,0 +1,43 @@
+1
+00:00:02,527 --> 00:00:11,369
+Tedarikçi önce palet etiketlerini basıyor.
+
+2
+00:00:12,843 --> 00:00:16,778
+Randevu alınmadan sevk düğmesi kapalı.
+
+3
+00:00:17,391 --> 00:00:24,280
+Tedarikçi rampayı ve saati seçip randevu alıyor.
+
+4
+00:00:24,919 --> 00:00:31,943
+Randevuyla sevk açıldı, tedarikçi sevke çıkarıyor.
+
+5
+00:00:32,580 --> 00:00:37,072
+Sevkiyat yola çıktı, rampası ve saati kayıtlı.
+
+6
+00:00:42,978 --> 00:00:50,290
+Vardiya lideri depoda rampa takvimini görüyor. SAP'den gelen ön bildirimler takvimde.
+
+7
+00:00:50,925 --> 00:00:57,163
+Portal randevuları da aynı takvimde. Tedarikçinin az önce aldığı saat.
+
+8
+00:00:57,793 --> 00:01:04,858
+Araç gelince tek dokunuşla mal kabul işi açılıyor.
+
+9
+00:01:09,095 --> 00:01:16,184
+Operatör el terminalinde mal kabul görevini açıyor.
+
+10
+00:01:16,809 --> 00:01:24,735
+Tedarikçinin bastığı etiketi okutuyor.
+
+11
+00:01:25,377 --> 00:01:30,902
+Etiket siparişle ve irsaliyeyle eşleşti, palet kabule girdi.

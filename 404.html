@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<script>
+  // Smart 404 routing for multi-project GitHub Pages
+  // SPA subpaths get sessionStorage-based redirect
+  (function() {
+    var path = window.location.pathname;
+    var spaSubpaths = ['/product/autolead/', '/product/wms/', '/product/mirro/'];
+    for (var i = 0; i < spaSubpaths.length; i++) {
+      if (path.startsWith(spaSubpaths[i])) {
+        sessionStorage.setItem('spa-redirect', path + window.location.search + window.location.hash);
+        window.location.replace(spaSubpaths[i]);
+        return;
+      }
+    }
+    // For root-level unknown paths, fall through to website's own 404 handling
+  })();
+</script>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/assets/solv-logo-light-zYA6aBse.svg"
+    />
+    <!-- href="/vite.svg" -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <!--seo:start-->
+    <title>Solv | We simplify, digitally</title>
+    <meta name="description" content="Solv develops industrial software that turns complex operations into clear, manageable systems. Mirro is the live digital twin of your plant. AutoShip verifies shipments at the loading gate with RFID." />
+    <link rel="canonical" href="https://www.solv.com.tr/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Solv" />
+    <meta property="og:url" content="https://www.solv.com.tr/" />
+    <meta property="og:title" content="Solv | We simplify, digitally" />
+    <meta property="og:description" content="Solv develops industrial software that turns complex operations into clear, manageable systems. Mirro is the live digital twin of your plant. AutoShip verifies shipments at the loading gate with RFID." />
+    <meta property="og:image" content="https://www.solv.com.tr/og/solv.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!--seo:end-->
+    <meta name="robots" content="index, follow" />
+    <!-- Add Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Open Sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-DTkVlTm1.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BALqlJRr.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

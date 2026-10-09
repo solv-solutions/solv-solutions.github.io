@@ -1,0 +1,63 @@
+1
+00:00:04,221 --> 00:00:12,255
+Vardiya lideri günün teslimatlarını tek listede görüyor. Yükleme saati, rampa, müşteri ve adet.
+
+2
+00:00:12,885 --> 00:00:21,046
+Liste ihracat ya da yükleme saatiyle anında daralıyor.
+
+3
+00:00:21,688 --> 00:00:25,933
+Listede yalnız ihracat teslimatları kaldı.
+
+4
+00:00:27,371 --> 00:00:33,219
+En erken altı teslimat seçiliyor.
+
+5
+00:00:33,853 --> 00:00:39,106
+Dalga başlatılıyor.
+
+6
+00:00:39,737 --> 00:00:44,847
+Dalga başladı, sistem her bölge için tek rota çıkardı.
+
+7
+00:00:45,486 --> 00:00:53,927
+Raflar yürüme sırasıyla, paletler FIFO ve FEFO sırasıyla geliyor. Her rota bir toplama görevi oluyor.
+
+8
+00:00:58,171 --> 00:01:04,499
+Toplayıcı el terminalinde rotayı açıyor.
+
+9
+00:01:05,114 --> 00:01:13,644
+Ekran sıradaki rafı büyük yazıyor. Altında hangi palet, kaç adet ve hangi teslimat için alınacağı var.
+
+10
+00:01:14,267 --> 00:01:21,078
+Toplayıcı paleti okutuyor.
+
+11
+00:01:21,720 --> 00:01:26,808
+Palet teslimatına gitti, ekran bir sonraki rafa geçti.
+
+12
+00:01:27,431 --> 00:01:39,175
+Rota yürüme sırasıyla ilerliyor. Rota bitince paletler teslimatların sevk alanlarına ayrılıyor.
+
+13
+00:01:42,264 --> 00:01:49,308
+Tek teslimatlık toplamada da ekran yol gösteriyor.
+
+14
+00:01:49,931 --> 00:01:54,672
+FIFO'nun ilk gönderdiği paleti ve rafını yazıyor.
+
+15
+00:01:55,299 --> 00:02:03,457
+Başka bir palet okutulursa sistem durduruyor.
+
+16
+00:02:04,081 --> 00:02:08,175
+Sistem nedenini ve doğru paleti yazıyor.

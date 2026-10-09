@@ -1,0 +1,43 @@
+1
+00:00:04,248 --> 00:00:11,474
+Bütün listeler aynı biçimde çalışıyor. Paletler listesinde 20.000'i aşkın kayıt var.
+
+2
+00:00:12,095 --> 00:00:19,711
+Her filtre seçeneğinin yanında kaç kayıt kalacağı yazıyor.
+
+3
+00:00:20,352 --> 00:00:25,542
+Bir seçenek seçiliyor.
+
+4
+00:00:26,189 --> 00:00:29,124
+Liste anında daraldı.
+
+5
+00:00:29,748 --> 00:00:40,126
+Vardiya lideri bu filtreyi bir adla kaydediyor.
+
+6
+00:00:40,769 --> 00:00:47,206
+Görünüm kişiye özel. Hangi cihazdan girerse girsin aynı görünümü buluyor.
+
+7
+00:00:47,851 --> 00:00:55,099
+Sütunlar sıralanıyor, gizleniyor ve yer değiştiriyor.
+
+8
+00:00:55,735 --> 00:01:01,428
+Düzen kişiye göre hatırlanıyor.
+
+9
+00:01:02,084 --> 00:01:08,242
+Liste tek düğmeyle Excel'e aktarılıyor. Görünen sütunlar, bu sırayla.
+
+10
+00:01:12,985 --> 00:01:19,516
+Bir kayda tıklayınca detayı yanda açılıyor.
+
+11
+00:01:20,149 --> 00:01:28,382
+Liste yerinde kalıyor. Teslimat hazır olunca araç, kontrol listesi ve mal çıkışı burada işleniyor.
