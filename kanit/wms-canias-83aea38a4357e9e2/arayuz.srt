@@ -1,0 +1,27 @@
+1
+00:00:02,584 --> 00:00:08,078
+Durum çubuğu bağlı Canias sistemini ve kuyruğu gösteriyor.
+
+2
+00:00:10,642 --> 00:00:21,525
+Canias tarafı: her alışveriş Canias'ın kendi adıyla. Standart WMS web servisleri yazar, SQL görünümleri okunur; belge numarası sonuçta.
+
+3
+00:00:22,162 --> 00:00:30,342
+Malzeme kartları gece GetMaterial servisinden okundu. Canias'ın standart servisi, CINVWEBSERVICE.
+
+4
+00:00:30,979 --> 00:00:40,070
+Sevk siparişleri ListDeliveryRFID ile geldi. Yükleme kapısındaki RFID doğrulamanın kullandığı servisin aynısı.
+
+5
+00:00:40,692 --> 00:00:48,201
+Bir satır açılınca gönderilen veri olduğu gibi görünüyor.
+
+6
+00:00:51,541 --> 00:01:02,773
+Her iş adımı tanımda: tetikleyen, kural, okutma, Canias'a ne yazılır. Mal kabulde WMSPurchaseSave, konteyner başına satınalma giriş belgesi.
+
+7
+00:01:03,388 --> 00:01:07,789
+Tanım değişince davranış değişir; kod değil.

@@ -1,0 +1,31 @@
+1
+00:00:02,529 --> 00:00:10,693
+Tedarikçi portalda kendi açık siparişlerini görüyor. Her satırda basılabilecek miktar yazıyor.
+
+2
+00:00:11,389 --> 00:00:21,454
+Tedarikçi siparişini arayıp seçiyor.
+
+3
+00:00:22,148 --> 00:00:29,651
+Kaç palet göndereceğini giriyor.
+
+4
+00:00:30,509 --> 00:00:37,990
+Palet başına miktarı giriyor.
+
+5
+00:00:38,668 --> 00:00:43,274
+İrsaliye numarası girilmeden etiket basılmıyor.
+
+6
+00:00:43,903 --> 00:00:53,336
+İrsaliye numarasını yazıp etiketleri basıyor.
+
+7
+00:00:53,988 --> 00:00:58,177
+İki palete birer barkodlu etiket basıldı.
+
+8
+00:00:58,811 --> 00:01:05,551
+Siparişte basılabilecek miktar kendiliğinden düştü. 96 adetten 48 adet kaldı.

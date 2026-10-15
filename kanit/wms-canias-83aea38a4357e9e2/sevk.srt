@@ -1,0 +1,43 @@
+1
+00:00:02,700 --> 00:00:09,861
+Operatör pet shop zincirinin siparişini topluyor.
+
+2
+00:00:10,685 --> 00:00:15,773
+Sistem sıradaki paleti söylüyor: tarihi en yakın olan.
+
+3
+00:00:16,397 --> 00:00:41,109
+Palet okutulur, sevk hazırlık alanına bırakılır; dört palet.
+
+4
+00:00:50,228 --> 00:00:59,505
+Araç geldi: vardiya lideri plakayı yazıyor.
+
+5
+00:01:00,127 --> 00:01:07,890
+Plaka sevk planıyla eşleşti, kontrol listesi açıldı. Sistemin gördüğünü sistem işaretliyor.
+
+6
+00:01:12,117 --> 00:01:18,740
+Yükleme görevi operatörün terminaline düştü.
+
+7
+00:01:19,358 --> 00:01:37,871
+Kapıda her palet okutularak araca giriyor. Yanlış palet kırmızı; dört palet, dördü de yeşil.
+
+8
+00:01:47,062 --> 00:01:51,718
+Paletler okundu, listede kendiliğinden işaretli.
+
+9
+00:01:52,341 --> 00:02:03,585
+Kasa kontrolü ve mühür numarası; puantör onayı.
+
+10
+00:02:04,212 --> 00:02:11,550
+Liste tamam: sevk belgesi Canias'a gidiyor.
+
+11
+00:02:12,177 --> 00:02:22,551
+Canias sevk belgesini kesti, e-irsaliye arkasından gitti. WMSDeliverySave sevk belgesini yazdı, e-irsaliye ancak teyitten sonra.

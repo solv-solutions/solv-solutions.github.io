@@ -1,0 +1,19 @@
+1
+00:00:04,205 --> 00:00:13,293
+SAP planı bir kompresörü birinci hatta acil gösteriyor. Bu malzemenin paleti rafa değil, doğrudan hatta gider.
+
+2
+00:00:13,916 --> 00:00:25,509
+Vardiya lideri bir malzemeyi kendisi de işaretliyor.
+
+3
+00:00:26,152 --> 00:00:34,891
+Nedenini yazıp bayrağı koyuyor.
+
+4
+00:00:35,535 --> 00:00:42,573
+Elle konan bayrağı SAP verisi ezmiyor. Bayrağı yalnız bir kişi elle kaldırabilir.
+
+5
+00:00:43,199 --> 00:00:51,646
+Bayrağın etkisi satırda yazıyor. Rampadaki 3 kompresör paleti kabulde doğrudan birinci hatta gidecek.

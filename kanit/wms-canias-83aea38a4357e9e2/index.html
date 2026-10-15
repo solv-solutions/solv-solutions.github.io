@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS · Canias · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 24px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0 0 20px; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); }
+  ul { padding-left: 18px; }
+  a { color: #3aa0ff; }
+  .note { margin-top: 24px; padding: 12px 14px; border-left: 2px solid #1f8fff; background: rgba(31, 143, 255, 0.08); color: #f5f9ff; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+  h2 { margin: 40px 0 4px; font-size: 18px; font-weight: 600; color: #f5f9ff; }
+  h2 span { color: #3aa0ff; font-variant-numeric: tabular-nums; margin-right: 8px; }
+  .toc { margin: 32px 0 0; padding: 12px 14px 12px 32px; border: 1px solid rgba(102, 152, 210, 0.28); }
+  .toc li { margin: 4px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS · Canias</h1>
+  <p class="sub">Kural motorlu depo yönetimi, Canias ERP ile entegre: hammadde kabulünden yükleme kapısına, el terminali, tablet ve ofis aynı programda. Tanıtım, 15.10.2026.</p>
+  <video src="tanitim.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="tanitim.mp4">Videoyu indir</a> (altyazılı)</li>
+  </ul>
+  <p class="note">Demo ortamı: Canias bağlantısı mock, firmalar ve veriler kurgu. Menüde soluk görünen ekranlar kapsamda, bu demoda kapalı.</p>
+  <h2>Konu konu</h2>
+  <ol class="toc">
+    <li><a href="#kabul">01 · Canias ile hammadde kabulü</a></li>
+    <li><a href="#fefo">02 · Son kullanma tarihiyle hat besleme</a></li>
+    <li><a href="#sevk">03 · Yükleme kapısı ve sevk belgesi</a></li>
+    <li><a href="#arayuz">04 · Canias arayüzü ve iş adımı tanımları</a></li>
+  </ol>
+  <section id="kabul">
+  <h2><span>01</span>Canias ile hammadde kabulü</h2>
+  <p class="sub">Canias'tan gelen eksik malzeme kartı kapıda durur, istisnayla açılır; rampada paletler okutulur, her palet için Canias'a satınalma girişi gider (WMSPurchaseSave), kilitli kayıt kuyrukta kendiliğinden yeniden denenir.</p>
+  <video src="kabul.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="kabul.mp4">Videoyu indir</a></li>
+    <li><a href="kabul.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="fefo">
+  <h2><span>02</span>Son kullanma tarihiyle hat besleme</h2>
+  <p class="sub">Varsayılan çıkış sırası FEFO: operatör önce gelen paleti okutunca sistem tarihi daha yakın olanı ister; hatta giden palet iş emrine bağlanır, Canias'a üretime çıkış hareketi gider.</p>
+  <video src="fefo.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="fefo.mp4">Videoyu indir</a></li>
+    <li><a href="fefo.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="sevk">
+  <h2><span>03</span>Yükleme kapısı ve sevk belgesi</h2>
+  <p class="sub">Toplayıcı tarihi en yakın paletleri sevk hazırlığa alır; plaka sevk planıyla eşleşince kontrol listesi açılır, kapıda her palet okutulur, mühür numarasıyla liste tamamlanır, Canias sevk belgesini keser (WMSDeliverySave) ve e-irsaliye arkasından gider.</p>
+  <video src="sevk.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="sevk.mp4">Videoyu indir</a></li>
+    <li><a href="sevk.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <section id="arayuz">
+  <h2><span>04</span>Canias arayüzü ve iş adımı tanımları</h2>
+  <p class="sub">Her alışveriş Canias'ın kendi adıyla: standart WMS web servisleri yazar, SQL görünümleri okunur, tesisin ListDeliveryRFID servisi sevk siparişlerini getirir; her iş adımının tanımında Canias'a ne yazılacağı yazılı.</p>
+  <video src="arayuz.mp4" controls playsinline preload="metadata"></video>
+  <ul>
+    <li><a href="arayuz.mp4">Videoyu indir</a></li>
+    <li><a href="arayuz.srt">Altyazı dosyası</a></li>
+  </ul>
+  </section>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+</body>
+</html>

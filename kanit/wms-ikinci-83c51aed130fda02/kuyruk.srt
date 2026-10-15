@@ -1,0 +1,35 @@
+1
+00:00:04,204 --> 00:00:13,443
+SAP'ye giden kuyruk bir bakışta okunuyor. Bekleyen hareket, doluluk, son bir dakikada giden ve en eski bekleyen.
+
+2
+00:00:14,066 --> 00:00:18,793
+Kuyruğun kapasitesi ve uyarı eşiği kural setinde.
+
+3
+00:00:19,416 --> 00:00:26,850
+Bir vardiyanın üretim barkodları aynı anda geliyor: 2.400 hareket.
+
+4
+00:00:27,464 --> 00:00:37,475
+Kuyruk kapasitesinin üstünde, hiçbir hareket kaybolmuyor. Üretim ve mal girişi önce, transfer ve düzeltmeler sonra gidiyor.
+
+5
+00:00:44,183 --> 00:00:54,993
+Bu sırada el terminalinde iş durmuyor. Operatör bir paleti taşımak için okutuyor.
+
+6
+00:00:55,614 --> 00:01:02,423
+Hedef lokasyonu okutuyor.
+
+7
+00:01:03,051 --> 00:01:08,142
+Okutma SAP'yi beklemeden bitti, hareket kuyruğa girdi.
+
+8
+00:01:14,230 --> 00:01:18,643
+Kuyruk arkada boşalıyor.
+
+9
+00:01:19,281 --> 00:01:22,857
+Doluluk düştükçe uyarı kalkıyor.

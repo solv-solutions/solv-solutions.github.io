@@ -1,0 +1,39 @@
+1
+00:00:05,899 --> 00:00:15,396
+Operatör mal kabul tutanağı için irsaliyeyi okutuyor.
+
+2
+00:00:16,033 --> 00:00:19,973
+Teslimat ve kalem kendiliğinden geldi.
+
+3
+00:00:20,598 --> 00:00:31,345
+Bir koli hasarlı: operatör hasarı seçip notunu yazıyor.
+
+4
+00:00:31,963 --> 00:00:37,191
+Hasarlı kolinin fotoğrafını çekiyor.
+
+5
+00:00:37,812 --> 00:00:43,418
+Operatör tutanağı kaydediyor.
+
+6
+00:00:44,049 --> 00:00:49,473
+Fotoğraf tutanağa bağlı, tedarikçiye kanıt olarak gidiyor.
+
+7
+00:00:55,363 --> 00:01:01,881
+Vardiya lideri tutanağı tabletinde açıyor.
+
+8
+00:01:02,515 --> 00:01:11,985
+Çözümü seçip yazıyor.
+
+9
+00:01:12,612 --> 00:01:17,804
+Tutanağı kapatıyor.
+
+10
+00:01:18,431 --> 00:01:23,051
+Kim, ne zaman, neye karar verdi: hepsi kayıtta.

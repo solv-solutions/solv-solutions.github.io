@@ -1,0 +1,35 @@
+1
+00:00:05,272 --> 00:00:15,509
+Çıkış sırası kural setinde, malzeme grubu başına tanımlı. FIFO ve FEFO'nun yanında artık LIFO da var: en son giren önce çıkar.
+
+2
+00:00:16,132 --> 00:00:22,946
+Kimyasal grubu LIFO'ya çevriliyor.
+
+3
+00:00:23,565 --> 00:00:31,723
+Gerekirse tek bir malzemeye kendi sırası verilir. Malzemenin sırası grubun sırasından önce gelir.
+
+4
+00:00:38,416 --> 00:00:44,923
+Operatör ikinci hattı besliyor.
+
+5
+00:00:45,548 --> 00:00:51,611
+Hattın iş emrini seçiyor.
+
+6
+00:00:52,253 --> 00:00:59,909
+Önce gelen kimyasal paletini okutuyor.
+
+7
+00:01:00,552 --> 00:01:05,361
+Sistem kabul etmiyor, en son gelen paleti istiyor.
+
+8
+00:01:05,978 --> 00:01:14,425
+Operatör en son gelen paleti okutuyor.
+
+9
+00:01:15,062 --> 00:01:18,875
+Hat en son gelen paletle besleniyor.

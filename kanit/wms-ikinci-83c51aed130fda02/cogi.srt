@@ -1,0 +1,59 @@
+1
+00:00:04,193 --> 00:00:12,714
+SAP'den bir COGI kaydı geldi. İkinci hat kablo demetini tüketemedi, sistemde hatta kablo demeti yoktu.
+
+2
+00:00:13,340 --> 00:00:21,566
+Sistem kendiliğinden bir sayım emri açtı. Kablo demetinin son görüldüğü lokasyon ve hat sayılacak.
+
+3
+00:00:29,041 --> 00:00:36,922
+Sayımın nerede açılacağı kural setinde. Son görüldüğü yerler ya da bulunduğu bölgelerin tümü.
+
+4
+00:00:37,539 --> 00:00:41,922
+Sayımın türü de orada: var-yok ya da miktar.
+
+5
+00:00:46,138 --> 00:00:52,400
+Görev el terminaline öncelikli düşüyor.
+
+6
+00:00:53,041 --> 00:01:00,485
+Operatör kablo demetinin son görüldüğü lokasyonu açıyor.
+
+7
+00:01:01,104 --> 00:01:12,265
+Paleti okutuyor; sistemdeki miktarı görmüyor. Kör sayım: kablo demetini kendisi sayar.
+
+8
+00:01:12,905 --> 00:01:20,483
+Saydığı 100 adedi yazıyor.
+
+9
+00:01:21,104 --> 00:01:26,266
+Lokasyonu kapatıyor.
+
+10
+00:01:26,886 --> 00:01:33,515
+Hattı da kontrol ediyor: hat boş.
+
+11
+00:01:34,139 --> 00:01:40,367
+İki lokasyon da kapandı, sayım bitiyor.
+
+12
+00:01:41,010 --> 00:01:48,314
+Fark 20 adet, depo müdürünün onayına düştü. Her fark gibi bu da onaysız kayda geçmez.
+
+13
+00:01:54,189 --> 00:02:00,874
+Depo müdürü fark talebini açıyor.
+
+14
+00:02:01,504 --> 00:02:07,488
+Farkı onaylıyor.
+
+15
+00:02:09,805 --> 00:02:16,827
+Eksik 711 hareketiyle SAP'ye gitti. SAP'de stok düzelince COGI kaydı işlenebilir.
