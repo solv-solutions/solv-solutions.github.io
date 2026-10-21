@@ -1,0 +1,71 @@
+1
+00:00:03,004 --> 00:00:14,616
+This is the order board of a plant that converts flexible packaging: every open order, every step, against the date the customer was given.
+
+2
+00:00:14,938 --> 00:00:24,327
+Lamination, curing, slitting, bag making. Each step shows whether it is planned, running, done or behind plan.
+
+3
+00:00:24,649 --> 00:00:36,026
+Bag maker 2 stood still from Friday noon until this morning. The two orders queued on it are now late, one by a day, the other by three.
+
+4
+00:00:36,349 --> 00:00:46,571
+The last column says how far each date can be trusted: confirmed data, ERP data nobody has checked yet, or an assumption.
+
+5
+00:00:47,757 --> 00:00:56,819
+A customer calls: 60,000 vacuum bags, wanted in ten days. Sales enters the order as the customer gives it.
+
+6
+00:00:57,141 --> 00:01:03,437
+One click, and today's plan answers with a date: on the requested day.
+
+7
+00:01:03,759 --> 00:01:14,902
+With every reason: PE film is short and a purchase arrives on Thursday. Then lamination, 48 hours of curing, slitting and bag making.
+
+8
+00:01:15,225 --> 00:01:22,596
+The date rests on one assumption: nobody has confirmed the speed of bag maker 1 yet.
+
+9
+00:01:22,916 --> 00:01:27,441
+Planning confirms it, and the date turns green.
+
+10
+00:01:27,762 --> 00:01:37,054
+Sales confirms the order. Its steps join the machine queues, the ERP is told, and the customer gets the date.
+
+11
+00:01:38,204 --> 00:01:44,498
+This is the confirmation the customer received, in their own language.
+
+12
+00:01:46,468 --> 00:01:53,687
+Machine load over two weeks. The new order sits at the end of bag maker 1's queue.
+
+13
+00:01:54,008 --> 00:02:00,460
+On bag maker 2, the job held up by the stop pushes everything behind it.
+
+14
+00:02:06,805 --> 00:02:14,790
+At the machine, the operator sees the job on it and the next ones, in the order of the plan.
+
+15
+00:02:15,114 --> 00:02:21,866
+The bag maker finishes its job: 60,000 bags. That was the order's last step.
+
+16
+00:02:22,187 --> 00:02:27,791
+The order is ready, and the customer is told the same minute.
+
+17
+00:02:28,945 --> 00:02:33,304
+On the board, the order is ready to ship.
+
+18
+00:02:33,626 --> 00:02:45,231
+Built on the plant's own data: orders and stock from its ERP, machines and rules confirmed by its people. One process first, then the next.

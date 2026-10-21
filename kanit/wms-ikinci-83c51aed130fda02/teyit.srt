@@ -1,0 +1,59 @@
+1
+00:00:05,808 --> 00:00:15,996
+İşlem teyidi kural setinde, her işlem için ayrı tanımlı. Yerleştirme, taşıma, hat besleme, toplama ve yükleme ayrı ayarlanır.
+
+2
+00:00:16,621 --> 00:00:25,800
+Yerleştirmede her malzeme için "emin misiniz" sorulacak.
+
+3
+00:00:31,685 --> 00:00:43,981
+Cam aracı plakasıyla kabul ediliyor.
+
+4
+00:00:44,625 --> 00:00:49,296
+İrsaliye alındı, on palet rafa gitmeyi bekliyor.
+
+5
+00:00:55,169 --> 00:01:01,279
+Operatör yerleştirme görevini açıyor.
+
+6
+00:01:01,901 --> 00:01:09,628
+Paleti doğru rafa götürüp rafı okutuyor.
+
+7
+00:01:10,256 --> 00:01:18,713
+İş doğru olsa da sistem önce ne yapılacağını yazıyor. Bu palet, bu lokasyon, bu miktar. Emin misiniz?
+
+8
+00:01:19,333 --> 00:01:25,795
+Operatör bakıp onaylıyor ya da vazgeçiyor.
+
+9
+00:01:26,418 --> 00:01:32,579
+Palet yerine yerleşti, görev listeden düştü. Transfer SAP'ye gidiyor.
+
+10
+00:01:39,954 --> 00:01:49,985
+Daha sıkı bir ayar da var: miktar gösterilmez. Operatör paleti sayıp miktarı kendisi yazar.
+
+11
+00:01:55,867 --> 00:02:05,062
+Operatör sıradaki paleti rafına götürüp okutuyor.
+
+12
+00:02:05,680 --> 00:02:14,584
+Miktar yazılı değil: operatör sayıp yazıyor.
+
+13
+00:02:15,214 --> 00:02:18,810
+Sayı tutmuyor, palet yerleşmiyor.
+
+14
+00:02:19,431 --> 00:02:30,589
+Operatör yeniden sayıp doğru sayıyı yazıyor.
+
+15
+00:02:31,213 --> 00:02:35,115
+Doğru sayıyla palet yerine yerleşti.

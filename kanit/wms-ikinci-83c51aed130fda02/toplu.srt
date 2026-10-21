@@ -1,0 +1,47 @@
+1
+00:00:05,235 --> 00:00:18,075
+Toplu taşıma el terminalinde iki okutmayla yapılıyor. Operatör önce yere istiflenmiş bir lokasyonu okutuyor.
+
+2
+00:00:18,717 --> 00:00:26,176
+Lokasyondaki altı palet forkliftte. Paletler yerinden alındı, eski yerleri artık boş.
+
+3
+00:00:26,899 --> 00:00:35,760
+Başka lokasyondaki bir palet de okutulup alınıyor.
+
+4
+00:00:36,483 --> 00:00:44,544
+Operatör bir kimyasal paleti de alıyor.
+
+5
+00:00:45,202 --> 00:00:52,643
+Sonra hedef lokasyonu okutuyor.
+
+6
+00:00:53,342 --> 00:01:02,577
+Sistem hiçbir paleti bırakmıyor ve nedenini yazıyor. Hedef bölge iklimlendirilmiş değil, kimyasal orada duramaz.
+
+7
+00:01:03,199 --> 00:01:09,480
+Kimyasal palet yerine geri bırakılıyor.
+
+8
+00:01:10,133 --> 00:01:17,069
+Hedef yeniden okutuluyor.
+
+9
+00:01:17,697 --> 00:01:26,232
+Paletlerin hepsi hedefe bırakıldı. Her palet bırakıldığı anda SAP'ye ayrı bir transfer olarak gidiyor.
+
+10
+00:01:32,677 --> 00:01:45,683
+Ofis de taşımayı önceden planlayabiliyor. Önce taşınacak paleti listeden seçiyor.
+
+11
+00:01:46,380 --> 00:01:58,971
+Sonra hedef lokasyonu okutuyor. Kritik malzemede gerekçe sorulur, taşıma onaya gider.
+
+12
+00:01:59,626 --> 00:02:07,353
+Hedef ayrıldı, görev operatörün terminaline düştü. Planlı palet başka bir yere bırakılamaz.

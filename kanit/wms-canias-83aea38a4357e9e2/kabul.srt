@@ -1,0 +1,47 @@
+1
+00:00:04,859 --> 00:00:12,838
+Canias'tan gelen tavuk unu kartı kapıda durdu. Ambalaj bilgisi yok; depo bu kartla iş yapamaz.
+
+2
+00:00:14,339 --> 00:00:21,871
+Vardiya lideri sebep koduyla istisna veriyor.
+
+3
+00:00:22,490 --> 00:00:29,450
+Kart açılıyor, not Canias'a yazılıyor.
+
+4
+00:00:33,657 --> 00:00:40,316
+Operatör rampadaki mal kabul görevini açıyor.
+
+5
+00:00:40,939 --> 00:00:52,350
+Kamyondaki yabancı palet kırmızı. Soya küspesi: sevk bildiriminde yok, siparişi de yok.
+
+6
+00:00:52,975 --> 00:01:07,484
+Tavuk unu paletleri yeşil: bildirim ve siparişle eşleşti.
+
+7
+00:01:08,125 --> 00:01:12,882
+Üç palet, her biri lot ve son kullanma tarihiyle.
+
+8
+00:01:13,508 --> 00:01:20,966
+Kabul: her palet için Canias'a satınalma girişi gidiyor.
+
+9
+00:01:27,036 --> 00:01:34,204
+İlk belge Canias'ta kilitli kayda çarptı. Kuyruk kendi deniyor; operatör beklemedi.
+
+10
+00:01:34,821 --> 00:01:40,683
+Yeniden gönderince zincir akıyor.
+
+11
+00:01:41,325 --> 00:01:51,569
+Canias tarafı: standart servis ve dönen belge numarası. WMSPurchaseSave, satınalma giriş belgesi; Canias'ın kendi WMS servisi.
+
+12
+00:01:52,187 --> 00:01:56,704
+Her belge Canias'ın kendi numarasıyla kayıtta.

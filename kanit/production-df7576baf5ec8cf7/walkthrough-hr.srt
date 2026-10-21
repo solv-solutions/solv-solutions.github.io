@@ -1,0 +1,71 @@
+1
+00:00:03,004 --> 00:00:14,689
+Ovo je pregled narudžbi u pogonu za preradu fleksibilne ambalaže: svaka otvorena narudžba, svaki korak, u odnosu na rok koji je kupac dobio.
+
+2
+00:00:15,011 --> 00:00:25,778
+Laminacija, otvrdnjavanje, rezanje i izrada vrećica. Za svaki korak vidi se je li planiran, u tijeku, gotov ili kasni za planom.
+
+3
+00:00:26,100 --> 00:00:36,707
+Stroj za vrećice 2 stajao je od petka u podne do jutros. Dvije narudžbe u njegovom redu sada kasne, jedna dan, druga tri dana.
+
+4
+00:00:37,030 --> 00:00:48,020
+Zadnji stupac kaže koliko se roku može vjerovati: potvrđeni podaci, podaci iz ERP-a koje još nitko nije provjerio ili pretpostavka.
+
+5
+00:00:49,226 --> 00:00:58,366
+Zove kupac: 60.000 vakuumskih vrećica, treba ih za deset dana. Prodaja unosi narudžbu kako ju je kupac dao.
+
+6
+00:00:58,688 --> 00:01:04,061
+Jedan klik i današnji plan odgovara rokom: na traženi dan.
+
+7
+00:01:04,383 --> 00:01:15,990
+Sa svim razlozima: PE folije nedostaje, nabava stiže u četvrtak. Zatim laminacija, 48 sati otvrdnjavanja ljepila, rezanje i izrada vrećica.
+
+8
+00:01:16,312 --> 00:01:24,149
+Rok se temelji na jednoj pretpostavci: brzinu stroja za vrećice 1 još nitko nije potvrdio.
+
+9
+00:01:24,471 --> 00:01:28,766
+Planiranje je potvrđuje i rok postaje zelen.
+
+10
+00:01:29,089 --> 00:01:37,465
+Prodaja potvrđuje narudžbu. Koraci ulaze u redove strojeva, ERP je obaviješten, kupac dobiva rok.
+
+11
+00:01:38,612 --> 00:01:43,567
+Ovo je potvrda koju je kupac primio, na svom jeziku.
+
+12
+00:01:45,530 --> 00:01:53,132
+Opterećenje strojeva za dva tjedna. Nova narudžba je na kraju reda stroja za vrećice 1.
+
+13
+00:01:53,454 --> 00:01:59,754
+Na stroju za vrećice 2 posao koji je zadržao zastoj gura sve iza sebe.
+
+14
+00:02:06,103 --> 00:02:14,624
+Na stroju operater vidi posao koji je na stroju i sljedeće poslove, redom kako ih je plan postavio.
+
+15
+00:02:14,952 --> 00:02:22,094
+Stroj za vrećice završava posao: 60.000 vrećica. To je bio zadnji korak narudžbe.
+
+16
+00:02:22,416 --> 00:02:27,556
+Narudžba je spremna i kupac je obaviješten iste minute.
+
+17
+00:02:28,689 --> 00:02:33,053
+Na pregledu je narudžba spremna za otpremu.
+
+18
+00:02:33,375 --> 00:02:45,823
+Izgrađeno na podacima pogona: narudžbe i zalihe iz njegovog ERP-a, strojevi i pravila koje potvrđuju njegovi ljudi. Prvo jedan proces, zatim sljedeći.
