@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS · Canias · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS · Canias</h1>
+  <p class="sub">Kural motorlu depo yönetimi, Canias ERP ile entegre: hammadde kabulünden yükleme kapısına, el terminali, tablet ve ofis aynı programda.</p>
+  <p class="hint">Videoları bilgisayarda, büyük ekranda ve tam ekran izlemenizi öneririz.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="tanitim.mp4">
+        <span class="thumb"><img src="tanitim.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT424S">7:04</time></span>
+        <span class="title">Genel bakış</span>
+      </a>
+      <video src="tanitim.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="kabul">
+      <a class="card" data-testid="tanitim-card" href="kabul.mp4">
+        <span class="thumb"><img src="kabul.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT121S">2:01</time></span>
+        <span class="title">Canias ile hammadde kabulü</span>
+        <span class="summary">Canias'tan gelen eksik malzeme kartı kapıda durur, istisnayla açılır. Rampada paletler okutulur, her palet için Canias'a satınalma girişi gider (WMSPurchaseSave), kilitli kayıt kuyrukta kendiliğinden yeniden denenir.</span>
+      </a>
+      <video src="kabul.mp4" controls preload="none" hidden><track kind="captions" src="kabul.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="fefo">
+      <a class="card" data-testid="tanitim-card" href="fefo.mp4">
+        <span class="thumb"><img src="fefo.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT86S">1:26</time></span>
+        <span class="title">Son kullanma tarihiyle hat besleme</span>
+        <span class="summary">Varsayılan çıkış sırası FEFO: operatör önce gelen paleti okutunca sistem tarihi daha yakın olanı ister. Hatta giden palet iş emrine bağlanır, Canias'a üretime çıkış hareketi gider.</span>
+      </a>
+      <video src="fefo.mp4" controls preload="none" hidden><track kind="captions" src="fefo.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="sevk">
+      <a class="card" data-testid="tanitim-card" href="sevk.mp4">
+        <span class="thumb"><img src="sevk.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT147S">2:27</time></span>
+        <span class="title">Yükleme kapısı ve sevk belgesi</span>
+        <span class="summary">Toplayıcı tarihi en yakın paletleri sevk hazırlığa alır. Plaka sevk planıyla eşleşince kontrol listesi açılır, kapıda her palet okutulur, mühür numarasıyla liste tamamlanır, Canias sevk belgesini keser (WMSDeliverySave) ve e-irsaliye arkasından gider.</span>
+      </a>
+      <video src="sevk.mp4" controls preload="none" hidden><track kind="captions" src="sevk.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="arayuz">
+      <a class="card" data-testid="tanitim-card" href="arayuz.mp4">
+        <span class="thumb"><img src="arayuz.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT71S">1:11</time></span>
+        <span class="title">Canias arayüzü ve iş adımı tanımları</span>
+        <span class="summary">Her alışveriş Canias'ın kendi adıyla: standart WMS web servisleri yazar, SQL görünümleri okunur, tesisin ListDeliveryRFID servisi sevk siparişlerini getirir. Her iş adımının tanımında Canias'a ne yazılacağı yazılı.</span>
+      </a>
+      <video src="arayuz.mp4" controls preload="none" hidden><track kind="captions" src="arayuz.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Demo ortamı: Canias bağlantısı mock, firmalar ve veriler kurgu. Menüde soluk görünen ekranlar kapsamda, bu demoda kapalı.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:05.042 --> 00:00:14.309
+Bu depoda her şey son kullanma tarihine göre çıkar. Kural setinde varsayılan FEFO; grup başına değiştirilebilir.
+
+2
+00:00:21.015 --> 00:00:30.793
+Operatör ikinci ekstruder hattının iş emrini besliyor.
+
+3
+00:00:31.415 --> 00:00:39.110
+Önce gelen balık unu paletini okutuyor.
+
+4
+00:00:39.732 --> 00:00:48.960
+Sistem reddediyor: öbür paletin tarihi daha yakın. Sonra gelen palet önce tükenmeli; FEFO giriş sırasına bakmaz.
+
+5
+00:00:49.588 --> 00:00:57.991
+Operatör tarihi yakın paleti okutuyor.
+
+6
+00:00:58.613 --> 00:01:05.925
+Palet hatta gidiyor, iş emrine bağlandı. Lot ve son kullanma tarihi etiketten okundu.
+
+7
+00:01:11.899 --> 00:01:22.159
+Canias'a üretime çıkış hareketi gitti. WMSManualSave: iş emri, konteyner, lot ve miktar; Canias belge numarasıyla cevap verdi.

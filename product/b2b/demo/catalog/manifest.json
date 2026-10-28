@@ -1,0 +1,3023 @@
+{
+  "generatedAt": "2026-04-18T09:07:24.664Z",
+  "sitemap": "https://www.mamaplus.com/sitemap.xml",
+  "outputDir": "apps/web/public/demo/mamaplus",
+  "productCount": 109,
+  "imageCount": 481,
+  "products": [
+    {
+      "id": 22,
+      "name": "Mercy Biftekli Yetişkin Köpek Maması 15 Kg",
+      "slug": "mercy-biftekli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-p-22",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7ec4d88.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7ec4d88.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-22/01-9f3ec57b42.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651919b570d4.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-22/02-d2edfb4f87.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651919b266fc.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-22/03-e70f3ec9bf.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-22/04-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Kısırlaştırılmış Kedi Maması 15 Kg",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-p-25",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710d0f780931.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710d0f780931.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/01-2b8a241f85.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad0e59d.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/02-952cdf832c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad59b06.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/03-d96e5cc843.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad67b40.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/04-c8d3d54f3b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144eca12.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/06-157a64df1f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92451da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/08-f207535e7d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-25/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Yetişkin Kedi Maması 15 Kg",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-p-26",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7b92c38.webp",
+      "imageCount": 10,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7b92c38.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/01-584a240240.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b57e4b.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/02-4ef6ecce8e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b5cc90.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/03-2862802597.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b5b6c8.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/04-b889b9b686.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b1449feb7.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/06-8adfbd8ff6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba923cb13.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/08-e49d3e8120.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92247a2.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/09-d8a76320e2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-26/10-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "CatPlus Tavuklu Hamsili Yavru Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-p-27",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7a5d53b.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7a5d53b.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/01-ef1ec1d8c4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e824796f7a.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/02-a2029ba0bd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b559a70ff.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/03-fa00c17ca8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e82479996d.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/04-81b98a6f66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e8247c958b.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/05-8be48e7f60.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144a2271.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/06-799fcd0ec1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba91e4738.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/08-dfbab6eea2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-2-adet-27/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "DogPlus Düşük Tahıllı Hipoalerjenik Kuzu Etli Yüksek Enerjili Yetişkin Köpek Maması 15 Kg",
+      "slug": "dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-p-42",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7d4c9d8.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7d4c9d8.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/01-8d2209ee67.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a8c28fa31.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/02-84535b74f3.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a8c2d1990.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/03-ac4f2ce9f2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a8c2e1682.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/04-f6d454e222.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a8c363b85.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/05-ebf3ea3fbc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yuksek-enerjili-yetiskin-kopek-mamasi-15-kg-42/06-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Mercy Tavuklu Yetişkin Kedi Maması 15 Kg",
+      "slug": "mercy-tavuklu-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-p-43",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7ebac82.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7ebac82.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/01-01101e32d6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66518f9112d0b.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/02-0fb24b7644.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66518f911a2e8.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/03-6bcc83058c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66e8209067664.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/04-6e138f911e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba8362c2a.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/05-65c6289cef.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-43/06-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "CatPlus Bebek Pudralı Kedi Kumu 10 Lt x 2 Adet",
+      "slug": "catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet",
+      "url": "https://mamaplus.com/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-p-63",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a7716dd72f.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7716dd72f.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-63/01-f6cdadb251.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a564c1ed1.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-63/02-d435e41267.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7717d2873.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-63/03-091bf50008.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-63/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-2-adet-63/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "CatPlus Kokusuz Kedi Kumu 10 Lt x 2 Adet",
+      "slug": "catplus-kokusuz-kedi-kumu-10-lt-x-2-adet",
+      "url": "https://mamaplus.com/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-p-66",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a7716d8e18.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7716d8e18.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-66/01-9f3e3d28f8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a564ebd3b.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-66/02-d076203f8f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-66/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-66/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-2-adet-66/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "CatPlus Kristal Kedi Kumu 3,6 Lt x 9 Adet",
+      "slug": "catplus-kristal-kedi-kumu-36-lt-x-9-adet",
+      "url": "https://mamaplus.com/catplus-kristal-kedi-kumu-36-lt-x-9-adet-p-67",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_67e29ac4291b7.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_67e29ac4291b7.webp",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-9-adet-67/01-4cd5ad3b30.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d7e8b6.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-9-adet-67/02-27d8459715.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8db7e13.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-9-adet-67/03-cacde26ea5.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d4d1cb.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-9-adet-67/04-482aa4f8c3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Yetişkin Kedi Maması 1,5 Kg",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-p-68",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710d0f786e39.webp",
+      "imageCount": 10,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710d0f786e39.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/01-fa1ec4a84b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b57e4b.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/02-4ef6ecce8e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a777867b4.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/03-944969e626.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a77760efe.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/04-50921fac28.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b1449feb7.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/06-8adfbd8ff6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba923cb13.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/08-e49d3e8120.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92247a2.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/09-d8a76320e2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-68/10-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "CatPlus Tavuklu Hamsili Yavru Kedi Maması 1,5 Kg",
+      "slug": "catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-p-69",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710d0f7706f3.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710d0f7706f3.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/01-93178fea72.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e824796f7a.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/02-a2029ba0bd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b559a70ff.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/03-fa00c17ca8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e82479996d.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/04-81b98a6f66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e8247c958b.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/05-8be48e7f60.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144a2271.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/06-799fcd0ec1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba91e4738.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/08-dfbab6eea2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-69/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Yetişkin Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-70",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7b13793.webp",
+      "imageCount": 10,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7b13793.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/01-97f70f9ebe.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b57e4b.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/02-4ef6ecce8e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a777867b4.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/03-944969e626.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a77760efe.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/04-50921fac28.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b1449feb7.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/06-8adfbd8ff6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba923cb13.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/08-e49d3e8120.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92247a2.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/09-d8a76320e2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-2-adet-70/10-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Kısırlaştırılmış Kedi Maması 1,5 Kg",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-p-71",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710d0f780931.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710d0f780931.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/01-2b8a241f85.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad0e59d.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/02-952cdf832c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a408120d9.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/03-12366fef1e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a407e8859.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/04-40fa4b2205.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144eca12.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/06-157a64df1f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92451da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/08-f207535e7d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-71/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Kısırlaştırılmış Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-p-72",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce798df1b.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce798df1b.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/01-677fe06b63.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad0e59d.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/02-952cdf832c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a408120d9.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/03-12366fef1e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a407e8859.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/04-40fa4b2205.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144eca12.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/06-157a64df1f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92451da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/08-f207535e7d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-2-adet-72/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "DogPlus Kuzu Etli Yavru Köpek Maması 3 Kg x 2 Adet",
+      "slug": "dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet",
+      "url": "https://mamaplus.com/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-p-73",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710e43e09753.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710e43e09753.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-73/01-e681f01732.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd28a797.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-73/02-e45432062f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd32a1de.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-73/03-74d34a2462.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd26b1ea.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-73/04-6fad726399.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-x-2-adet-73/05-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "DogPlus Düşük Tahıllı Hipoalerjenik Kuzu Etli Yetişkin Köpek Maması 3 Kg",
+      "slug": "dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg",
+      "url": "https://mamaplus.com/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-p-74",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710e43e20319.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710e43e20319.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/01-5cf15e06a6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a9134d25b.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/02-86c582f5e4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a93a261fa.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/03-779b1f7b86.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a93a209d8.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/04-ed0fd17046.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a914298c2.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/05-1ad2f83958.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-74/06-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "DogPlus Düşük Tahıllı Hipoalerjenik Kuzu Etli Yetişkin Köpek Maması 3 Kg x 2 Adet",
+      "slug": "dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet",
+      "url": "https://mamaplus.com/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-p-75",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710e43e6c3fc.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710e43e6c3fc.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-75/01-271c4c667a.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a9134d25b.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-75/02-86c582f5e4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a93a261fa.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-75/03-779b1f7b86.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a914298c2.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-75/04-1ad2f83958.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-3-kg-x-2-adet-75/05-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "DogPlus Düşük Tahıllı Hipoalerjenik Kuzu Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-p-76",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7ca8fc0.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7ca8fc0.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/01-b2440176ae.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a9134d25b.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/02-86c582f5e4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a913dc9f7.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/03-2779ac2985.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a91432d0e.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/04-5e9c9fc0ca.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_6651a914298c2.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/05-1ad2f83958.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-dusuk-tahilli-hipoalerjenik-kuzu-etli-yetiskin-kopek-mamasi-15-kg-76/06-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "CatPlus Kristal Kedi Kumu 3,6 Lt",
+      "slug": "catplus-kristal-kedi-kumu-36-lt",
+      "url": "https://mamaplus.com/catplus-kristal-kedi-kumu-36-lt-p-78",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_67e29ac408002.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_67e29ac408002.webp",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-78/01-3daaa372d0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d4d1cb.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-78/02-482aa4f8c3.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8db7e13.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-78/03-cacde26ea5.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d7e8b6.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-78/04-27d8459715.jpg"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "CatPlus Kristal Kedi Kumu 3,6 Lt x 4 Adet",
+      "slug": "catplus-kristal-kedi-kumu-36-lt-x-4-adet",
+      "url": "https://mamaplus.com/catplus-kristal-kedi-kumu-36-lt-x-4-adet-p-80",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_67e29ac44ceb4.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_67e29ac44ceb4.webp",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-4-adet-80/01-ec239b4355.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d4d1cb.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-4-adet-80/02-482aa4f8c3.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8db7e13.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-4-adet-80/03-cacde26ea5.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d7e8b6.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x-4-adet-80/04-27d8459715.jpg"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "CatPlus Tavuklu Hamsili Yavru Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-p-125",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7aa1c96.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7aa1c96.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/01-bfb158e21f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e824796f7a.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/02-a2029ba0bd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b559a70ff.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/03-fa00c17ca8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e82479996d.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/04-81b98a6f66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_667e8247c958b.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/05-8be48e7f60.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144a2271.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/06-799fcd0ec1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba91e4738.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/08-dfbab6eea2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-tavuklu-hamsili-yavru-kedi-mamasi-15-kg-x-3-adet-125/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Yetişkin Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-p-126",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7b97c53.webp",
+      "imageCount": 10,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7b97c53.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/01-50bfbb1701.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a33b57e4b.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/02-4ef6ecce8e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a777867b4.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/03-944969e626.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a77760efe.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/04-50921fac28.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b1449feb7.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/06-8adfbd8ff6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba923cb13.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/08-e49d3e8120.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92247a2.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/09-d8a76320e2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-yetiskin-kedi-mamasi-15-kg-x-3-adet-126/10-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "CatPlus Düşük Tahıllı Hipoalerjenik Tavuklu Hamsili Kısırlaştırılmış Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-p-127",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710dab9ae511.webp",
+      "imageCount": 9,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710dab9ae511.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/01-16702b6dd5.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a3ad0e59d.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/02-952cdf832c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a408120d9.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/03-12366fef1e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a407e8859.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/04-40fa4b2205.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_6651a329ce8da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/05-44538246c8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144eca12.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/06-157a64df1f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_66f2b144cfa5c.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/07-3747f79b01.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/CatPlus/700_900_67a9ba92451da.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/08-f207535e7d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a44968e59.webp",
+          "localPath": "products/catplus-dusuk-tahilli-hipoalerjenik-tavuklu-hamsili-kisirlastirilmis-kedi-mamasi-15-kg-x-3-adet-127/09-63974cbb9f.webp"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Mercy Tavuklu Yetişkin Kedi Maması 15 Kg x 2 Adet",
+      "slug": "mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-131",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7df0877.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7df0877.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/01-d675b1fbf2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66518f9112d0b.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/02-0fb24b7644.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66518f911a2e8.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/03-6bcc83058c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66e8209067664.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/04-6e138f911e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba8362c2a.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/05-65c6289cef.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-131/06-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Bonnie Somonlu Yetişkin Kedi Maması 1,5 Kg",
+      "slug": "bonnie-somonlu-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-p-174",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca050a91.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca050a91.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-174/01-522198507c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973bc0339.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-174/02-9fef6c87d1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6dd8f02.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-174/03-88d16e1f5d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-174/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Bonnie Tavuklu Yavru Kedi Maması 1,5 Kg",
+      "slug": "bonnie-tavuklu-yavru-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-p-242",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9eccf28.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9eccf28.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/01-bd9f960c74.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7a9ab85.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/02-7c2ef3c13c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6f23119.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/03-18b65251b1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7b1fb3a.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/04-de814ef7c6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7b61b38.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/05-0ff138668e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-242/06-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Bonnie Renkli Taneli Dana Etli Yetişkin Kedi Maması 1,5 Kg",
+      "slug": "bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-p-246",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9dbb7e2.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9dbb7e2.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-246/01-89b2c0ad31.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973a21bc6.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-246/02-4c3838b468.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6b234e4.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-246/03-e09622ed5b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-246/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Bonnie Dana Etli Yetişkin Köpek Maması 2,5 Kg",
+      "slug": "bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg",
+      "url": "https://mamaplus.com/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-p-250",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca204996.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca204996.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-250/01-6d0cbbe888.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5a55c21.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-250/02-f1d5c3c3e7.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f674415b.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-250/03-5a4a7f808a.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-250/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Bonnie Dana Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg-p-251",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9d58eec.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9d58eec.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg-251/01-071e27b7dc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_66519aea48e93.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg-251/02-ff512b2bac.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6783491.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg-251/03-f1d6eced57.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-15-kg-251/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Bonnie Kuzu Etli Yetişkin Köpek Maması 2,5 Kg",
+      "slug": "bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-p-252",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca361ca0.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca361ca0.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-252/01-535a2c263e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5b3dc15.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-252/02-c4a2f34f47.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f69a48c1.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-252/03-37fe30c9a5.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-252/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Bonnie Kuzu Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg-p-253",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca45dc37.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca45dc37.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg-253/01-d32ecb56bd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_66519b5a2a4f0.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg-253/02-e28f1d9696.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6a014b3.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg-253/03-d1f7597f67.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-15-kg-253/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Bonnie Mini ve Küçük Irk Tavuklu Yetişkin Köpek Maması 2,5 Kg",
+      "slug": "bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg",
+      "url": "https://mamaplus.com/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-p-254",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca3e0b5c.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca3e0b5c.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-254/01-0f655f84e6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5c180a4.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-254/02-5bbb589f7f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6b4a97d.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-254/03-38b821e7d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-254/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Bonnie Dana Etli Yetişkin Kedi Maması 10 Kg",
+      "slug": "bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-p-255",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9c928b8.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9c928b8.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-255/01-88c4b725db.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_665194d8053cc.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-255/02-6e4a9e0100.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6869dce.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-255/03-c4c643e3a9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-255/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Bonnie Tavuklu Yetişkin Kedi Maması 10 Kg",
+      "slug": "bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-p-256",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9d4f7d4.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9d4f7d4.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-256/01-4448e2a10f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_6651948522eff.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-256/02-a77fc64e22.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6895534.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-256/03-819a5be6a0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-256/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Bonnie Tavuklu Yavru Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-p-266",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9f5bfe9.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9f5bfe9.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/01-d1570c0e70.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7a9ab85.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/02-7c2ef3c13c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6f23119.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/03-18b65251b1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7b1fb3a.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/04-de814ef7c6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66581c7b61b38.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/05-0ff138668e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-3-adet-266/06-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Bonnie Kuzu Etli Yetişkin Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-268",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9fa4c43.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9fa4c43.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-268/01-155d7de73c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973696f35.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-268/02-e0bb6b3f83.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f697dea6.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-268/03-1cac85cb19.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-268/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Bonnie Kuzu Etli Yetişkin Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-p-269",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca018d3b.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca018d3b.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-269/01-4f525459bf.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973696f35.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-269/02-e0bb6b3f83.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f697dea6.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-269/03-1cac85cb19.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-269/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Bonnie Renkli Taneli Dana Etli Yetişkin Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-p-272",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9edee0f.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9edee0f.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-272/01-c38708f05c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973a21bc6.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-272/02-4c3838b468.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6b234e4.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-272/03-e09622ed5b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-3-adet-272/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Bonnie Somonlu Yetişkin Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet-p-278",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca0c00e4.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca0c00e4.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet-278/01-66d0b3ff5f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973bc0339.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet-278/02-9fef6c87d1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6dd8f02.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet-278/03-88d16e1f5d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-3-adet-278/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Bonnie Dana Etli Yetişkin Köpek Maması 2,5 Kg x 2 Adet",
+      "slug": "bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-p-282",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/470_470_67aa006b2c4fa.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_67aa006b2c4fa.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-282/01-838b8a8aca.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5a55c21.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-282/02-f1d5c3c3e7.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f674415b.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-282/03-5a4a7f808a.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-282/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Bonnie Kuzu Etli Yetişkin Köpek Maması 2,5 Kg x 2 Adet",
+      "slug": "bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-p-283",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca3a26bb.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca3a26bb.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-283/01-1c8e2d9800.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5b3dc15.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-283/02-c4a2f34f47.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f69a48c1.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-283/03-37fe30c9a5.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kopek-mamasi-25-kg-x-2-adet-283/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Bonnie Mini ve Küçük Irk Tavuklu Yetişkin Köpek Maması 2,5 Kg x 2 Adet",
+      "slug": "bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet-p-284",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca428118.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca428118.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet-284/01-c550703d4c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kopek/700_900_66519d5c180a4.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet-284/02-5bbb589f7f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6b4a97d.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet-284/03-38b821e7d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-mini-ve-kucuk-irk-tavuklu-yetiskin-kopek-mamasi-25-kg-x-2-adet-284/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Bonnie Tavuklu Yetişkin Kedi Maması 1,5 Kg",
+      "slug": "bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-p-319",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca0bff37.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca0bff37.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-319/01-3f94304217.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973c96371.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-319/02-5852891f77.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6837882.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-319/03-8a5efa5dec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-319/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "name": "NewCat Tavuklu Yetişkin Kedi Maması 15 Kg",
+      "slug": "newcat-tavuklu-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/newcat-tavuklu-yetiskin-kedi-mamasi-15-kg-p-339",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f14475e6c.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f14475e6c.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-15-kg-339/01-9bee85bb99.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_66519f8ae3b94.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-15-kg-339/02-83afabf365.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_66519f8ae3715.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-15-kg-339/03-aaa93a5ce0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb23b9ca.png",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-15-kg-339/04-02f15a5d8c.png"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "NewDog Kuzu Etli Yavru köpek Maması 3 Kg",
+      "slug": "newdog-kuzu-etli-yavru-kopek-mamasi-3-kg",
+      "url": "https://mamaplus.com/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-p-340",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f14454b28.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f14454b28.webp",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/01-9a210b84ec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66587ab8aa42b.webp",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/02-2e4886644d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_66587ab8a9bba.webp",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/03-123c4eb38e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_665830245b8b9.webp",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/04-e5ccc04a66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_6658302487bfb.webp",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/05-ce484dd97d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb2730f6.png",
+          "localPath": "products/newdog-kuzu-etli-yavru-kopek-mamasi-3-kg-340/06-90268c2d39.png"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "NewDog Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "newdog-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/newdog-etli-yetiskin-kopek-mamasi-15-kg-p-341",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f1450cc34.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f1450cc34.webp",
+          "localPath": "products/newdog-etli-yetiskin-kopek-mamasi-15-kg-341/01-29b3c0cf48.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a09ab6c57.webp",
+          "localPath": "products/newdog-etli-yetiskin-kopek-mamasi-15-kg-341/02-f77d23dd96.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a09abc702.webp",
+          "localPath": "products/newdog-etli-yetiskin-kopek-mamasi-15-kg-341/03-19b8f36ba6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb2730f6.png",
+          "localPath": "products/newdog-etli-yetiskin-kopek-mamasi-15-kg-341/04-90268c2d39.png"
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "name": "NewDog Kuzu Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg-p-343",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f144d8fa3.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f144d8fa3.webp",
+          "localPath": "products/newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg-343/01-bae6607787.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a10889817.webp",
+          "localPath": "products/newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg-343/02-68b84e6310.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a10862156.webp",
+          "localPath": "products/newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg-343/03-21d7afe510.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb2730f6.png",
+          "localPath": "products/newdog-kuzu-etli-yetiskin-kopek-mamasi-15-kg-343/04-90268c2d39.png"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "name": "CatPlus Kokusuz Kedi Kumu 5 Lt x 4 Adet",
+      "slug": "catplus-kokusuz-kedi-kumu-5-lt-x-4-adet",
+      "url": "https://mamaplus.com/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-p-362",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a771675d40.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a771675d40.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-362/01-a2ba5376d0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a5641a2bf.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-362/02-0883092995.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-362/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-362/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-5-lt-x-4-adet-362/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "name": "NewCat Tavuklu Yetişkin Kedi Maması 10 Kg",
+      "slug": "newcat-tavuklu-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/newcat-tavuklu-yetiskin-kedi-mamasi-10-kg-p-367",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f1445e125.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f1445e125.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-10-kg-367/01-62e6270303.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_66519f8ae3b94.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-10-kg-367/02-83afabf365.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_66519ff1cc2fc.webp",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-10-kg-367/03-9adba6fed8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb23b9ca.png",
+          "localPath": "products/newcat-tavuklu-yetiskin-kedi-mamasi-10-kg-367/04-02f15a5d8c.png"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "NewDog Basic Kuzu Etli Yetişkin Köpek Maması 10 Kg",
+      "slug": "newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg",
+      "url": "https://mamaplus.com/newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg-p-368",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f1447cb93.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f1447cb93.webp",
+          "localPath": "products/newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg-368/01-c2f0fb70ec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a108a3421.webp",
+          "localPath": "products/newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg-368/02-ea39f25996.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a1090b136.webp",
+          "localPath": "products/newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg-368/03-58e749727f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb2730f6.png",
+          "localPath": "products/newdog-basic-kuzu-etli-yetiskin-kopek-mamasi-10-kg-368/04-90268c2d39.png"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "DogPlus Kuzu Etli Yavru Köpek Maması 3 Kg",
+      "slug": "dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg",
+      "url": "https://mamaplus.com/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-p-374",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710e43e1c098.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710e43e1c098.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-374/01-71178b2511.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd28a797.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-374/02-e45432062f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd32a1de.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-374/03-74d34a2462.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Dogplus/700_900_667e7fd26b1ea.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-374/04-6fad726399.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_6651a8f42024e.webp",
+          "localPath": "products/dogplus-kuzu-etli-yavru-kopek-mamasi-3-kg-374/05-edc6394e5e.webp"
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Mercy Biftekli Yetişkin Köpek Maması 15 Kg x 2 Adet",
+      "slug": "mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet-p-377",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7dbead8.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7dbead8.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet-377/01-e63ed73077.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651919b570d4.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet-377/02-d2edfb4f87.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651919b266fc.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet-377/03-e70f3ec9bf.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-biftekli-yetiskin-kopek-mamasi-15-kg-x-2-adet-377/04-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "name": "NewCat Somonlu Yetişkin Kedi Maması 15 Kg",
+      "slug": "newcat-somonlu-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/newcat-somonlu-yetiskin-kedi-mamasi-15-kg-p-400",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710f14480279.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710f14480279.webp",
+          "localPath": "products/newcat-somonlu-yetiskin-kedi-mamasi-15-kg-400/01-ab961393f3.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a03db3e52.webp",
+          "localPath": "products/newcat-somonlu-yetiskin-kedi-mamasi-15-kg-400/02-22a77b78c3.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/NewCatDog/700_900_6651a03e1d5e7.webp",
+          "localPath": "products/newcat-somonlu-yetiskin-kedi-mamasi-15-kg-400/03-739a3a8b02.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519fb23b9ca.png",
+          "localPath": "products/newcat-somonlu-yetiskin-kedi-mamasi-15-kg-400/04-02f15a5d8c.png"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "CatPlus Aktif Karbon Kedi Kumu 10 Lt x 2 Adet",
+      "slug": "catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet",
+      "url": "https://mamaplus.com/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-p-536",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a77168cfbb.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77168cfbb.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-536/01-5cd5a9c244.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a56588ee0.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-536/02-d63f723306.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-536/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-536/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-2-adet-536/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "CatPlus Aktif Karbon Kedi Kumu 10 Lt",
+      "slug": "catplus-aktif-karbon-kedi-kumu-10-lt",
+      "url": "https://mamaplus.com/catplus-aktif-karbon-kedi-kumu-10-lt-p-537",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a7715cd483.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7715cd483.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-537/01-86f5f2ae0f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a56588ee0.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-537/02-d63f723306.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-537/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-537/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-537/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "name": "CatPlus Kristal Kedi Kumu 3,6 Lt x2 Adet",
+      "slug": "catplus-kristal-kedi-kumu-36-lt-x2-adet",
+      "url": "https://mamaplus.com/catplus-kristal-kedi-kumu-36-lt-x2-adet-p-541",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_67e29ac445f17.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_67e29ac445f17.webp",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x2-adet-541/01-22e65bf445.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d7e8b6.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x2-adet-541/02-27d8459715.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8db7e13.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x2-adet-541/03-cacde26ea5.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/Kedi_Kumlari/700_900_65deeb8d4d1cb.jpg",
+          "localPath": "products/catplus-kristal-kedi-kumu-36-lt-x2-adet-541/04-482aa4f8c3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Mercy Kuzu Etli Yetişkin Kedi Maması 10 Kg",
+      "slug": "mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-p-556",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7d66205.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7d66205.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/01-258494e905.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665190b133e04.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/02-c72c00c16a.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665190b121699.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/03-e085294cc9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66e8209059d8f.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/04-d109d3bf32.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba8346549.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/05-84e482f0a9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kedi-mamasi-10-kg-556/06-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Mercy Somonlu Yetişkin Kedi Maması 10 Kg",
+      "slug": "mercy-somonlu-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-p-557",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7da5719.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7da5719.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/01-e4fbc158cf.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665190efb4348.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/02-b140de5dd2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665190efbf701.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/03-daa6092118.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66e8209076004.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/04-8a95280ff9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba834d675.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/05-37df8b4e56.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kedi-mamasi-10-kg-557/06-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "name": "Mercy Kuzu Etli Yetişkin Köpek Maması 15 Kg",
+      "slug": "mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg-p-558",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7e56260.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7e56260.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg-558/01-a3fc937ae2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665190b133e04.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg-558/02-c72c00c16a.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_665191e1bcb67.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg-558/03-a775e8cb20.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-kuzu-etli-yetiskin-kopek-mamasi-15-kg-558/04-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Mercy Somonlu Yetişkin Köpek Maması 15 Kg",
+      "slug": "mercy-somonlu-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/mercy-somonlu-yetiskin-kopek-mamasi-15-kg-p-559",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/470_470_6710ce7e778e4.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konseptler/700_900_6710ce7e778e4.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kopek-mamasi-15-kg-559/01-db85b344c6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651922829bf3.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kopek-mamasi-15-kg-559/02-7c2add39e8.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_6651922826edd.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kopek-mamasi-15-kg-559/03-ede430f16c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-somonlu-yetiskin-kopek-mamasi-15-kg-559/04-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "name": "Bonnie Dana Etli Yetişkin Kedi Maması 10 Kg x 2 Adet",
+      "slug": "bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet-p-659",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9d602de.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9d602de.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet-659/01-06a5f8b829.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_665194d8053cc.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet-659/02-6e4a9e0100.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6869dce.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet-659/03-c4c643e3a9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-dana-etli-yetiskin-kedi-mamasi-10-kg-x-2-adet-659/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "name": "Bonnie Tavuklu Yetişkin Kedi Maması 10 Kg x 2 Adet",
+      "slug": "bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet-p-660",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9d2caf8.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9d2caf8.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet-660/01-363d3f84c4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_6651948522eff.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet-660/02-a77fc64e22.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6895534.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet-660/03-819a5be6a0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-10-kg-x-2-adet-660/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "name": "CatPlus Bebek Pudralı Kedi Kumu 10 Lt x 4 Adet",
+      "slug": "catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet",
+      "url": "https://mamaplus.com/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-p-671",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a771785682.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a771785682.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-671/01-38e35d9567.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a564c1ed1.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-671/02-d435e41267.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7717d2873.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-671/03-091bf50008.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-671/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-bebek-pudrali-kedi-kumu-10-lt-x-4-adet-671/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "name": "CatPlus Kokusuz Kedi Kumu 10 Lt x 4 Adet",
+      "slug": "catplus-kokusuz-kedi-kumu-10-lt-x-4-adet",
+      "url": "https://mamaplus.com/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-p-672",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a7717996fe.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7717996fe.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-672/01-a377cc4b9c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a564ebd3b.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-672/02-d076203f8f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-672/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-672/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-kokusuz-kedi-kumu-10-lt-x-4-adet-672/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "name": "CatPlus Aktif Karbon Kedi Kumu 10 Lt x 4 Adet",
+      "slug": "catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet",
+      "url": "https://mamaplus.com/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-p-673",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_676a77168477b.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77168477b.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-673/01-84cd96e530.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_6651a56588ee0.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-673/02-d63f723306.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77179b35f.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-673/03-6e669d351c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a7718c71ce.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-673/04-3a052c79d2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_676a77183a4cc.webp",
+          "localPath": "products/catplus-aktif-karbon-kedi-kumu-10-lt-x-4-adet-673/05-8ad8ecde00.webp"
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "name": "CatPlus Pate  Okyanus Balıklı Yetişkin Kedi Konserve Yaş Mama 395 Gr x 12 Adet",
+      "slug": "catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet",
+      "url": "https://mamaplus.com/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-p-686",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642db5271.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642db5271.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-686/01-0edca01f94.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243523638a9.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-686/02-aff11e25f9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207df2d5c.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-686/03-fb253ffef5.webp"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "name": "CatPlus Pate  Okyanus Balıklı Yetişkin Kedi Konserve Yaş Mama 395 Gr x 24 Adet",
+      "slug": "catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet",
+      "url": "https://mamaplus.com/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-p-687",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642de3d17.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642de3d17.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-687/01-8048a293a9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243523abe48.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-687/02-9b8a3a8113.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207df2d5c.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-687/03-fb253ffef5.webp"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "name": "CatPlus Pate Okyanus Balıklı Yetişkin Kedi Konserve Yaş Mama 395 Gr x 6 Adet",
+      "slug": "catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet",
+      "url": "https://mamaplus.com/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-p-688",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642da6fb5.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642da6fb5.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-688/01-d64120f1dc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_6824352357482.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-688/02-bb5533ee06.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207df2d5c.webp",
+          "localPath": "products/catplus-pate-okyanus-balikli-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-688/03-fb253ffef5.webp"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "name": "CatPlus Pate  Kuzu Etli ve Havuçlu Yetişkin Kedi Konserve Yaş Mama 395 Gr x 12 Adet",
+      "slug": "catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet",
+      "url": "https://mamaplus.com/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-p-689",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642d27727.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642d27727.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-689/01-9b88b1efc9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243521b369a.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-689/02-4fa7521bed.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207e7009d.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-12-adet-689/03-a843a6c2cb.webp"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "name": "CatPlus Pate Kuzu Etli ve Havuçlu Yetişkin Kedi Konserve Yaş Mama 395 Gr x 24 Adet",
+      "slug": "catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet",
+      "url": "https://mamaplus.com/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-p-690",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642d4ad76.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642d4ad76.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-690/01-11bde53a67.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_6824352336b58.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-690/02-0dc68ddd58.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207e7009d.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-24-adet-690/03-a843a6c2cb.webp"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "name": "CatPlus Pate Kuzu Etli ve Havuçlu Yetişkin Kedi Konserve Yaş Mama 395 Gr x 6 Adet",
+      "slug": "catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet",
+      "url": "https://mamaplus.com/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-p-691",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642d08ca0.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642d08ca0.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-691/01-e0bda83ecf.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243521c779d.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-691/02-90caf5c452.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_66e8207e7009d.webp",
+          "localPath": "products/catplus-pate-kuzu-etli-ve-havuclu-yetiskin-kedi-konserve-yas-mama-395-gr-x-6-adet-691/03-a843a6c2cb.webp"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "name": "DogPlus Pate Dana Etli Yetişkin Köpek Konserve Yaş Mama 395 Gr x 12 Adet",
+      "slug": "dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet",
+      "url": "https://mamaplus.com/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-p-692",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642ed8a60.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642ed8a60.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-692/01-b381b23ad4.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_6824352542007.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-692/02-4390085428.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a232bb6.jpg",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-692/03-f0fccbb0f1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "name": "DogPlus Pate  Dana Etli Yetişkin Köpek Konserve Yaş Mama 395 Gr x 24 Adet",
+      "slug": "dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet",
+      "url": "https://mamaplus.com/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-p-693",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642f19220.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642f19220.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-693/01-8e52b72faa.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243525c853a.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-693/02-f4ee6e63a0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a232bb6.jpg",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-693/03-f0fccbb0f1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "name": "DogPlus Pate  Dana Etli Yetişkin Köpek Konserve Yaş Mama 395 Gr x 6 Adet",
+      "slug": "dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet",
+      "url": "https://mamaplus.com/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-p-694",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642eb1ed7.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642eb1ed7.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-694/01-e25005c619.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243524d3823.webp",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-694/02-b10d4985ea.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a232bb6.jpg",
+          "localPath": "products/dogplus-pate-dana-etli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-694/03-f0fccbb0f1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "name": "DogPlus Pate  Kuzu Etli ve Balkabaklı Yetişkin Köpek Konserve Yaş Mama 395 Gr x 12 Adet",
+      "slug": "dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet",
+      "url": "https://mamaplus.com/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-p-695",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642f96108.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642f96108.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-695/01-4a58febcf0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_682435267bd9d.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-695/02-fedf4d781b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a1d9587.jpg",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-12-adet-695/03-c39586dfa7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "name": "DogPlus Pate Kuzu Etli ve Balkabaklı Yetişkin Köpek Konserve Yaş Mama 395 Gr x 24 Adet",
+      "slug": "dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet",
+      "url": "https://mamaplus.com/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-p-696",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642fbb4ff.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642fbb4ff.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-696/01-4025a77251.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_68243526a13cb.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-696/02-66c7bc0ecd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a1d9587.jpg",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-24-adet-696/03-c39586dfa7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "name": "DogPlus Pate  Kuzu Etli ve Balkabaklı Yetişkin Köpek Konserve Yaş Mama 395 Gr x 6 Adet",
+      "slug": "dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet",
+      "url": "https://mamaplus.com/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-p-697",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642f5d704.webp",
+      "imageCount": 3,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642f5d704.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-697/01-5c5f8c85e9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler/700_900_6824352645f5b.webp",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-697/02-94af5c045e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/konserveler/700_900_68c185a1d9587.jpg",
+          "localPath": "products/dogplus-pate-kuzu-etli-ve-balkabakli-yetiskin-kopek-konserve-yas-mama-395-gr-x-6-adet-697/03-c39586dfa7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Gofrette Bentonit Natural Topaklanan Kedi Kumu 20 Lt",
+      "slug": "gofrette-bentonit-natural-topaklanan-kedi-kumu-20-lt",
+      "url": "https://mamaplus.com/gofrette-bentonit-natural-topaklanan-kedi-kumu-20-lt-p-702",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/470_470_66c43b754165c.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Kumllar/700_900_66c43b754165c.webp",
+          "localPath": "products/gofrette-bentonit-natural-topaklanan-kedi-kumu-20-lt-702/01-1a1ec4706c.webp"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Bonnie Somonlu Yetişkin Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-703",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca05afa7.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca05afa7.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet-703/01-1323199e22.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973bc0339.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet-703/02-9fef6c87d1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6dd8f02.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet-703/03-88d16e1f5d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-somonlu-yetiskin-kedi-mamasi-15-kg-x-2-adet-703/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "name": "Gofrette Biftekli Yetişkin Köpek Maması 15 Kg",
+      "slug": "gofrette-biftekli-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-p-707",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/470_470_676aaa9248306.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_676aaa9248306.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/01-28c5ec3fff.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_66c447355adae.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/02-3dc985065b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_66c4472dc59d1.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/03-ba5a51b257.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_66c44734a28d9.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/04-0f7d2329a3.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_66c44734b43fd.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/05-8b7b9d1bfd.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_66c4473566a12.webp",
+          "localPath": "products/gofrette-biftekli-yetiskin-kopek-mamasi-15-kg-707/06-a154286674.webp"
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "name": "Gofrette Tavuklu Yetişkin Kedi Maması 10 Kg",
+      "slug": "gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-p-710",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/470_470_676aaa923d5ee.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Gofrette/700_900_676aaa923d5ee.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/01-733390d91f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/700_900_66557cda38d5a.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/02-22225fd064.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/700_900_66557cda165f0.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/03-d7477b6156.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/700_900_66557cdac592a.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/04-51cdee7281.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/700_900_66557cdc09577.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/05-fedf11c19d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/Yeni_urun_gorselleri/700_900_66557cda5d299.webp",
+          "localPath": "products/gofrette-tavuklu-yetiskin-kedi-mamasi-10-kg-710/06-616ce71426.webp"
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "name": "Bonnie Renkli Taneli Dana Etli Yetişkin Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-711",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9e49133.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9e49133.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-711/01-ee6a16c707.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973a21bc6.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-711/02-4c3838b468.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6b234e4.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-711/03-e09622ed5b.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-renkli-taneli-dana-etli-yetiskin-kedi-mamasi-15-kg-x-2-adet-711/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "name": "Mercy Tavuklu Kısırlaştırılmış Kedi Maması 10 Kg",
+      "slug": "mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-p-716",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/470_470_671a15a6a93db.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_671a15a6a93db.webp",
+          "localPath": "products/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-716/01-10d1a9c6ef.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66bdb805a5ff5.webp",
+          "localPath": "products/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-716/02-d0459470e6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66bdb805e934b.webp",
+          "localPath": "products/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-716/03-b86d1885ec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba834fdee.webp",
+          "localPath": "products/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-716/04-c4bef4ed67.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-tavuklu-kisirlastirilmis-kedi-mamasi-10-kg-716/05-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "name": "Mercy Tavuklu Yavru Kedi Maması 10 Kg",
+      "slug": "mercy-tavuklu-yavru-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/mercy-tavuklu-yavru-kedi-mamasi-10-kg-p-717",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/470_470_671a15a6acbaf.webp",
+      "imageCount": 5,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_671a15a6acbaf.webp",
+          "localPath": "products/mercy-tavuklu-yavru-kedi-mamasi-10-kg-717/01-f7ecaa80ba.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66bdb805c59c1.webp",
+          "localPath": "products/mercy-tavuklu-yavru-kedi-mamasi-10-kg-717/02-669a14e9b0.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_66bdb80658323.webp",
+          "localPath": "products/mercy-tavuklu-yavru-kedi-mamasi-10-kg-717/03-a014630756.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Mercy/700_900_67a9ba834dd79.webp",
+          "localPath": "products/mercy-tavuklu-yavru-kedi-mamasi-10-kg-717/04-968570ccf6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66518fd245aab.webp",
+          "localPath": "products/mercy-tavuklu-yavru-kedi-mamasi-10-kg-717/05-7ade095398.webp"
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "name": "Bonnie Kuzu Etli Yetişkin Kedi Maması 1,5 Kg",
+      "slug": "bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-p-727",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9e792a8.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9e792a8.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-727/01-82d0f7a4d1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973696f35.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-727/02-e0bb6b3f83.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f697dea6.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-727/03-1cac85cb19.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-15-kg-727/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "name": "Bonnie Tavuklu Yavru Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-p-745",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bc9f5090f.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bc9f5090f.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/01-62a5f58523.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_67501d333079f.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/02-7a5aaa8cee.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6f23119.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/03-18b65251b1.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_67501d3407b9f.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/04-3d685b21b6.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_67501d3411cd6.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/05-63408394fa.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yavru-kedi-mamasi-15-kg-x-2-adet-745/06-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Bonnie Kuzu Etli Yavru Köpek Maması 2,5 Kg x 2 Adet",
+      "slug": "bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-p-750",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca33fb3a.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca33fb3a.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/01-0f97e9111c.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_6658779f2ecef.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/02-00e75ce4fc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6f55dcb.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/03-53672132fc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_6658302487bfb.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/04-ce484dd97d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_665830245b8b9.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/05-e5ccc04a66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-x-2-adet-750/06-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "name": "Bonnie Kısırlaştırılmış Tavuklu Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet-p-751",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca198ffc.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca198ffc.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet-751/01-41a26fce7e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_66519737cbb4d.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet-751/02-4f5f2a71ad.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f68ba9a9.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet-751/03-223f4d7c7f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-2-adet-751/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "name": "Bonnie Kısırlaştırılmış Tavuklu Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet-p-752",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca17b7da.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca17b7da.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet-752/01-e5281f7413.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_66519737cbb4d.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet-752/02-4f5f2a71ad.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f68ba9a9.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet-752/03-223f4d7c7f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-x-3-adet-752/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "name": "Bonnie Kuzu Etli Yavru Köpek Maması 2,5 Kg",
+      "slug": "bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-p-759",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca2b53ed.webp",
+      "imageCount": 6,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca2b53ed.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/01-587bdd2875.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6f55dcb.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/02-53672132fc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_6658779f2ecef.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/03-00e75ce4fc.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_665830245b8b9.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/04-e5ccc04a66.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Yavrular/700_900_6658302487bfb.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/05-ce484dd97d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yavru-kopek-mamasi-25-kg-759/06-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "name": "Bonnie Kısırlaştırılmış Tavuklu Kedi Maması 1,5 Kg",
+      "slug": "bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg",
+      "url": "https://mamaplus.com/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-p-760",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca11a8c2.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca11a8c2.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-760/01-7dfef26eb7.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_66519737cbb4d.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-760/02-4f5f2a71ad.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f68ba9a9.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-760/03-223f4d7c7f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kisirlastirilmis-tavuklu-kedi-mamasi-15-kg-760/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "name": "Milo Tavuklu Yetişkin Köpek Maması 15 Kg",
+      "slug": "milo-tavuklu-yetiskin-kopek-mamasi-15-kg",
+      "url": "https://mamaplus.com/milo-tavuklu-yetiskin-kopek-mamasi-15-kg-p-761",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Milo/470_470_67851521da709.jpg",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Milo/700_900_67851521da709.jpg",
+          "localPath": "products/milo-tavuklu-yetiskin-kopek-mamasi-15-kg-761/01-72c05792e9.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Milo/700_900_678515144494a.jpg",
+          "localPath": "products/milo-tavuklu-yetiskin-kopek-mamasi-15-kg-761/02-a8f566ff63.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Milo/700_900_6785151444995.jpg",
+          "localPath": "products/milo-tavuklu-yetiskin-kopek-mamasi-15-kg-761/03-9c9e92cce1.jpg"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Milo/700_900_6785151ab31ec.jpg",
+          "localPath": "products/milo-tavuklu-yetiskin-kopek-mamasi-15-kg-761/04-86a23dc41d.jpg"
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "name": "Bonnie Kuzu Etli Yetişkin Kedi Maması 10 Kg",
+      "slug": "bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg-p-762",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/470_470_67b85a4b60291.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_67b85a4b60291.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg-762/01-68cf83de4e.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_67b85a1d088a0.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg-762/02-006adae5c2.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/700_900_67b85a1d0b425.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg-762/03-2b0c8f4b4d.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-kuzu-etli-yetiskin-kedi-mamasi-10-kg-762/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "name": "Bonnie Tavuklu Yetişkin Kedi Maması 1,5 Kg x 2 Adet",
+      "slug": "bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-p-765",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca1ce7ff.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca1ce7ff.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-765/01-40d01ad4c9.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973c96371.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-765/02-5852891f77.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6837882.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-765/03-8a5efa5dec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-2-adet-765/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "name": "Bonnie Tavuklu Yetişkin Kedi Maması 1,5 Kg x 3 Adet",
+      "slug": "bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet-p-766",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/470_470_6904bca238cd6.webp",
+      "imageCount": 4,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/guncel_kare_bonnie/700_900_6904bca238cd6.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet-766/01-295400be1f.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Bonnie/kucuk_gramaj_kediler/700_900_6651973c96371.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet-766/02-5852891f77.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Guncel_bonnie/700_900_69036f6837882.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet-766/03-8a5efa5dec.webp"
+        },
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/MamaGecisleri/700_900_66519500dd6ee.webp",
+          "localPath": "products/bonnie-tavuklu-yetiskin-kedi-mamasi-15-kg-x-3-adet-766/04-41860aed40.webp"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "name": "DogPlus Lezzetli Yarı Yumuşak Karışık Köpek Ödül Maması 180 Gr",
+      "slug": "dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-p-769",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b337a48c1.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b337a48c1.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-769/01-9158a0f1c8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "name": "DogPlus Lezzetli Yarı Yumuşak Karışık Köpek Ödül Maması 180 Gr x 3 Adet",
+      "slug": "dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-3-adet",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-3-adet-p-770",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b3a107f2b.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b3a107f2b.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-3-adet-770/01-4f89c7ba56.jpg"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "name": "DogPlus Lezzetli Yarı Yumuşak Karışık Köpek Ödül Maması 180 Gr x 5 Adet",
+      "slug": "dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-5-adet",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-5-adet-p-771",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b3be5e446.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b3be5e446.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-karisik-kopek-odul-mamasi-180-gr-x-5-adet-771/01-f29c096a7f.jpg"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "name": "DogPlus Lezzetli Yarı - Yumuşak Kemik Şeklinde Köpek Ödül Maması 180 Gr",
+      "slug": "dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-p-772",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b3dca9da4.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b3dca9da4.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-772/01-514c815153.jpg"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "name": "DogPlus Lezzetli Yarı - Yumuşak Kemik Şeklinde Köpek Ödül Maması 180 Gr x 3 Adet",
+      "slug": "dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-3-adet",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-3-adet-p-773",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b3ea91aec.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b3ea91aec.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-3-adet-773/01-ea56c4d7e4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "name": "DogPlus Lezzetli Yarı - Yumuşak Kemik Şeklinde Köpek Ödül Maması 180 Gr x 5 Adet",
+      "slug": "dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-5-adet",
+      "url": "https://mamaplus.com/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-5-adet-p-774",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/470_470_69b2b43418965.jpg",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/20_Mayis_Yeni_Gorseller_Urun/Oduller/700_900_69b2b43418965.jpg",
+          "localPath": "products/dogplus-lezzetli-yari-yumusak-kemik-seklinde-kopek-odul-mamasi-180-gr-x-5-adet-774/01-e683891101.jpg"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "name": "Bonnie Tavuklu Sos İçinde Et Parçacıklı Yavru Kedi Konservesi 400g x 24 Adet",
+      "slug": "bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-24-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-24-adet-p-776",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642b88cea.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642b88cea.webp",
+          "localPath": "products/bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-24-adet-776/01-bb63c72b37.webp"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "name": "Bonnie Tavuklu Sos İçinde Et Parçacıklı Yavru Kedi Konservesi 400g x 12 Adet",
+      "slug": "bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet-p-777",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642b5dcea.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642b5dcea.webp",
+          "localPath": "products/bonnie-tavuklu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet-777/01-9af22a50d6.webp"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "name": "Bonnie Tavuklu Sos İçinde Et Parçacıklı Kedi Konservesi 400g x 12 Adet",
+      "slug": "bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet-p-778",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642c18d8b.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642c18d8b.webp",
+          "localPath": "products/bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet-778/01-988bb286fe.webp"
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "name": "Bonnie Tavuklu Sos İçinde Et Parçacıklı Kedi Konservesi 400g x 24 Adet",
+      "slug": "bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet",
+      "url": "https://mamaplus.com/bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-p-779",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642c393ce.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642c393ce.webp",
+          "localPath": "products/bonnie-tavuklu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-779/01-73583e6ad9.webp"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "name": "Bonnie Kuzu Etli Sos İçinde Et Parçacıklı Kedi Konservesi 400g x 12 Adet",
+      "slug": "bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet-p-780",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642a68b8b.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642a68b8b.webp",
+          "localPath": "products/bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-12-adet-780/01-d7b06689c1.webp"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "name": "Bonnie Kuzu Etli  Sos İçinde Et Parçacıklı Kedi Konservesi 400g x 24 Adet",
+      "slug": "bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet",
+      "url": "https://mamaplus.com/bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-p-781",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642a586a0.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642a586a0.webp",
+          "localPath": "products/bonnie-kuzu-etli-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-781/01-143f349e08.webp"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "name": "Bonnie Somonlu Sos İçinde Et Parçacıklı Yavru Kedi Konservesi 400g x 12 Adet",
+      "slug": "bonnie-somonlu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet",
+      "url": "https://mamaplus.com/bonnie-somonlu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet-p-782",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642aab39b.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642aab39b.webp",
+          "localPath": "products/bonnie-somonlu-sos-icinde-et-parcacikli-yavru-kedi-konservesi-400g-x-12-adet-782/01-d85375a595.webp"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "name": "Bonnie Somonlu Sos İçinde Et Parçacıklı Kedi Konservesi 400g x 24 Adet",
+      "slug": "bonnie-somonlu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet",
+      "url": "https://mamaplus.com/bonnie-somonlu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-p-783",
+      "sitemapImageUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/470_470_69ce642b14910.webp",
+      "imageCount": 1,
+      "images": [
+        {
+          "remoteUrl": "https://cdn.mamaplus.com/storage/cache/uploads/images/28_nisan_yeni_gorseller_2025/konserveler2026yeni/700_900_69ce642b14910.webp",
+          "localPath": "products/bonnie-somonlu-sos-icinde-et-parcacikli-kedi-konservesi-400g-x-24-adet-783/01-3d7ab3dfdc.webp"
+        }
+      ]
+    }
+  ]
+}

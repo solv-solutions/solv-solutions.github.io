@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:03.830 --> 00:00:26.814
+A customer calls: 60,000 vacuum bags and 15,000 m of lid film, both wanted in ten days. Sales enters each article as a line of the order.
+
+2
+00:00:27.449 --> 00:00:35.349
+One click asks today's plan for a date. Nothing is booked yet.
+
+3
+00:00:35.977 --> 00:00:41.715
+The answer for the whole order: a day before the requested day.
+
+4
+00:00:42.349 --> 00:00:59.144
+Each line has its own day: the lid film three days early, the bags one day early. The bags set the order's day. The lines are asked one after the other, so they share the machines and the film as they will on the floor.
+
+5
+00:00:59.770 --> 00:01:10.010
+With every reason, line by line: film from stock, lamination, curing, slitting, bag making on the machine that finishes first.
+
+6
+00:01:10.637 --> 00:01:22.659
+Curing is a wait in clock hours, weekend included. Slitting cannot start before it ends. A laminate slit before its bond has set fails at the customer.
+
+7
+00:01:23.289 --> 00:01:30.526
+The date rests on one assumption: nobody has confirmed the speed of bag maker 1 yet.
+
+8
+00:01:31.156 --> 00:01:37.991
+Planning confirms it, and the date turns green.
+
+9
+00:01:38.641 --> 00:01:47.825
+Sales confirms the order. Its steps join the machine queues and the ERP is told.
+
+10
+00:01:49.303 --> 00:01:54.894
+Meso Lipa d.o.o. has the confirmation, in their own language.
