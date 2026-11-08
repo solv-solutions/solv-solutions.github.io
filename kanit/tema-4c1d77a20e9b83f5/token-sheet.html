@@ -1,0 +1,958 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Solv design tokens — every theme</title>
+<style>
+/* Emitted from @solv/design-tokens; this page is standalone on purpose. */
+[data-sheet-theme="light"] {
+    --solv-blue-50: #e8f2fc;
+    --solv-blue-100: #c5dff7;
+    --solv-blue-200: #9dcbf1;
+    --solv-blue-300: #6db3ea;
+    --solv-blue-400: #3d9ae3;
+    --solv-blue-500: #0080d4;
+    --solv-blue-600: #0064b4;
+    --solv-blue-700: #004d8c;
+    --solv-blue-800: #003764;
+    --solv-blue-900: #00213c;
+    --solv-blue-950: #001426;
+    --solv-paper-0: #fefcf9;
+    --solv-paper-50: #fbf8f3;
+    --solv-paper-100: #f5f1ea;
+    --solv-paper-200: #eae5dd;
+    --solv-paper-300: #dcd6ce;
+    --solv-paper-400: #c0bbb2;
+    --solv-ink-400: #8f8881;
+    --solv-ink-500: #6a625c;
+    --solv-ink-600: #5f5852;
+    --solv-ink-700: #4a433d;
+    --solv-ink-800: #37322d;
+    --solv-ink-900: #272320;
+    --solv-neutral-0: #ffffff;
+    --solv-neutral-50: #f4f6fa;
+    --solv-neutral-100: #eef1f7;
+    --solv-neutral-200: #dce2ed;
+    --solv-neutral-300: #c8d2e0;
+    --solv-neutral-400: #a0aec0;
+    --solv-neutral-500: #6b7a8d;
+    --solv-neutral-600: #4a5568;
+    --solv-neutral-700: #2e3a4d;
+    --solv-neutral-800: #1a2332;
+    --solv-neutral-900: #0f1f34;
+    --solv-neutral-950: #0a1525;
+    --solv-green-50: #ecfdf5;
+    --solv-green-100: #d1fae5;
+    --solv-green-200: #a7f3d0;
+    --solv-green-300: #6ee7b7;
+    --solv-green-400: #34d399;
+    --solv-green-500: #10b981;
+    --solv-green-600: #059669;
+    --solv-green-700: #047857;
+    --solv-green-800: #065f46;
+    --solv-green-900: #064e3b;
+    --solv-green-950: #022c22;
+    --solv-amber-50: #fffbeb;
+    --solv-amber-100: #fef3c7;
+    --solv-amber-200: #fde68a;
+    --solv-amber-300: #fcd34d;
+    --solv-amber-400: #fbbf24;
+    --solv-amber-500: #f59e0b;
+    --solv-amber-600: #d97706;
+    --solv-amber-700: #b45309;
+    --solv-amber-800: #92400e;
+    --solv-amber-900: #78350f;
+    --solv-amber-950: #451a03;
+    --solv-red-50: #fef2f2;
+    --solv-red-100: #fee2e2;
+    --solv-red-200: #fecaca;
+    --solv-red-300: #fca5a5;
+    --solv-red-400: #f87171;
+    --solv-red-500: #ef4444;
+    --solv-red-600: #dc2626;
+    --solv-red-700: #b91c1c;
+    --solv-red-800: #991b1b;
+    --solv-red-900: #7f1d1d;
+    --solv-red-950: #450a0a;
+    --solv-ochre-on-paper: #9a7b00;
+    --solv-ochre-on-ink: #b49003;
+    --solv-jade-on-paper: #007b5b;
+    --solv-jade-on-ink: #008462;
+    --solv-azure-on-paper: #0685c6;
+    --solv-azure-on-ink: #019be7;
+    --solv-violet-on-paper: #7040c0;
+    --solv-violet-on-ink: #7f5acc;
+    --solv-magenta-on-paper: #d14b9f;
+    --solv-magenta-on-ink: #db64ac;
+    --solv-vermillion-on-paper: #922500;
+    --solv-vermillion-on-ink: #c54521;
+    --solv-command-chrome: #04080e;
+    --solv-command-land: #0a1422;
+    --solv-command-hairline: #6698d2;
+    --solv-command-accent: #1f8fff;
+    --solv-command-signal: #3aa0ff;
+    --solv-command-amber: #ffb02e;
+    --solv-command-green: #35d07f;
+    --solv-command-red: #ff4d5e;
+    --solv-command-violet: #9b7bff;
+    --solv-command-slate: #6b7d94;
+    --solv-command-dim: #9db3cf;
+    --solv-command-title: #7dbcff;
+    --solv-command-on-blue: #cfe6ff;
+    --solv-command-on-amber: #ffe2b0;
+    --solv-command-on-green: #bdf3d8;
+    --solv-command-on-red: #ffd1d6;
+    --solv-command-on-violet: #ded2ff;
+    --solv-command-on-slate: #c3cede;
+    --solv-command-code: #bfe0ff;
+    --solv-system-grouped: #f2f2f7;
+    --solv-system-white: #ffffff;
+    --solv-system-bar: #f9f9f9;
+    --solv-system-label: #000000;
+    --solv-system-label-body: #1c1c1e;
+    --solv-system-label-secondary: #636366;
+    --solv-system-gray: #7c7c80;
+    --solv-system-gray3: #c7c7cc;
+    --solv-system-gray4: #d1d1d6;
+    --solv-system-separator: #c6c6c8;
+    --solv-system-blue: #0066cc;
+    --solv-system-blue-pressed: #0055b3;
+    --solv-system-blue-mark: #0040dd;
+    --solv-system-green: #1e7b34;
+    --solv-system-orange: #c93400;
+    --solv-system-red: #d70015;
+    --solv-system-purple: #8944ab;
+    --font-family-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+    --font-size-display: 2.25rem;
+    --font-size-h1: 1.875rem;
+    --font-size-h2: 1.5rem;
+    --font-size-h3: 1.25rem;
+    --font-size-body-lg: 1.125rem;
+    --font-size-body: 1rem;
+    --font-size-body-sm: 0.875rem;
+    --font-size-caption: 0.75rem;
+    --line-height-display: 1.1;
+    --line-height-h1: 1.2;
+    --line-height-h2: 1.25;
+    --line-height-h3: 1.3;
+    --line-height-body: 1.5;
+    --line-height-body-sm: 1.4;
+    --line-height-caption: 1.3;
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --tracking-tight: -0.025em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --type-density: 1;
+    --space-0: 0;
+    --space-px: 1px;
+    --space-0-5: 0.125rem;
+    --space-1: 0.25rem;
+    --space-1-5: 0.375rem;
+    --space-2: 0.5rem;
+    --space-2-5: 0.625rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.25rem;
+    --space-6: 1.5rem;
+    --space-8: 2rem;
+    --space-10: 2.5rem;
+    --space-12: 3rem;
+    --space-16: 4rem;
+    --space-20: 5rem;
+    --space-24: 6rem;
+    --radius-none: 0;
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 0.75rem;
+    --radius-xl: 1rem;
+    --radius-2xl: 1.5rem;
+    --radius-full: 9999px;
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+    --duration-fast: 100ms;
+    --duration-normal: 200ms;
+    --duration-slow: 350ms;
+    --ease-default: cubic-bezier(0.4, 0, 0.2, 1);
+    --ease-in: cubic-bezier(0.4, 0, 1, 1);
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --color-surface-base: #fbf8f3;
+    --color-surface-base-start: #fbf8f3;
+    --color-surface-base-end: #fefcf9;
+    --color-surface-card: #fefcf9;
+    --color-surface-elevated: #f5f1ea;
+    --color-surface-overlay: rgba(254, 252, 249, 0.88);
+    --color-surface-highlight: rgba(39, 35, 32, 0.06);
+    --color-surface-inverse: #272320;
+    --color-surface-scene: #eae5dd;
+    --color-surface-plate: rgba(254, 252, 249, 0.82);
+    --color-border-plate: rgba(39, 35, 32, 0.14);
+    --plate-blur: 8px;
+    --color-text-heading: #272320;
+    --color-text-body: #4a433d;
+    --color-text-muted: #6a625c;
+    --color-text-inverse: #fefcf9;
+    --color-text-link: #0064b4;
+    --color-text-accent: #0064b4;
+    --color-brand-primary: #0064b4;
+    --color-brand-primary-hover: #004d8c;
+    --color-brand-accent: #004d8c;
+    --color-brand-danger: #b91c1c;
+    --color-brand-success: #047857;
+    --color-brand-warning: #92400e;
+    --color-border-default: #8f8881;
+    --color-border-subtle: #dcd6ce;
+    --color-border-divider: #eae5dd;
+    --color-border-focus: #0080d4;
+    --shape-radius: 0;
+    --color-cat-1: #9a7b00;
+    --color-cat-2: #007b5b;
+    --color-cat-3: #0685c6;
+    --color-cat-4: #7040c0;
+    --color-cat-5: #d14b9f;
+    --color-cat-6: #922500;
+    --measure-prose: 68ch;
+    --backdrop-opacity: 0.15;
+    --color-backdrop: rgba(0, 0, 0, 0.4);
+    --logo-filter: brightness(0) opacity(0.8);
+    --color-scene-land: #fbf8f3;
+    --color-scene-rule: #8f8881;
+    --color-surface-chrome: #fefcf9;
+    --color-surface-field: #fefcf9;
+    --color-plate-hairline: #272320;
+    --color-accent-soft: #0064b4;
+    --color-mark-1: #0685c6;
+    --color-mark-2: #9a7b00;
+    --color-mark-3: #007b5b;
+    --color-mark-4: #922500;
+    --color-mark-5: #7040c0;
+    --color-mark-6: #6a625c;
+    --color-text-on-mark-1: #272320;
+    --color-text-on-mark-2: #272320;
+    --color-text-on-mark-3: #272320;
+    --color-text-on-mark-4: #272320;
+    --color-text-on-mark-5: #272320;
+    --color-text-on-mark-6: #272320;
+    --color-text-on-accent-wash: #272320;
+    --color-text-on-warning-wash: #272320;
+    --color-text-code: #4a433d;
+    --color-border-warning: rgba(146, 64, 14, 0.45);
+    --signal-glow: 0;
+    --bar-blur: 0px;
+    --color-scheme: light;
+    --font-family-ui: "Inter", "Segoe UI", system-ui, sans-serif;
+    --font-family-mono: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+    --font-family-mark: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+    --mark-case: uppercase;
+    --mark-tracking: 1;
+    --type-scale: 1;
+    --type-note: calc(12px * 1);
+    --type-label: calc(14px * 1);
+    --type-body: calc(16px * 1);
+    --type-section: calc(20px * 1);
+    --type-title: calc(28px * 1);
+    --control-height: 34px;
+    --color-brand-primary-rgb: 0, 100, 180;
+    --color-brand-success-rgb: 4, 120, 87;
+    --color-brand-warning-rgb: 146, 64, 14;
+    --color-brand-danger-rgb: 185, 28, 28;
+    --color-mark-1-rgb: 6, 133, 198;
+    --color-mark-2-rgb: 154, 123, 0;
+    --color-mark-3-rgb: 0, 123, 91;
+    --color-mark-4-rgb: 146, 37, 0;
+    --color-mark-5-rgb: 112, 64, 192;
+    --color-mark-6-rgb: 106, 98, 92;
+    --color-plate-hairline-rgb: 39, 35, 32;
+    --color-surface-chrome-rgb: 254, 252, 249;
+}
+
+[data-sheet-theme="dark"] {
+    --solv-blue-50: #e8f2fc;
+    --solv-blue-100: #c5dff7;
+    --solv-blue-200: #9dcbf1;
+    --solv-blue-300: #6db3ea;
+    --solv-blue-400: #3d9ae3;
+    --solv-blue-500: #0080d4;
+    --solv-blue-600: #0064b4;
+    --solv-blue-700: #004d8c;
+    --solv-blue-800: #003764;
+    --solv-blue-900: #00213c;
+    --solv-blue-950: #001426;
+    --solv-paper-0: #fefcf9;
+    --solv-paper-50: #fbf8f3;
+    --solv-paper-100: #f5f1ea;
+    --solv-paper-200: #eae5dd;
+    --solv-paper-300: #dcd6ce;
+    --solv-paper-400: #c0bbb2;
+    --solv-ink-400: #8f8881;
+    --solv-ink-500: #6a625c;
+    --solv-ink-600: #5f5852;
+    --solv-ink-700: #4a433d;
+    --solv-ink-800: #37322d;
+    --solv-ink-900: #272320;
+    --solv-neutral-0: #ffffff;
+    --solv-neutral-50: #f4f6fa;
+    --solv-neutral-100: #eef1f7;
+    --solv-neutral-200: #dce2ed;
+    --solv-neutral-300: #c8d2e0;
+    --solv-neutral-400: #a0aec0;
+    --solv-neutral-500: #6b7a8d;
+    --solv-neutral-600: #4a5568;
+    --solv-neutral-700: #2e3a4d;
+    --solv-neutral-800: #1a2332;
+    --solv-neutral-900: #0f1f34;
+    --solv-neutral-950: #0a1525;
+    --solv-green-50: #ecfdf5;
+    --solv-green-100: #d1fae5;
+    --solv-green-200: #a7f3d0;
+    --solv-green-300: #6ee7b7;
+    --solv-green-400: #34d399;
+    --solv-green-500: #10b981;
+    --solv-green-600: #059669;
+    --solv-green-700: #047857;
+    --solv-green-800: #065f46;
+    --solv-green-900: #064e3b;
+    --solv-green-950: #022c22;
+    --solv-amber-50: #fffbeb;
+    --solv-amber-100: #fef3c7;
+    --solv-amber-200: #fde68a;
+    --solv-amber-300: #fcd34d;
+    --solv-amber-400: #fbbf24;
+    --solv-amber-500: #f59e0b;
+    --solv-amber-600: #d97706;
+    --solv-amber-700: #b45309;
+    --solv-amber-800: #92400e;
+    --solv-amber-900: #78350f;
+    --solv-amber-950: #451a03;
+    --solv-red-50: #fef2f2;
+    --solv-red-100: #fee2e2;
+    --solv-red-200: #fecaca;
+    --solv-red-300: #fca5a5;
+    --solv-red-400: #f87171;
+    --solv-red-500: #ef4444;
+    --solv-red-600: #dc2626;
+    --solv-red-700: #b91c1c;
+    --solv-red-800: #991b1b;
+    --solv-red-900: #7f1d1d;
+    --solv-red-950: #450a0a;
+    --solv-ochre-on-paper: #9a7b00;
+    --solv-ochre-on-ink: #b49003;
+    --solv-jade-on-paper: #007b5b;
+    --solv-jade-on-ink: #008462;
+    --solv-azure-on-paper: #0685c6;
+    --solv-azure-on-ink: #019be7;
+    --solv-violet-on-paper: #7040c0;
+    --solv-violet-on-ink: #7f5acc;
+    --solv-magenta-on-paper: #d14b9f;
+    --solv-magenta-on-ink: #db64ac;
+    --solv-vermillion-on-paper: #922500;
+    --solv-vermillion-on-ink: #c54521;
+    --solv-command-chrome: #04080e;
+    --solv-command-land: #0a1422;
+    --solv-command-hairline: #6698d2;
+    --solv-command-accent: #1f8fff;
+    --solv-command-signal: #3aa0ff;
+    --solv-command-amber: #ffb02e;
+    --solv-command-green: #35d07f;
+    --solv-command-red: #ff4d5e;
+    --solv-command-violet: #9b7bff;
+    --solv-command-slate: #6b7d94;
+    --solv-command-dim: #9db3cf;
+    --solv-command-title: #7dbcff;
+    --solv-command-on-blue: #cfe6ff;
+    --solv-command-on-amber: #ffe2b0;
+    --solv-command-on-green: #bdf3d8;
+    --solv-command-on-red: #ffd1d6;
+    --solv-command-on-violet: #ded2ff;
+    --solv-command-on-slate: #c3cede;
+    --solv-command-code: #bfe0ff;
+    --solv-system-grouped: #f2f2f7;
+    --solv-system-white: #ffffff;
+    --solv-system-bar: #f9f9f9;
+    --solv-system-label: #000000;
+    --solv-system-label-body: #1c1c1e;
+    --solv-system-label-secondary: #636366;
+    --solv-system-gray: #7c7c80;
+    --solv-system-gray3: #c7c7cc;
+    --solv-system-gray4: #d1d1d6;
+    --solv-system-separator: #c6c6c8;
+    --solv-system-blue: #0066cc;
+    --solv-system-blue-pressed: #0055b3;
+    --solv-system-blue-mark: #0040dd;
+    --solv-system-green: #1e7b34;
+    --solv-system-orange: #c93400;
+    --solv-system-red: #d70015;
+    --solv-system-purple: #8944ab;
+    --font-family-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+    --font-size-display: 2.25rem;
+    --font-size-h1: 1.875rem;
+    --font-size-h2: 1.5rem;
+    --font-size-h3: 1.25rem;
+    --font-size-body-lg: 1.125rem;
+    --font-size-body: 1rem;
+    --font-size-body-sm: 0.875rem;
+    --font-size-caption: 0.75rem;
+    --line-height-display: 1.1;
+    --line-height-h1: 1.2;
+    --line-height-h2: 1.25;
+    --line-height-h3: 1.3;
+    --line-height-body: 1.5;
+    --line-height-body-sm: 1.4;
+    --line-height-caption: 1.3;
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --tracking-tight: -0.025em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --type-density: 1;
+    --space-0: 0;
+    --space-px: 1px;
+    --space-0-5: 0.125rem;
+    --space-1: 0.25rem;
+    --space-1-5: 0.375rem;
+    --space-2: 0.5rem;
+    --space-2-5: 0.625rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.25rem;
+    --space-6: 1.5rem;
+    --space-8: 2rem;
+    --space-10: 2.5rem;
+    --space-12: 3rem;
+    --space-16: 4rem;
+    --space-20: 5rem;
+    --space-24: 6rem;
+    --radius-none: 0;
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 0.75rem;
+    --radius-xl: 1rem;
+    --radius-2xl: 1.5rem;
+    --radius-full: 9999px;
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+    --duration-fast: 100ms;
+    --duration-normal: 200ms;
+    --duration-slow: 350ms;
+    --ease-default: cubic-bezier(0.4, 0, 0.2, 1);
+    --ease-in: cubic-bezier(0.4, 0, 1, 1);
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --color-surface-base: #0f1f34;
+    --color-surface-base-start: #0f1f34;
+    --color-surface-base-end: #1a2332;
+    --color-surface-card: #1a2332;
+    --color-surface-elevated: rgba(16, 33, 56, 0.5);
+    --color-surface-overlay: rgba(12, 24, 40, 0.62);
+    --color-surface-highlight: rgba(0, 100, 180, 0.08);
+    --color-surface-inverse: #f4f6fa;
+    --color-surface-scene: #04070c;
+    --color-surface-plate: rgba(6, 14, 24, 0.55);
+    --color-border-plate: rgba(102, 152, 210, 0.28);
+    --plate-blur: 14px;
+    --color-text-heading: #f5f9ff;
+    --color-text-body: #d3deec;
+    --color-text-muted: #9db3cf;
+    --color-text-inverse: #0f1f34;
+    --color-text-link: #3d9ae3;
+    --color-text-accent: #7dbcff;
+    --color-brand-primary: #1f8fff;
+    --color-brand-primary-hover: #3aa0ff;
+    --color-brand-accent: #6db3ea;
+    --color-brand-danger: #ff4d5e;
+    --color-brand-success: #35d07f;
+    --color-brand-warning: #ffb02e;
+    --color-border-default: rgba(133, 166, 206, 0.6);
+    --color-border-subtle: rgba(133, 166, 206, 0.25);
+    --color-border-divider: rgba(53, 81, 114, 0.4);
+    --color-border-focus: #3d9ae3;
+    --shape-radius: 0;
+    --color-cat-1: #b49003;
+    --color-cat-2: #008462;
+    --color-cat-3: #019be7;
+    --color-cat-4: #7f5acc;
+    --color-cat-5: #db64ac;
+    --color-cat-6: #c54521;
+    --measure-prose: 68ch;
+    --backdrop-opacity: 0.3;
+    --color-backdrop: rgba(0, 0, 0, 0.6);
+    --logo-filter: none;
+    --color-scene-land: #0a1422;
+    --color-scene-rule: rgba(80, 125, 175, 0.4);
+    --color-surface-chrome: #04080e;
+    --color-surface-field: rgba(10, 20, 34, 0.9);
+    --color-plate-hairline: #6698d2;
+    --color-accent-soft: rgba(58, 160, 255, 0.55);
+    --color-mark-1: #3aa0ff;
+    --color-mark-2: #ffb02e;
+    --color-mark-3: #35d07f;
+    --color-mark-4: #ff4d5e;
+    --color-mark-5: #9b7bff;
+    --color-mark-6: #6b7d94;
+    --color-text-on-mark-1: #cfe6ff;
+    --color-text-on-mark-2: #ffe2b0;
+    --color-text-on-mark-3: #bdf3d8;
+    --color-text-on-mark-4: #ffd1d6;
+    --color-text-on-mark-5: #ded2ff;
+    --color-text-on-mark-6: #c3cede;
+    --color-text-on-accent-wash: #cfe6ff;
+    --color-text-on-warning-wash: #ffe2b0;
+    --color-text-code: #bfe0ff;
+    --color-border-warning: rgba(255, 186, 80, 0.45);
+    --signal-glow: 1;
+    --bar-blur: 0px;
+    --color-scheme: dark;
+    --font-family-ui: "Inter", "Segoe UI", system-ui, sans-serif;
+    --font-family-mono: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+    --font-family-mark: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+    --mark-case: uppercase;
+    --mark-tracking: 1;
+    --type-scale: 1;
+    --type-note: calc(12px * 1);
+    --type-label: calc(14px * 1);
+    --type-body: calc(16px * 1);
+    --type-section: calc(20px * 1);
+    --type-title: calc(28px * 1);
+    --control-height: auto;
+    --color-brand-primary-rgb: 31, 143, 255;
+    --color-brand-success-rgb: 53, 208, 127;
+    --color-brand-warning-rgb: 255, 176, 46;
+    --color-brand-danger-rgb: 255, 77, 94;
+    --color-mark-1-rgb: 58, 160, 255;
+    --color-mark-2-rgb: 255, 176, 46;
+    --color-mark-3-rgb: 53, 208, 127;
+    --color-mark-4-rgb: 255, 77, 94;
+    --color-mark-5-rgb: 155, 123, 255;
+    --color-mark-6-rgb: 107, 125, 148;
+    --color-plate-hairline-rgb: 102, 152, 210;
+    --color-surface-chrome-rgb: 4, 8, 14;
+}
+
+[data-sheet-theme="cupertino"] {
+    --solv-blue-50: #e8f2fc;
+    --solv-blue-100: #c5dff7;
+    --solv-blue-200: #9dcbf1;
+    --solv-blue-300: #6db3ea;
+    --solv-blue-400: #3d9ae3;
+    --solv-blue-500: #0080d4;
+    --solv-blue-600: #0064b4;
+    --solv-blue-700: #004d8c;
+    --solv-blue-800: #003764;
+    --solv-blue-900: #00213c;
+    --solv-blue-950: #001426;
+    --solv-paper-0: #fefcf9;
+    --solv-paper-50: #fbf8f3;
+    --solv-paper-100: #f5f1ea;
+    --solv-paper-200: #eae5dd;
+    --solv-paper-300: #dcd6ce;
+    --solv-paper-400: #c0bbb2;
+    --solv-ink-400: #8f8881;
+    --solv-ink-500: #6a625c;
+    --solv-ink-600: #5f5852;
+    --solv-ink-700: #4a433d;
+    --solv-ink-800: #37322d;
+    --solv-ink-900: #272320;
+    --solv-neutral-0: #ffffff;
+    --solv-neutral-50: #f4f6fa;
+    --solv-neutral-100: #eef1f7;
+    --solv-neutral-200: #dce2ed;
+    --solv-neutral-300: #c8d2e0;
+    --solv-neutral-400: #a0aec0;
+    --solv-neutral-500: #6b7a8d;
+    --solv-neutral-600: #4a5568;
+    --solv-neutral-700: #2e3a4d;
+    --solv-neutral-800: #1a2332;
+    --solv-neutral-900: #0f1f34;
+    --solv-neutral-950: #0a1525;
+    --solv-green-50: #ecfdf5;
+    --solv-green-100: #d1fae5;
+    --solv-green-200: #a7f3d0;
+    --solv-green-300: #6ee7b7;
+    --solv-green-400: #34d399;
+    --solv-green-500: #10b981;
+    --solv-green-600: #059669;
+    --solv-green-700: #047857;
+    --solv-green-800: #065f46;
+    --solv-green-900: #064e3b;
+    --solv-green-950: #022c22;
+    --solv-amber-50: #fffbeb;
+    --solv-amber-100: #fef3c7;
+    --solv-amber-200: #fde68a;
+    --solv-amber-300: #fcd34d;
+    --solv-amber-400: #fbbf24;
+    --solv-amber-500: #f59e0b;
+    --solv-amber-600: #d97706;
+    --solv-amber-700: #b45309;
+    --solv-amber-800: #92400e;
+    --solv-amber-900: #78350f;
+    --solv-amber-950: #451a03;
+    --solv-red-50: #fef2f2;
+    --solv-red-100: #fee2e2;
+    --solv-red-200: #fecaca;
+    --solv-red-300: #fca5a5;
+    --solv-red-400: #f87171;
+    --solv-red-500: #ef4444;
+    --solv-red-600: #dc2626;
+    --solv-red-700: #b91c1c;
+    --solv-red-800: #991b1b;
+    --solv-red-900: #7f1d1d;
+    --solv-red-950: #450a0a;
+    --solv-ochre-on-paper: #9a7b00;
+    --solv-ochre-on-ink: #b49003;
+    --solv-jade-on-paper: #007b5b;
+    --solv-jade-on-ink: #008462;
+    --solv-azure-on-paper: #0685c6;
+    --solv-azure-on-ink: #019be7;
+    --solv-violet-on-paper: #7040c0;
+    --solv-violet-on-ink: #7f5acc;
+    --solv-magenta-on-paper: #d14b9f;
+    --solv-magenta-on-ink: #db64ac;
+    --solv-vermillion-on-paper: #922500;
+    --solv-vermillion-on-ink: #c54521;
+    --solv-command-chrome: #04080e;
+    --solv-command-land: #0a1422;
+    --solv-command-hairline: #6698d2;
+    --solv-command-accent: #1f8fff;
+    --solv-command-signal: #3aa0ff;
+    --solv-command-amber: #ffb02e;
+    --solv-command-green: #35d07f;
+    --solv-command-red: #ff4d5e;
+    --solv-command-violet: #9b7bff;
+    --solv-command-slate: #6b7d94;
+    --solv-command-dim: #9db3cf;
+    --solv-command-title: #7dbcff;
+    --solv-command-on-blue: #cfe6ff;
+    --solv-command-on-amber: #ffe2b0;
+    --solv-command-on-green: #bdf3d8;
+    --solv-command-on-red: #ffd1d6;
+    --solv-command-on-violet: #ded2ff;
+    --solv-command-on-slate: #c3cede;
+    --solv-command-code: #bfe0ff;
+    --solv-system-grouped: #f2f2f7;
+    --solv-system-white: #ffffff;
+    --solv-system-bar: #f9f9f9;
+    --solv-system-label: #000000;
+    --solv-system-label-body: #1c1c1e;
+    --solv-system-label-secondary: #636366;
+    --solv-system-gray: #7c7c80;
+    --solv-system-gray3: #c7c7cc;
+    --solv-system-gray4: #d1d1d6;
+    --solv-system-separator: #c6c6c8;
+    --solv-system-blue: #0066cc;
+    --solv-system-blue-pressed: #0055b3;
+    --solv-system-blue-mark: #0040dd;
+    --solv-system-green: #1e7b34;
+    --solv-system-orange: #c93400;
+    --solv-system-red: #d70015;
+    --solv-system-purple: #8944ab;
+    --font-family-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+    --font-size-display: 2.25rem;
+    --font-size-h1: 1.875rem;
+    --font-size-h2: 1.5rem;
+    --font-size-h3: 1.25rem;
+    --font-size-body-lg: 1.125rem;
+    --font-size-body: 1rem;
+    --font-size-body-sm: 0.875rem;
+    --font-size-caption: 0.75rem;
+    --line-height-display: 1.1;
+    --line-height-h1: 1.2;
+    --line-height-h2: 1.25;
+    --line-height-h3: 1.3;
+    --line-height-body: 1.5;
+    --line-height-body-sm: 1.4;
+    --line-height-caption: 1.3;
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --tracking-tight: -0.025em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --type-density: 1;
+    --space-0: 0;
+    --space-px: 1px;
+    --space-0-5: 0.125rem;
+    --space-1: 0.25rem;
+    --space-1-5: 0.375rem;
+    --space-2: 0.5rem;
+    --space-2-5: 0.625rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.25rem;
+    --space-6: 1.5rem;
+    --space-8: 2rem;
+    --space-10: 2.5rem;
+    --space-12: 3rem;
+    --space-16: 4rem;
+    --space-20: 5rem;
+    --space-24: 6rem;
+    --radius-none: 0;
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 0.75rem;
+    --radius-xl: 1rem;
+    --radius-2xl: 1.5rem;
+    --radius-full: 9999px;
+    --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.05);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+    --duration-fast: 100ms;
+    --duration-normal: 200ms;
+    --duration-slow: 350ms;
+    --ease-default: cubic-bezier(0.4, 0, 0.2, 1);
+    --ease-in: cubic-bezier(0.4, 0, 1, 1);
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+    --color-surface-base: #f2f2f7;
+    --color-surface-base-start: #f2f2f7;
+    --color-surface-base-end: #f2f2f7;
+    --color-surface-card: #ffffff;
+    --color-surface-elevated: #ffffff;
+    --color-surface-overlay: rgba(255, 255, 255, 0.94);
+    --color-surface-highlight: rgba(0, 0, 0, 0.05);
+    --color-surface-inverse: #1c1c1e;
+    --color-surface-scene: #f2f2f7;
+    --color-surface-plate: #ffffff;
+    --color-border-plate: rgba(60, 60, 67, 0.12);
+    --plate-blur: 20px;
+    --color-text-heading: #000000;
+    --color-text-body: #1c1c1e;
+    --color-text-muted: #636366;
+    --color-text-inverse: #ffffff;
+    --color-text-link: #0066cc;
+    --color-text-accent: #0040dd;
+    --color-brand-primary: #0066cc;
+    --color-brand-primary-hover: #0055b3;
+    --color-brand-accent: #0055b3;
+    --color-brand-danger: #d70015;
+    --color-brand-success: #1e7b34;
+    --color-brand-warning: #c93400;
+    --color-border-default: #7c7c80;
+    --color-border-subtle: #d1d1d6;
+    --color-border-divider: #c6c6c8;
+    --color-border-focus: #0066cc;
+    --shape-radius: 10px;
+    --color-cat-1: #9a7b00;
+    --color-cat-2: #007b5b;
+    --color-cat-3: #0685c6;
+    --color-cat-4: #7040c0;
+    --color-cat-5: #d14b9f;
+    --color-cat-6: #922500;
+    --measure-prose: 68ch;
+    --backdrop-opacity: 0.15;
+    --color-backdrop: rgba(0, 0, 0, 0.4);
+    --logo-filter: brightness(0) opacity(0.85);
+    --color-scene-land: #ffffff;
+    --color-scene-rule: #c7c7cc;
+    --color-surface-chrome: #f9f9f9;
+    --color-surface-field: #ffffff;
+    --color-plate-hairline: rgb(60, 60, 67);
+    --color-accent-soft: #0066cc;
+    --color-mark-1: #0040dd;
+    --color-mark-2: #c93400;
+    --color-mark-3: #1e7b34;
+    --color-mark-4: #d70015;
+    --color-mark-5: #8944ab;
+    --color-mark-6: #636366;
+    --color-text-on-mark-1: #000000;
+    --color-text-on-mark-2: #000000;
+    --color-text-on-mark-3: #000000;
+    --color-text-on-mark-4: #000000;
+    --color-text-on-mark-5: #000000;
+    --color-text-on-mark-6: #000000;
+    --color-text-on-accent-wash: #000000;
+    --color-text-on-warning-wash: #000000;
+    --color-text-code: #1c1c1e;
+    --color-border-warning: rgba(201, 52, 0, 0.45);
+    --signal-glow: 0;
+    --bar-blur: 20px;
+    --color-scheme: light;
+    --font-family-ui: -apple-system, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+    --font-family-mono: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+    --font-family-mark: -apple-system, "SF Pro Text", "Segoe UI", system-ui, sans-serif;
+    --mark-case: none;
+    --mark-tracking: 0;
+    --type-scale: 1;
+    --type-note: calc(13px * 1);
+    --type-label: calc(15px * 1);
+    --type-body: calc(17px * 1);
+    --type-section: calc(22px * 1);
+    --type-title: calc(28px * 1);
+    --control-height: 44px;
+    --color-brand-primary-rgb: 0, 102, 204;
+    --color-brand-success-rgb: 30, 123, 52;
+    --color-brand-warning-rgb: 201, 52, 0;
+    --color-brand-danger-rgb: 215, 0, 21;
+    --color-mark-1-rgb: 0, 64, 221;
+    --color-mark-2-rgb: 201, 52, 0;
+    --color-mark-3-rgb: 30, 123, 52;
+    --color-mark-4-rgb: 215, 0, 21;
+    --color-mark-5-rgb: 137, 68, 171;
+    --color-mark-6-rgb: 99, 99, 102;
+    --color-plate-hairline-rgb: 60, 60, 67;
+    --color-surface-chrome-rgb: 249, 249, 249;
+}
+
+* { box-sizing: border-box; }
+body {
+    margin: 0;
+    font-family: "Open Sans", system-ui, -apple-system, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.column {
+    background: var(--color-surface-base);
+    color: var(--color-text-body);
+    padding: 28px 32px 48px;
+    min-width: 0;
+}
+.column-head { margin-bottom: 28px; }
+.column-head h1 {
+    margin: 0 0 4px;
+    font-size: var(--type-section);
+    line-height: var(--line-height-h2);
+    color: var(--color-text-heading);
+    font-weight: var(--font-weight-semibold);
+}
+.muted { color: var(--color-text-muted); }
+p { margin: 0; }
+section { margin-bottom: 26px; }
+.section-title {
+    margin: 0 0 10px;
+    font-size: var(--type-note);
+    line-height: var(--line-height-caption);
+    letter-spacing: var(--tracking-wider);
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    font-weight: var(--font-weight-semibold);
+    border-bottom: 1px solid var(--color-border-divider);
+    padding-bottom: 6px;
+}
+code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: var(--type-note);
+}
+.value { color: var(--color-text-muted); margin-left: auto; }
+.swatch, .cat, .text-level, .type-step {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 0;
+}
+.chip {
+    width: 56px;
+    height: 22px;
+    flex: 0 0 auto;
+    border: 1px solid var(--color-border-default);
+    border-radius: var(--shape-radius);
+}
+.cat-chip { width: 22px; height: 22px; flex: 0 0 auto; border-radius: var(--shape-radius); }
+.dot { display: inline-block; width: 8px; height: 8px; margin-right: 7px; }
+.text-level p { font-size: var(--type-label); }
+.text-level code:first-child, .type-step code:first-child, .swatch code:first-child, .cat code:first-child {
+    width: 92px;
+    flex: 0 0 auto;
+    color: var(--color-text-muted);
+}
+.specimen { border: 1px solid var(--color-border-default); background: var(--color-surface-card); padding: 14px 16px; }
+table { width: 100%; border-collapse: collapse; font-size: var(--type-label); }
+th {
+    text-align: left;
+    font-size: var(--type-note);
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-text-muted);
+    font-weight: var(--font-weight-semibold);
+    background: var(--color-surface-highlight);
+    padding: 6px 8px;
+}
+td { padding: 5px 8px; border-top: 1px solid var(--color-border-divider); color: var(--color-text-body); }
+.mono { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-variant-numeric: tabular-nums; }
+.num { text-align: right; }
+.specimen-prose p { max-width: var(--measure-prose); font-size: var(--type-body); line-height: var(--line-height-body); }
+.specimen-prose p + p { margin-top: 10px; }
+.card { max-width: 420px; }
+.card h3 { margin: 0 0 2px; font-size: var(--type-section); color: var(--color-text-heading); font-weight: var(--font-weight-semibold); }
+.card hr { border: 0; border-top: 1px solid var(--color-border-subtle); margin: 12px 0; }
+.stats { display: flex; gap: 28px; margin: 0; }
+.stats dt { font-size: var(--type-note); color: var(--color-text-muted); text-transform: uppercase; letter-spacing: var(--tracking-wide); }
+.stats dd { margin: 2px 0 0; font-size: var(--type-section); color: var(--color-text-heading); font-variant-numeric: tabular-nums; }
+.stats .danger { color: var(--color-brand-danger); }
+.stats .success { color: var(--color-brand-success); }
+.actions { display: flex; gap: 8px; margin-top: 16px; }
+button {
+    font: inherit;
+    font-size: var(--type-label);
+    padding: 7px 14px;
+    border-radius: var(--shape-radius);
+    cursor: pointer;
+}
+.primary { background: var(--color-brand-primary); color: var(--color-text-inverse); border: 1px solid var(--color-brand-primary); }
+.outline { background: transparent; color: var(--color-text-body); border: 1px solid var(--color-border-default); }
+
+</style>
+</head>
+<body>
+<div class="column" data-sheet-theme="light" data-testid="sheet-light" id="sheet-light">
+  <header class="column-head">
+    <h1>Light — the working surface</h1>
+    <p class="muted">88 semantic tokens · @solv/design-tokens</p>
+  </header>
+  <section><h2 class="section-title">Surfaces</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-surface-base)"></span><code>surface-base</code><span class="muted">page ground</span><code class="value">#fbf8f3</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-card)"></span><code>surface-card</code><span class="muted">card</span><code class="value">#fefcf9</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-elevated)"></span><code>surface-elevated</code><span class="muted">raised panel</span><code class="value">#f5f1ea</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-highlight)"></span><code>surface-highlight</code><span class="muted">hover / selected</span><code class="value">rgba(39, 35, 32, 0.06)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-overlay)"></span><code>surface-overlay</code><span class="muted">dialog</span><code class="value">rgba(254, 252, 249, 0.88)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-scene)"></span><code>surface-scene</code><span class="muted">map / 3D ground</span><code class="value">#eae5dd</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-plate)"></span><code>surface-plate</code><span class="muted">plate over a scene</span><code class="value">rgba(254, 252, 249, 0.82)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-inverse)"></span><code>surface-inverse</code><span class="muted">inverted strip</span><code class="value">#272320</code></div></div></section>
+  <section><h2 class="section-title">Text</h2><div class="text-levels"><div class="text-level"><code>Heading</code><p style="color: var(--color-text-heading)">Sevkiyat kapanış özeti</p><code class="value">#272320</code></div><div class="text-level"><code>Body</code><p style="color: var(--color-text-body)">Palet 4 için okuma doğrulandı, ERP kaydı güncellendi.</p><code class="value">#4a433d</code></div><div class="text-level"><code>Muted</code><p style="color: var(--color-text-muted)">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</p><code class="value">#6a625c</code></div><div class="text-level"><code>Link</code><p style="color: var(--color-text-link)">İrsaliye 2026-000418 kaydını aç</p><code class="value">#0064b4</code></div></div></section>
+  <section><h2 class="section-title">Brand and status</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-brand-primary)"></span><code>brand-primary</code><span class="muted">primary</span><code class="value">#0064b4</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-accent)"></span><code>brand-accent</code><span class="muted">accent / hover</span><code class="value">#004d8c</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-success)"></span><code>brand-success</code><span class="muted">success</span><code class="value">#047857</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-warning)"></span><code>brand-warning</code><span class="muted">warning</span><code class="value">#92400e</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-danger)"></span><code>brand-danger</code><span class="muted">danger</span><code class="value">#b91c1c</code></div><div class="swatch"><span class="chip" style="background: var(--color-border-focus)"></span><code>border-focus</code><span class="muted">focus ring</span><code class="value">#0080d4</code></div></div></section>
+  <section><h2 class="section-title">Categorical scale — no meaning at this layer, marks not type</h2><div class="cats"><div class="cat"><span class="cat-chip" style="background: var(--color-cat-1)"></span><code>cat-1</code><span>Aşama 1</span><code class="value">#9a7b00</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-2)"></span><code>cat-2</code><span>Aşama 2</span><code class="value">#007b5b</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-3)"></span><code>cat-3</code><span>Aşama 3</span><code class="value">#0685c6</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-4)"></span><code>cat-4</code><span>Aşama 4</span><code class="value">#7040c0</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-5)"></span><code>cat-5</code><span>Aşama 5</span><code class="value">#d14b9f</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-6)"></span><code>cat-6</code><span>Aşama 6</span><code class="value">#922500</code></div></div></section>
+  <section><h2 class="section-title">Type scale</h2><div class="type"><div class="type-step"><code>note</code><span style="font-size: var(--type-note); line-height: 1.2">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</span></div><div class="type-step"><code>label</code><span style="font-size: var(--type-label); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>body</code><span style="font-size: var(--type-body); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>section</code><span style="font-size: var(--type-section); line-height: 1.2">Palet doğrulama</span></div><div class="type-step"><code>title</code><span style="font-size: var(--type-title); line-height: 1.2">Sevkiyat kapanışı</span></div></div></section>
+  <section><h2 class="section-title">Specimen — dense table</h2><div class="specimen specimen-table"><table><thead><tr><th>Belge</th><th>Cari</th><th>Tarih</th><th class="num">Matrah</th><th class="num">KDV</th><th>Aşama</th></tr></thead><tbody><tr><td class="mono">İRS-2026-000412</td><td>Kuzey Plastik A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">184.250,00</td><td class="mono num">36.850,00</td><td><span class="dot" style="background: var(--color-cat-1)"></span>Aşama 1</td></tr><tr><td class="mono">İRS-2026-000413</td><td>Ege Kompresör A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">62.400,00</td><td class="mono num">12.480,00</td><td><span class="dot" style="background: var(--color-cat-2)"></span>Aşama 2</td></tr><tr><td class="mono">İRS-2026-000414</td><td>Marmara Metal Ltd. Şti.</td><td class="mono">19.09.2026</td><td class="mono num">9.780,50</td><td class="mono num">1.956,10</td><td><span class="dot" style="background: var(--color-cat-3)"></span>Aşama 3</td></tr><tr><td class="mono">İRS-2026-000415</td><td>Toros Kimya A.Ş.</td><td class="mono">19.09.2026</td><td class="mono num">421.900,00</td><td class="mono num">84.380,00</td><td><span class="dot" style="background: var(--color-cat-4)"></span>Aşama 4</td></tr><tr><td class="mono">İRS-2026-000416</td><td>Anadolu Döküm San. Tic.</td><td class="mono">20.09.2026</td><td class="mono num">138.000,00</td><td class="mono num">27.600,00</td><td><span class="dot" style="background: var(--color-cat-5)"></span>Aşama 5</td></tr><tr><td class="mono">İRS-2026-000418</td><td>Batı Ambalaj A.Ş.</td><td class="mono">21.09.2026</td><td class="mono num">76.315,25</td><td class="mono num">15.263,05</td><td><span class="dot" style="background: var(--color-cat-6)"></span>Aşama 6</td></tr></tbody></table></div></section>
+  <section><h2 class="section-title">Specimen — prose at --measure-prose</h2><div class="specimen specimen-prose"><p>Bu tema iki iş için tasarlandı: okumak ve yazmak. Çalışma gününün büyük bölümü bunlarla geçiyor, bu yüzden açık tema kâğıt ve mürekkep gibi davranır; kontrast ışıktan değil, kâğıdın üstündeki mürekkepten gelir.</p><p>Ayrım gölgeyle değil, saç çizgisi kurallar ve boşlukla kurulur. Hiyerarşi önce boyut, ağırlık ve boşlukla; renge en son başvurulur. Tek bir vurgu rengi vardır ve yalnızca tıklanabilir ya da odaklanmış olanı işaretler.</p></div></section>
+  <section><h2 class="section-title">Specimen — card with a hairline rule</h2><div class="specimen"><article class="card"><h3>Palet doğrulama</h3><p class="muted">Kuzey saha · kapı 2 · vardiya 14:00–22:00</p><hr /><dl class="stats"><div><dt>Okunan</dt><dd>1.284</dd></div><div><dt>Eşleşmeyen</dt><dd class="danger">3</dd></div><div><dt>Kapanan</dt><dd class="success">41</dd></div></dl><div class="actions"><button class="primary" type="button">Kapanışı onayla</button><button class="outline" type="button">Listeye dön</button></div></article></div></section>
+  <section><h2 class="section-title">Measured contrast (WCAG 2.2)</h2><div class="specimen specimen-table"><table><thead><tr><th>pair</th><th class="num">ratio</th><th class="num">bar</th></tr></thead><tbody><tr><td>heading-on-base</td><td class="mono num">14.71</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-card</td><td class="mono num">15.22</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-elevated</td><td class="mono num">13.84</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-base</td><td class="mono num">9.17</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-card</td><td class="mono num">9.49</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-elevated</td><td class="mono num">8.63</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-highlight</td><td class="mono num">8.19</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate</td><td class="mono num">9.43</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate-over-scene</td><td class="mono num">9.16</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-plate-over-scene</td><td class="mono num">5.63</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-overlay</td><td class="mono num">9.45</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-base</td><td class="mono num">5.64</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-card</td><td class="mono num">5.83</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-elevated</td><td class="mono num">5.31</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-highlight</td><td class="mono num">5.04</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-base</td><td class="mono num">5.69</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-card</td><td class="mono num">5.89</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-base</td><td class="mono num">5.69</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-card</td><td class="mono num">5.89</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-scene</td><td class="mono num">12.43</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-scene</td><td class="mono num">7.75</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-scene</td><td class="mono num">4.77</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-surface-inverse</td><td class="mono num">15.22</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-accent</td><td class="mono num">8.40</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-primary-hover</td><td class="mono num">8.40</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-base</td><td class="mono num">5.18</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-card</td><td class="mono num">5.35</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-base</td><td class="mono num">6.69</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-card</td><td class="mono num">6.92</td><td class="mono num muted">4.5</td></tr><tr><td>cat-1-on-base</td><td class="mono num">3.81</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-card</td><td class="mono num">3.94</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-elevated</td><td class="mono num">3.58</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-scene</td><td class="mono num">3.22</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-base</td><td class="mono num">4.98</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-card</td><td class="mono num">5.15</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-elevated</td><td class="mono num">4.68</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-scene</td><td class="mono num">4.20</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-base</td><td class="mono num">3.83</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-card</td><td class="mono num">3.96</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-elevated</td><td class="mono num">3.60</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-scene</td><td class="mono num">3.23</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-base</td><td class="mono num">6.23</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-card</td><td class="mono num">6.44</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-elevated</td><td class="mono num">5.86</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-scene</td><td class="mono num">5.26</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-base</td><td class="mono num">3.80</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-card</td><td class="mono num">3.93</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-elevated</td><td class="mono num">3.57</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-scene</td><td class="mono num">3.21</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-base</td><td class="mono num">7.97</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-card</td><td class="mono num">8.25</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-elevated</td><td class="mono num">7.50</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-scene</td><td class="mono num">6.74</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-base</td><td class="mono num">3.93</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-card</td><td class="mono num">4.07</td><td class="mono num muted">3.0</td></tr><tr><td>inverse-on-primary</td><td class="mono num">5.89</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-base</td><td class="mono num">6.11</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-card</td><td class="mono num">6.32</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-danger</td><td class="mono num">6.32</td><td class="mono num muted">4.5</td></tr><tr><td>control-border-on-base</td><td class="mono num">3.30</td><td class="mono num muted">3.0</td></tr><tr><td>control-border-on-card</td><td class="mono num">3.41</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-scene</td><td class="mono num">3.23</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-land</td><td class="mono num">3.83</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-scene</td><td class="mono num">3.22</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-land</td><td class="mono num">3.81</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-scene</td><td class="mono num">4.20</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-land</td><td class="mono num">4.98</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-scene</td><td class="mono num">6.74</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-land</td><td class="mono num">7.97</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-scene</td><td class="mono num">5.26</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-land</td><td class="mono num">6.23</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-scene</td><td class="mono num">4.77</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-land</td><td class="mono num">5.64</td><td class="mono num muted">3.0</td></tr><tr><td>code-on-plate-over-scene</td><td class="mono num">9.16</td><td class="mono num muted">4.5</td></tr><tr><td>reading-heading-on-base</td><td class="mono num">14.71</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-card</td><td class="mono num">15.22</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-elevated</td><td class="mono num">13.84</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-highlight</td><td class="mono num">13.14</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-overlay</td><td class="mono num">15.16</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-plate</td><td class="mono num">15.13</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-plate-over-scene</td><td class="mono num">14.69</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-scene</td><td class="mono num">12.43</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-base</td><td class="mono num">9.17</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-card</td><td class="mono num">9.49</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-elevated</td><td class="mono num">8.63</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-highlight</td><td class="mono num">8.19</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-overlay</td><td class="mono num">9.45</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-plate</td><td class="mono num">9.43</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-plate-over-scene</td><td class="mono num">9.16</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-scene</td><td class="mono num">7.75</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-base</td><td class="mono num">5.64</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-card</td><td class="mono num">5.83</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-elevated</td><td class="mono num">5.31</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-highlight</td><td class="mono num">5.04</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-overlay</td><td class="mono num">5.81</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-plate</td><td class="mono num">5.80</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-plate-over-scene</td><td class="mono num">5.63</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-scene</td><td class="mono num">4.77</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-base</td><td class="mono num">5.69</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-card</td><td class="mono num">5.89</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-elevated</td><td class="mono num">5.36</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-highlight</td><td class="mono num">5.08</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-overlay</td><td class="mono num">5.87</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-plate</td><td class="mono num">5.85</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-plate-over-scene</td><td class="mono num">5.69</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-scene</td><td class="mono num">4.81</td><td class="mono num muted">4.5</td></tr></tbody></table></div></section>
+</div>
+<div class="column" data-sheet-theme="dark" data-testid="sheet-dark" id="sheet-dark">
+  <header class="column-head">
+    <h1>Dark — the command surface</h1>
+    <p class="muted">88 semantic tokens · @solv/design-tokens</p>
+  </header>
+  <section><h2 class="section-title">Surfaces</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-surface-base)"></span><code>surface-base</code><span class="muted">page ground</span><code class="value">#0f1f34</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-card)"></span><code>surface-card</code><span class="muted">card</span><code class="value">#1a2332</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-elevated)"></span><code>surface-elevated</code><span class="muted">raised panel</span><code class="value">rgba(16, 33, 56, 0.5)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-highlight)"></span><code>surface-highlight</code><span class="muted">hover / selected</span><code class="value">rgba(0, 100, 180, 0.08)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-overlay)"></span><code>surface-overlay</code><span class="muted">dialog</span><code class="value">rgba(12, 24, 40, 0.62)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-scene)"></span><code>surface-scene</code><span class="muted">map / 3D ground</span><code class="value">#04070c</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-plate)"></span><code>surface-plate</code><span class="muted">plate over a scene</span><code class="value">rgba(6, 14, 24, 0.55)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-inverse)"></span><code>surface-inverse</code><span class="muted">inverted strip</span><code class="value">#f4f6fa</code></div></div></section>
+  <section><h2 class="section-title">Text</h2><div class="text-levels"><div class="text-level"><code>Heading</code><p style="color: var(--color-text-heading)">Sevkiyat kapanış özeti</p><code class="value">#f5f9ff</code></div><div class="text-level"><code>Body</code><p style="color: var(--color-text-body)">Palet 4 için okuma doğrulandı, ERP kaydı güncellendi.</p><code class="value">#d3deec</code></div><div class="text-level"><code>Muted</code><p style="color: var(--color-text-muted)">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</p><code class="value">#9db3cf</code></div><div class="text-level"><code>Link</code><p style="color: var(--color-text-link)">İrsaliye 2026-000418 kaydını aç</p><code class="value">#3d9ae3</code></div></div></section>
+  <section><h2 class="section-title">Brand and status</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-brand-primary)"></span><code>brand-primary</code><span class="muted">primary</span><code class="value">#1f8fff</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-accent)"></span><code>brand-accent</code><span class="muted">accent / hover</span><code class="value">#6db3ea</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-success)"></span><code>brand-success</code><span class="muted">success</span><code class="value">#35d07f</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-warning)"></span><code>brand-warning</code><span class="muted">warning</span><code class="value">#ffb02e</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-danger)"></span><code>brand-danger</code><span class="muted">danger</span><code class="value">#ff4d5e</code></div><div class="swatch"><span class="chip" style="background: var(--color-border-focus)"></span><code>border-focus</code><span class="muted">focus ring</span><code class="value">#3d9ae3</code></div></div></section>
+  <section><h2 class="section-title">Categorical scale — no meaning at this layer, marks not type</h2><div class="cats"><div class="cat"><span class="cat-chip" style="background: var(--color-cat-1)"></span><code>cat-1</code><span>Aşama 1</span><code class="value">#b49003</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-2)"></span><code>cat-2</code><span>Aşama 2</span><code class="value">#008462</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-3)"></span><code>cat-3</code><span>Aşama 3</span><code class="value">#019be7</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-4)"></span><code>cat-4</code><span>Aşama 4</span><code class="value">#7f5acc</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-5)"></span><code>cat-5</code><span>Aşama 5</span><code class="value">#db64ac</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-6)"></span><code>cat-6</code><span>Aşama 6</span><code class="value">#c54521</code></div></div></section>
+  <section><h2 class="section-title">Type scale</h2><div class="type"><div class="type-step"><code>note</code><span style="font-size: var(--type-note); line-height: 1.2">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</span></div><div class="type-step"><code>label</code><span style="font-size: var(--type-label); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>body</code><span style="font-size: var(--type-body); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>section</code><span style="font-size: var(--type-section); line-height: 1.2">Palet doğrulama</span></div><div class="type-step"><code>title</code><span style="font-size: var(--type-title); line-height: 1.2">Sevkiyat kapanışı</span></div></div></section>
+  <section><h2 class="section-title">Specimen — dense table</h2><div class="specimen specimen-table"><table><thead><tr><th>Belge</th><th>Cari</th><th>Tarih</th><th class="num">Matrah</th><th class="num">KDV</th><th>Aşama</th></tr></thead><tbody><tr><td class="mono">İRS-2026-000412</td><td>Kuzey Plastik A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">184.250,00</td><td class="mono num">36.850,00</td><td><span class="dot" style="background: var(--color-cat-1)"></span>Aşama 1</td></tr><tr><td class="mono">İRS-2026-000413</td><td>Ege Kompresör A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">62.400,00</td><td class="mono num">12.480,00</td><td><span class="dot" style="background: var(--color-cat-2)"></span>Aşama 2</td></tr><tr><td class="mono">İRS-2026-000414</td><td>Marmara Metal Ltd. Şti.</td><td class="mono">19.09.2026</td><td class="mono num">9.780,50</td><td class="mono num">1.956,10</td><td><span class="dot" style="background: var(--color-cat-3)"></span>Aşama 3</td></tr><tr><td class="mono">İRS-2026-000415</td><td>Toros Kimya A.Ş.</td><td class="mono">19.09.2026</td><td class="mono num">421.900,00</td><td class="mono num">84.380,00</td><td><span class="dot" style="background: var(--color-cat-4)"></span>Aşama 4</td></tr><tr><td class="mono">İRS-2026-000416</td><td>Anadolu Döküm San. Tic.</td><td class="mono">20.09.2026</td><td class="mono num">138.000,00</td><td class="mono num">27.600,00</td><td><span class="dot" style="background: var(--color-cat-5)"></span>Aşama 5</td></tr><tr><td class="mono">İRS-2026-000418</td><td>Batı Ambalaj A.Ş.</td><td class="mono">21.09.2026</td><td class="mono num">76.315,25</td><td class="mono num">15.263,05</td><td><span class="dot" style="background: var(--color-cat-6)"></span>Aşama 6</td></tr></tbody></table></div></section>
+  <section><h2 class="section-title">Specimen — prose at --measure-prose</h2><div class="specimen specimen-prose"><p>Bu tema iki iş için tasarlandı: okumak ve yazmak. Çalışma gününün büyük bölümü bunlarla geçiyor, bu yüzden açık tema kâğıt ve mürekkep gibi davranır; kontrast ışıktan değil, kâğıdın üstündeki mürekkepten gelir.</p><p>Ayrım gölgeyle değil, saç çizgisi kurallar ve boşlukla kurulur. Hiyerarşi önce boyut, ağırlık ve boşlukla; renge en son başvurulur. Tek bir vurgu rengi vardır ve yalnızca tıklanabilir ya da odaklanmış olanı işaretler.</p></div></section>
+  <section><h2 class="section-title">Specimen — card with a hairline rule</h2><div class="specimen"><article class="card"><h3>Palet doğrulama</h3><p class="muted">Kuzey saha · kapı 2 · vardiya 14:00–22:00</p><hr /><dl class="stats"><div><dt>Okunan</dt><dd>1.284</dd></div><div><dt>Eşleşmeyen</dt><dd class="danger">3</dd></div><div><dt>Kapanan</dt><dd class="success">41</dd></div></dl><div class="actions"><button class="primary" type="button">Kapanışı onayla</button><button class="outline" type="button">Listeye dön</button></div></article></div></section>
+  <section><h2 class="section-title">Measured contrast (WCAG 2.2)</h2><div class="specimen specimen-table"><table><thead><tr><th>pair</th><th class="num">ratio</th><th class="num">bar</th></tr></thead><tbody><tr><td>heading-on-base</td><td class="mono num">15.70</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-card</td><td class="mono num">14.94</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-elevated</td><td class="mono num">15.52</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-base</td><td class="mono num">12.19</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-card</td><td class="mono num">11.60</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-elevated</td><td class="mono num">12.04</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-highlight</td><td class="mono num">11.45</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate</td><td class="mono num">13.40</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate-over-scene</td><td class="mono num">14.52</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-plate-over-scene</td><td class="mono num">9.20</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-overlay</td><td class="mono num">12.77</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-base</td><td class="mono num">7.73</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-card</td><td class="mono num">7.35</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-elevated</td><td class="mono num">7.64</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-highlight</td><td class="mono num">7.26</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-base</td><td class="mono num">5.47</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-card</td><td class="mono num">5.21</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-base</td><td class="mono num">5.08</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-card</td><td class="mono num">4.83</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-scene</td><td class="mono num">19.10</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-scene</td><td class="mono num">14.82</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-scene</td><td class="mono num">9.40</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-surface-inverse</td><td class="mono num">15.33</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-accent</td><td class="mono num">7.34</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-primary-hover</td><td class="mono num">6.04</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-base</td><td class="mono num">8.28</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-card</td><td class="mono num">7.88</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-base</td><td class="mono num">9.09</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-card</td><td class="mono num">8.65</td><td class="mono num muted">4.5</td></tr><tr><td>cat-1-on-base</td><td class="mono num">5.48</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-card</td><td class="mono num">5.21</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-elevated</td><td class="mono num">5.41</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-scene</td><td class="mono num">6.66</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-base</td><td class="mono num">3.54</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-card</td><td class="mono num">3.37</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-elevated</td><td class="mono num">3.49</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-scene</td><td class="mono num">4.30</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-base</td><td class="mono num">5.41</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-card</td><td class="mono num">5.14</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-elevated</td><td class="mono num">5.34</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-scene</td><td class="mono num">6.58</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-base</td><td class="mono num">3.35</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-card</td><td class="mono num">3.18</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-elevated</td><td class="mono num">3.31</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-scene</td><td class="mono num">4.07</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-base</td><td class="mono num">5.08</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-card</td><td class="mono num">4.83</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-elevated</td><td class="mono num">5.02</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-scene</td><td class="mono num">6.18</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-base</td><td class="mono num">3.36</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-card</td><td class="mono num">3.19</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-elevated</td><td class="mono num">3.32</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-scene</td><td class="mono num">4.08</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-base</td><td class="mono num">5.47</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-card</td><td class="mono num">5.21</td><td class="mono num muted">3.0</td></tr><tr><td>inverse-on-primary</td><td class="mono num">5.08</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-base</td><td class="mono num">5.12</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-card</td><td class="mono num">4.87</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-danger</td><td class="mono num">5.12</td><td class="mono num muted">4.5</td></tr><tr><td>control-border-on-base</td><td class="mono num">3.25</td><td class="mono num muted">3.0</td></tr><tr><td>control-border-on-card</td><td class="mono num">3.18</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-scene</td><td class="mono num">7.35</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-land</td><td class="mono num">6.74</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-scene</td><td class="mono num">11.05</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-land</td><td class="mono num">10.12</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-scene</td><td class="mono num">10.07</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-land</td><td class="mono num">9.22</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-scene</td><td class="mono num">6.22</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-land</td><td class="mono num">5.70</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-scene</td><td class="mono num">6.41</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-land</td><td class="mono num">5.87</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-scene</td><td class="mono num">4.79</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-land</td><td class="mono num">4.39</td><td class="mono num muted">3.0</td></tr><tr><td>code-on-plate-over-scene</td><td class="mono num">14.41</td><td class="mono num muted">4.5</td></tr><tr><td>reading-heading-on-base</td><td class="mono num">15.70</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-card</td><td class="mono num">14.94</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-elevated</td><td class="mono num">15.52</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-highlight</td><td class="mono num">14.75</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-overlay</td><td class="mono num">16.45</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-plate</td><td class="mono num">17.26</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-plate-over-scene</td><td class="mono num">18.70</td><td class="mono num muted">10.0</td></tr><tr><td>reading-heading-on-scene</td><td class="mono num">19.10</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-base</td><td class="mono num">12.19</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-card</td><td class="mono num">11.60</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-elevated</td><td class="mono num">12.04</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-highlight</td><td class="mono num">11.45</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-overlay</td><td class="mono num">12.77</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-plate</td><td class="mono num">13.40</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-plate-over-scene</td><td class="mono num">14.52</td><td class="mono num muted">10.0</td></tr><tr><td>reading-body-on-scene</td><td class="mono num">14.82</td><td class="mono num muted">10.0</td></tr><tr><td>reading-muted-on-base</td><td class="mono num">7.73</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-card</td><td class="mono num">7.35</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-elevated</td><td class="mono num">7.64</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-highlight</td><td class="mono num">7.26</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-overlay</td><td class="mono num">8.10</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-plate</td><td class="mono num">8.50</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-plate-over-scene</td><td class="mono num">9.20</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-scene</td><td class="mono num">9.40</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-base</td><td class="mono num">8.30</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-card</td><td class="mono num">7.90</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-elevated</td><td class="mono num">8.20</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-highlight</td><td class="mono num">7.80</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-overlay</td><td class="mono num">8.70</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-plate</td><td class="mono num">9.13</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-plate-over-scene</td><td class="mono num">9.89</td><td class="mono num muted">7.0</td></tr><tr><td>reading-accent-on-scene</td><td class="mono num">10.10</td><td class="mono num muted">7.0</td></tr></tbody></table></div></section>
+</div>
+<div class="column" data-sheet-theme="cupertino" data-testid="sheet-cupertino" id="sheet-cupertino">
+  <header class="column-head">
+    <h1>Cupertino — the plain surface (Apple HIG, not glass)</h1>
+    <p class="muted">88 semantic tokens · @solv/design-tokens</p>
+  </header>
+  <section><h2 class="section-title">Surfaces</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-surface-base)"></span><code>surface-base</code><span class="muted">page ground</span><code class="value">#f2f2f7</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-card)"></span><code>surface-card</code><span class="muted">card</span><code class="value">#ffffff</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-elevated)"></span><code>surface-elevated</code><span class="muted">raised panel</span><code class="value">#ffffff</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-highlight)"></span><code>surface-highlight</code><span class="muted">hover / selected</span><code class="value">rgba(0, 0, 0, 0.05)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-overlay)"></span><code>surface-overlay</code><span class="muted">dialog</span><code class="value">rgba(255, 255, 255, 0.94)</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-scene)"></span><code>surface-scene</code><span class="muted">map / 3D ground</span><code class="value">#f2f2f7</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-plate)"></span><code>surface-plate</code><span class="muted">plate over a scene</span><code class="value">#ffffff</code></div><div class="swatch"><span class="chip" style="background: var(--color-surface-inverse)"></span><code>surface-inverse</code><span class="muted">inverted strip</span><code class="value">#1c1c1e</code></div></div></section>
+  <section><h2 class="section-title">Text</h2><div class="text-levels"><div class="text-level"><code>Heading</code><p style="color: var(--color-text-heading)">Sevkiyat kapanış özeti</p><code class="value">#000000</code></div><div class="text-level"><code>Body</code><p style="color: var(--color-text-body)">Palet 4 için okuma doğrulandı, ERP kaydı güncellendi.</p><code class="value">#1c1c1e</code></div><div class="text-level"><code>Muted</code><p style="color: var(--color-text-muted)">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</p><code class="value">#636366</code></div><div class="text-level"><code>Link</code><p style="color: var(--color-text-link)">İrsaliye 2026-000418 kaydını aç</p><code class="value">#0066cc</code></div></div></section>
+  <section><h2 class="section-title">Brand and status</h2><div class="swatches"><div class="swatch"><span class="chip" style="background: var(--color-brand-primary)"></span><code>brand-primary</code><span class="muted">primary</span><code class="value">#0066cc</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-accent)"></span><code>brand-accent</code><span class="muted">accent / hover</span><code class="value">#0055b3</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-success)"></span><code>brand-success</code><span class="muted">success</span><code class="value">#1e7b34</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-warning)"></span><code>brand-warning</code><span class="muted">warning</span><code class="value">#c93400</code></div><div class="swatch"><span class="chip" style="background: var(--color-brand-danger)"></span><code>brand-danger</code><span class="muted">danger</span><code class="value">#d70015</code></div><div class="swatch"><span class="chip" style="background: var(--color-border-focus)"></span><code>border-focus</code><span class="muted">focus ring</span><code class="value">#0066cc</code></div></div></section>
+  <section><h2 class="section-title">Categorical scale — no meaning at this layer, marks not type</h2><div class="cats"><div class="cat"><span class="cat-chip" style="background: var(--color-cat-1)"></span><code>cat-1</code><span>Aşama 1</span><code class="value">#9a7b00</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-2)"></span><code>cat-2</code><span>Aşama 2</span><code class="value">#007b5b</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-3)"></span><code>cat-3</code><span>Aşama 3</span><code class="value">#0685c6</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-4)"></span><code>cat-4</code><span>Aşama 4</span><code class="value">#7040c0</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-5)"></span><code>cat-5</code><span>Aşama 5</span><code class="value">#d14b9f</code></div><div class="cat"><span class="cat-chip" style="background: var(--color-cat-6)"></span><code>cat-6</code><span>Aşama 6</span><code class="value">#922500</code></div></div></section>
+  <section><h2 class="section-title">Type scale</h2><div class="type"><div class="type-step"><code>note</code><span style="font-size: var(--type-note); line-height: 1.2">Son güncelleme 14:26 · kaynak: ERP sevkiyat servisi</span></div><div class="type-step"><code>label</code><span style="font-size: var(--type-label); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>body</code><span style="font-size: var(--type-body); line-height: 1.2">Okuma sırasında iki anten karşılıklı çalışır.</span></div><div class="type-step"><code>section</code><span style="font-size: var(--type-section); line-height: 1.2">Palet doğrulama</span></div><div class="type-step"><code>title</code><span style="font-size: var(--type-title); line-height: 1.2">Sevkiyat kapanışı</span></div></div></section>
+  <section><h2 class="section-title">Specimen — dense table</h2><div class="specimen specimen-table"><table><thead><tr><th>Belge</th><th>Cari</th><th>Tarih</th><th class="num">Matrah</th><th class="num">KDV</th><th>Aşama</th></tr></thead><tbody><tr><td class="mono">İRS-2026-000412</td><td>Kuzey Plastik A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">184.250,00</td><td class="mono num">36.850,00</td><td><span class="dot" style="background: var(--color-cat-1)"></span>Aşama 1</td></tr><tr><td class="mono">İRS-2026-000413</td><td>Ege Kompresör A.Ş.</td><td class="mono">18.09.2026</td><td class="mono num">62.400,00</td><td class="mono num">12.480,00</td><td><span class="dot" style="background: var(--color-cat-2)"></span>Aşama 2</td></tr><tr><td class="mono">İRS-2026-000414</td><td>Marmara Metal Ltd. Şti.</td><td class="mono">19.09.2026</td><td class="mono num">9.780,50</td><td class="mono num">1.956,10</td><td><span class="dot" style="background: var(--color-cat-3)"></span>Aşama 3</td></tr><tr><td class="mono">İRS-2026-000415</td><td>Toros Kimya A.Ş.</td><td class="mono">19.09.2026</td><td class="mono num">421.900,00</td><td class="mono num">84.380,00</td><td><span class="dot" style="background: var(--color-cat-4)"></span>Aşama 4</td></tr><tr><td class="mono">İRS-2026-000416</td><td>Anadolu Döküm San. Tic.</td><td class="mono">20.09.2026</td><td class="mono num">138.000,00</td><td class="mono num">27.600,00</td><td><span class="dot" style="background: var(--color-cat-5)"></span>Aşama 5</td></tr><tr><td class="mono">İRS-2026-000418</td><td>Batı Ambalaj A.Ş.</td><td class="mono">21.09.2026</td><td class="mono num">76.315,25</td><td class="mono num">15.263,05</td><td><span class="dot" style="background: var(--color-cat-6)"></span>Aşama 6</td></tr></tbody></table></div></section>
+  <section><h2 class="section-title">Specimen — prose at --measure-prose</h2><div class="specimen specimen-prose"><p>Bu tema iki iş için tasarlandı: okumak ve yazmak. Çalışma gününün büyük bölümü bunlarla geçiyor, bu yüzden açık tema kâğıt ve mürekkep gibi davranır; kontrast ışıktan değil, kâğıdın üstündeki mürekkepten gelir.</p><p>Ayrım gölgeyle değil, saç çizgisi kurallar ve boşlukla kurulur. Hiyerarşi önce boyut, ağırlık ve boşlukla; renge en son başvurulur. Tek bir vurgu rengi vardır ve yalnızca tıklanabilir ya da odaklanmış olanı işaretler.</p></div></section>
+  <section><h2 class="section-title">Specimen — card with a hairline rule</h2><div class="specimen"><article class="card"><h3>Palet doğrulama</h3><p class="muted">Kuzey saha · kapı 2 · vardiya 14:00–22:00</p><hr /><dl class="stats"><div><dt>Okunan</dt><dd>1.284</dd></div><div><dt>Eşleşmeyen</dt><dd class="danger">3</dd></div><div><dt>Kapanan</dt><dd class="success">41</dd></div></dl><div class="actions"><button class="primary" type="button">Kapanışı onayla</button><button class="outline" type="button">Listeye dön</button></div></article></div></section>
+  <section><h2 class="section-title">Measured contrast (WCAG 2.2)</h2><div class="specimen specimen-table"><table><thead><tr><th>pair</th><th class="num">ratio</th><th class="num">bar</th></tr></thead><tbody><tr><td>heading-on-base</td><td class="mono num">18.82</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-card</td><td class="mono num">21.00</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-elevated</td><td class="mono num">21.00</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-base</td><td class="mono num">15.25</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-card</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-elevated</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-highlight</td><td class="mono num">13.66</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-plate-over-scene</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-plate-over-scene</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-overlay</td><td class="mono num">16.91</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-base</td><td class="mono num">5.37</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-card</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-elevated</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-highlight</td><td class="mono num">4.81</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-base</td><td class="mono num">4.99</td><td class="mono num muted">4.5</td></tr><tr><td>link-on-card</td><td class="mono num">5.57</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-base</td><td class="mono num">4.99</td><td class="mono num muted">4.5</td></tr><tr><td>brand-primary-as-text-on-card</td><td class="mono num">5.57</td><td class="mono num muted">4.5</td></tr><tr><td>heading-on-scene</td><td class="mono num">18.82</td><td class="mono num muted">4.5</td></tr><tr><td>body-on-scene</td><td class="mono num">15.25</td><td class="mono num muted">4.5</td></tr><tr><td>muted-on-scene</td><td class="mono num">5.37</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-surface-inverse</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-accent</td><td class="mono num">7.12</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-primary-hover</td><td class="mono num">7.12</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-base</td><td class="mono num">4.78</td><td class="mono num muted">4.5</td></tr><tr><td>success-on-card</td><td class="mono num">5.33</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-base</td><td class="mono num">4.73</td><td class="mono num muted">4.5</td></tr><tr><td>warning-on-card</td><td class="mono num">5.28</td><td class="mono num muted">4.5</td></tr><tr><td>cat-1-on-base</td><td class="mono num">3.61</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-card</td><td class="mono num">4.03</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-elevated</td><td class="mono num">4.03</td><td class="mono num muted">3.0</td></tr><tr><td>cat-1-on-scene</td><td class="mono num">3.61</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-base</td><td class="mono num">4.72</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-card</td><td class="mono num">5.27</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-elevated</td><td class="mono num">5.27</td><td class="mono num muted">3.0</td></tr><tr><td>cat-2-on-scene</td><td class="mono num">4.72</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-base</td><td class="mono num">3.63</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-card</td><td class="mono num">4.06</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-elevated</td><td class="mono num">4.06</td><td class="mono num muted">3.0</td></tr><tr><td>cat-3-on-scene</td><td class="mono num">3.63</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-base</td><td class="mono num">5.91</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-card</td><td class="mono num">6.60</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-elevated</td><td class="mono num">6.60</td><td class="mono num muted">3.0</td></tr><tr><td>cat-4-on-scene</td><td class="mono num">5.91</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-base</td><td class="mono num">3.61</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-card</td><td class="mono num">4.02</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-elevated</td><td class="mono num">4.02</td><td class="mono num muted">3.0</td></tr><tr><td>cat-5-on-scene</td><td class="mono num">3.61</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-base</td><td class="mono num">7.57</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-card</td><td class="mono num">8.44</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-elevated</td><td class="mono num">8.44</td><td class="mono num muted">3.0</td></tr><tr><td>cat-6-on-scene</td><td class="mono num">7.57</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-base</td><td class="mono num">4.99</td><td class="mono num muted">3.0</td></tr><tr><td>focus-ring-on-card</td><td class="mono num">5.57</td><td class="mono num muted">3.0</td></tr><tr><td>inverse-on-primary</td><td class="mono num">5.57</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-base</td><td class="mono num">4.83</td><td class="mono num muted">4.5</td></tr><tr><td>danger-on-card</td><td class="mono num">5.38</td><td class="mono num muted">4.5</td></tr><tr><td>inverse-on-danger</td><td class="mono num">5.38</td><td class="mono num muted">4.5</td></tr><tr><td>control-border-on-base</td><td class="mono num">3.73</td><td class="mono num muted">3.0</td></tr><tr><td>control-border-on-card</td><td class="mono num">4.16</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-scene</td><td class="mono num">6.78</td><td class="mono num muted">3.0</td></tr><tr><td>mark-1-on-land</td><td class="mono num">7.56</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-scene</td><td class="mono num">4.73</td><td class="mono num muted">3.0</td></tr><tr><td>mark-2-on-land</td><td class="mono num">5.28</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-scene</td><td class="mono num">4.78</td><td class="mono num muted">3.0</td></tr><tr><td>mark-3-on-land</td><td class="mono num">5.33</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-scene</td><td class="mono num">4.83</td><td class="mono num muted">3.0</td></tr><tr><td>mark-4-on-land</td><td class="mono num">5.38</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-scene</td><td class="mono num">5.41</td><td class="mono num muted">3.0</td></tr><tr><td>mark-5-on-land</td><td class="mono num">6.04</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-scene</td><td class="mono num">5.37</td><td class="mono num muted">3.0</td></tr><tr><td>mark-6-on-land</td><td class="mono num">5.99</td><td class="mono num muted">3.0</td></tr><tr><td>code-on-plate-over-scene</td><td class="mono num">17.01</td><td class="mono num muted">4.5</td></tr><tr><td>reading-heading-on-base</td><td class="mono num">18.82</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-card</td><td class="mono num">21.00</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-elevated</td><td class="mono num">21.00</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-highlight</td><td class="mono num">16.86</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-overlay</td><td class="mono num">20.86</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-plate</td><td class="mono num">21.00</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-plate-over-scene</td><td class="mono num">21.00</td><td class="mono num muted">7.0</td></tr><tr><td>reading-heading-on-scene</td><td class="mono num">18.82</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-base</td><td class="mono num">15.25</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-card</td><td class="mono num">17.01</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-elevated</td><td class="mono num">17.01</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-highlight</td><td class="mono num">13.66</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-overlay</td><td class="mono num">16.91</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-plate</td><td class="mono num">17.01</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-plate-over-scene</td><td class="mono num">17.01</td><td class="mono num muted">7.0</td></tr><tr><td>reading-body-on-scene</td><td class="mono num">15.25</td><td class="mono num muted">7.0</td></tr><tr><td>reading-muted-on-base</td><td class="mono num">5.37</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-card</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-elevated</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-highlight</td><td class="mono num">4.81</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-overlay</td><td class="mono num">5.95</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-plate</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-plate-over-scene</td><td class="mono num">5.99</td><td class="mono num muted">4.5</td></tr><tr><td>reading-muted-on-scene</td><td class="mono num">5.37</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-base</td><td class="mono num">6.78</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-card</td><td class="mono num">7.56</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-elevated</td><td class="mono num">7.56</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-highlight</td><td class="mono num">6.07</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-overlay</td><td class="mono num">7.51</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-plate</td><td class="mono num">7.56</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-plate-over-scene</td><td class="mono num">7.56</td><td class="mono num muted">4.5</td></tr><tr><td>reading-accent-on-scene</td><td class="mono num">6.78</td><td class="mono num muted">4.5</td></tr></tbody></table></div></section>
+</div>
+</body>
+</html>

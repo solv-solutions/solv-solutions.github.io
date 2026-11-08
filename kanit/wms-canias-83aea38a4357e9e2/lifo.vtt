@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:05.048 --> 00:00:15.288
+Çıkış sırası kural setinde, malzeme grubu başına tanımlı. FIFO ve FEFO'nun yanında artık LIFO da var: en son giren önce çıkar.
+
+2
+00:00:15.911 --> 00:00:22.646
+Protein grubu LIFO'ya çevriliyor.
+
+3
+00:00:23.303 --> 00:00:31.468
+Gerekirse tek bir malzemeye kendi sırası verilir. Malzemenin sırası grubun sırasından önce gelir.
+
+4
+00:00:38.161 --> 00:00:45.018
+Operatör ikinci ekstruderi besliyor.
+
+5
+00:00:45.643 --> 00:00:51.758
+Hattın iş emrini seçiyor.
+
+6
+00:00:52.401 --> 00:01:00.171
+Önce gelen balık unu paletini okutuyor.
+
+7
+00:01:00.791 --> 00:01:05.604
+Sistem kabul etmiyor, en son gelen paleti istiyor.
+
+8
+00:01:06.238 --> 00:01:14.695
+Operatör en son gelen paleti okutuyor.
+
+9
+00:01:15.324 --> 00:01:19.137
+Hat en son gelen paletle besleniyor.

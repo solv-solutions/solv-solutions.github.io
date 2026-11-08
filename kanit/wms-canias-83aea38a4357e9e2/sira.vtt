@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:04.303 --> 00:00:13.129
+Çıkış sırası kural setinde, malzeme grubu başına seçiliyor. Tavuk grubu şu an FIFO: önce giren önce çıkar.
+
+2
+00:00:19.856 --> 00:00:29.336
+Operatör birinci ekstruderin iş emrini besliyor.
+
+3
+00:00:29.970 --> 00:00:37.848
+Sonra gelen tavuk yağı paletini okutuyor.
+
+4
+00:00:38.468 --> 00:00:42.063
+Sistem önce gelen paleti istiyor.
+
+5
+00:00:48.052 --> 00:00:55.912
+Sistem operatörü tavuk grubunu FEFO'ya çeviriyor.
+
+6
+00:00:56.560 --> 00:01:01.549
+Artık son kullanma tarihi en yakın palet önce çıkar.
+
+7
+00:01:11.619 --> 00:01:20.096
+Operatör aynı paleti yeniden okutuyor.
+
+8
+00:01:20.742 --> 00:01:28.410
+Palet bu kez hatta gidiyor. Son kullanma tarihi etiketten okundu, bu paletinki daha yakın.

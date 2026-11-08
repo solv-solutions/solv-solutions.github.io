@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS · Canias · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  .langs { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; margin: -16px 0 20px; font-size: 15px; }
+  .langs a { color: #9fb3cc; text-decoration: none; }
+  .langs a:hover, .langs a:focus-visible { color: #3aa0ff; }
+  .langs [aria-current] { color: #f5f9ff; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS · Canias</h1>
+  <p class="sub">Kural motorlu depo yönetimi, Canias ERP ile entegre: hammadde kabulünden yükleme kapısına, sayımdan fasona 28 konu; el terminali, tablet ve ofis aynı programda.</p>
+  <p class="hint">Videoları bilgisayarda, büyük ekranda ve tam ekran izlemenizi öneririz.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="tanitim.mp4">
+        <span class="thumb"><img src="tanitim.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT2945S">49:05</time></span>
+        <span class="title">Genel bakış</span>
+      </a>
+      <video src="tanitim.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="kabul">
+      <a class="card" data-testid="tanitim-card" href="kabul.mp4">
+        <span class="thumb"><img src="kabul.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT121S">2:01</time></span>
+        <span class="title">Canias ile hammadde kabulü</span>
+        <span class="summary">Canias'tan gelen eksik malzeme kartı kapıda durur, istisnayla açılır. Rampada paletler okutulur, her palet için Canias'a satınalma girişi gider (WMSPurchaseSave), kilitli kayıt kuyrukta kendiliğinden yeniden denenir.</span>
+      </a>
+      <video src="kabul.mp4" controls preload="none" hidden><track kind="captions" src="kabul.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="fefo">
+      <a class="card" data-testid="tanitim-card" href="fefo.mp4">
+        <span class="thumb"><img src="fefo.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT86S">1:26</time></span>
+        <span class="title">Son kullanma tarihiyle hat besleme</span>
+        <span class="summary">Varsayılan çıkış sırası FEFO: operatör önce gelen paleti okutunca sistem tarihi daha yakın olanı ister. Hatta giden palet iş emrine bağlanır, Canias'a üretime çıkış hareketi gider.</span>
+      </a>
+      <video src="fefo.mp4" controls preload="none" hidden><track kind="captions" src="fefo.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="sevk">
+      <a class="card" data-testid="tanitim-card" href="sevk.mp4">
+        <span class="thumb"><img src="sevk.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT147S">2:27</time></span>
+        <span class="title">Yükleme kapısı ve sevk belgesi</span>
+        <span class="summary">Toplayıcı tarihi en yakın paletleri sevk hazırlığa alır. Plaka sevk planıyla eşleşince kontrol listesi açılır, kapıda her palet okutulur, mühür numarasıyla liste tamamlanır, Canias sevk belgesini keser (WMSDeliverySave) ve e-irsaliye arkasından gider.</span>
+      </a>
+      <video src="sevk.mp4" controls preload="none" hidden><track kind="captions" src="sevk.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="arayuz">
+      <a class="card" data-testid="tanitim-card" href="arayuz.mp4">
+        <span class="thumb"><img src="arayuz.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT71S">1:11</time></span>
+        <span class="title">Canias arayüzü ve iş adımı tanımları</span>
+        <span class="summary">Her alışveriş Canias'ın kendi adıyla: standart WMS web servisleri yazar, SQL görünümleri okunur, tesisin ListDeliveryRFID servisi sevk siparişlerini getirir. Her iş adımının tanımında Canias'a ne yazılacağı yazılı.</span>
+      </a>
+      <video src="arayuz.mp4" controls preload="none" hidden><track kind="captions" src="arayuz.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="tutanak">
+      <a class="card" data-testid="tanitim-card" href="tutanak.mp4">
+        <span class="thumb"><img src="tutanak.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT88S">1:28</time></span>
+        <span class="title">Mal kabul tutanağı</span>
+        <span class="summary">Operatör el terminalinde irsaliyeyi okutur, hasarı seçer, notunu yazar, fotoğrafını çeker. Tutanak tedarikçiye kanıt olarak gider. Vardiya lideri tablette çözümü seçip tutanağı kapatır, kim ne zaman neye karar verdi kayıtta kalır.</span>
+      </a>
+      <video src="tutanak.mp4" controls preload="none" hidden><track kind="captions" src="tutanak.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="palet">
+      <a class="card" data-testid="tanitim-card" href="palet.mp4">
+        <span class="thumb"><img src="palet.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT95S">1:35</time></span>
+        <span class="title">Palet aritmetiği</span>
+        <span class="summary">Bir mısır paleti bölünür, ayrılan kısım yeni numara alır, sonra aynı palete geri birleştirilir. Sabahki iş emrinden artan mısır iş emrine bağlı iade olarak palete döner, Canias'a üretimden iade hareketi gider. Paletin geçmişi bölme, birleştirme ve iadeyle durur.</span>
+      </a>
+      <video src="palet.mp4" controls preload="none" hidden><track kind="captions" src="palet.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="sayim">
+      <a class="card" data-testid="tanitim-card" href="sayim.mp4">
+        <span class="thumb"><img src="sayim.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT255S">4:15</time></span>
+        <span class="title">Sayım</span>
+        <span class="summary">Kör sayım ve sıfır tolerans kural setinde. Vardiya lideri hammadde raflarına var-yok, tavuk yağı rafına miktar sayımı açar, sayılan raftan palet alınamaz. Operatör paletleri okutur, yan rafın paleti ve sistemde olmayan bir palet bulunur. Farklar depo müdürünün onayından sonra Canias'a sayım eksiği ve fazlası olarak gider.</span>
+      </a>
+      <video src="sayim.mp4" controls preload="none" hidden><track kind="captions" src="sayim.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="plaka">
+      <a class="card" data-testid="tanitim-card" href="plaka.mp4">
+        <span class="thumb"><img src="plaka.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT93S">1:33</time></span>
+        <span class="title">Plaka bazında kabul ve ret</span>
+        <span class="summary">Balık unu aracı plakasıyla gelir, araçtaki irsaliye ve palet etiketleri görünür. Sayı tutunca araç tek tuşla bütünüyle kabul edilir, her palet için satınalma girişi Canias'a gider. Rampada olmayan palet eksik bildirilir, girişi geri alınır ve tutanak açılır.</span>
+      </a>
+      <video src="plaka.mp4" controls preload="none" hidden><track kind="captions" src="plaka.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="randevu">
+      <a class="card" data-testid="tanitim-card" href="randevu.mp4">
+        <span class="thumb"><img src="randevu.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT98S">1:38</time></span>
+        <span class="title">Randevu ve rampa</span>
+        <span class="summary">Tedarikçi portalda etiketlerini basar, rampayı ve saati seçip randevu alır, sevke çıkarır. Vardiya lideri rampa takviminde Canias'tan gelen ön bildirimlerle portal randevusunu bir arada görür. Araç gelince mal kabul görevi açılır, operatör tedarikçinin bastığı etiketi okutur.</span>
+      </a>
+      <video src="randevu.mp4" controls preload="none" hidden><track kind="captions" src="randevu.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="portal">
+      <a class="card" data-testid="tanitim-card" href="portal.mp4">
+        <span class="thumb"><img src="portal.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT69S">1:09</time></span>
+        <span class="title">Tedarikçi portalı ve etiket</span>
+        <span class="summary">Tedarikçi kendi açık siparişlerini görür, palet sayısını ve palet başına miktarı girer. İrsaliye numarası olmadan etiket basılmaz. Basılan barkodlu etiketler sipariş satırındaki kalan miktarı düşürür.</span>
+      </a>
+      <video src="portal.mp4" controls preload="none" hidden><track kind="captions" src="portal.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="onay">
+      <a class="card" data-testid="tanitim-card" href="onay.mp4">
+        <span class="thumb"><img src="onay.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT147S">2:27</time></span>
+        <span class="title">İstisna ve onay akışı</span>
+        <span class="summary">Operatör FEFO kırmızısında nedenini yazıp onay ister, talep vardiya liderine ve Teams'e düşer. Onaydan sonra palet istisnayla geçer, sebep kodu ve kapanış nedeni kayda geçer. Süresi dolan talep depo müdürüne yükselir, eksik belgeli kabul iki seviyeli onaydan geçer, bütün akışlar tek tabloda.</span>
+      </a>
+      <video src="onay.mp4" controls preload="none" hidden><track kind="captions" src="onay.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="cogi">
+      <a class="card" data-testid="tanitim-card" href="cogi.mp4">
+        <span class="thumb"><img src="cogi.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT141S">2:21</time></span>
+        <span class="title">COGI kaydından otomatik sayım</span>
+        <span class="summary">Canias'tan gelen COGI kaydı kendiliğinden bir sayım emri açar: premiksin son görüldüğü lokasyon ve hat. Operatör kör sayımla miktarı yazar, fark depo müdürünün onayına düşer, onaydan sonra sayım eksiği hareketiyle Canias'a gider.</span>
+      </a>
+      <video src="cogi.mp4" controls preload="none" hidden><track kind="captions" src="cogi.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="kuyruk">
+      <a class="card" data-testid="tanitim-card" href="kuyruk.mp4">
+        <span class="thumb"><img src="kuyruk.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT89S">1:29</time></span>
+        <span class="title">Canias kuyruğu yük altında</span>
+        <span class="summary">Bir vardiyanın üretim barkodları aynı anda gelir, kuyruk kapasitesinin üstüne çıkar, hiçbir hareket kaybolmaz. El terminalinde iş durmaz: taşıma Canias'ı beklemeden biter, hareket kuyruğa girer. Kuyruk arkada boşalır, uyarı kalkar.</span>
+      </a>
+      <video src="kuyruk.mp4" controls preload="none" hidden><track kind="captions" src="kuyruk.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="acil">
+      <a class="card" data-testid="tanitim-card" href="acil.mp4">
+        <span class="thumb"><img src="acil.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT59S">0:59</time></span>
+        <span class="title">Acil üretim ihtiyacı</span>
+        <span class="summary">Canias planı tavuk ununu birinci ekstrudere acil gösterir, vardiya lideri balık ununu kendisi işaretler. Elle konan bayrağı Canias verisi ezmez. Bayrağın etkisi satırda yazar: rampadaki paletler kabulde doğrudan hatta gider.</span>
+      </a>
+      <video src="acil.mp4" controls preload="none" hidden><track kind="captions" src="acil.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="isemri">
+      <a class="card" data-testid="tanitim-card" href="isemri.mp4">
+        <span class="thumb"><img src="isemri.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT91S">1:31</time></span>
+        <span class="title">İş emri eşleştirme</span>
+        <span class="summary">Hat beslenirken her palet bir iş emrine bağlanır. Reçetede olmayan palet hatta gidemez. Premiks paleti bütün gider, balık unu paletinden yalnız iş emrinin istediği kadar ayrılır, kalanı aynı numarayla rafta kalır. Canias'a üretime çıkış hareketi gider, vardiya lideri tüketimi görüp iş emrini kapatır.</span>
+      </a>
+      <video src="isemri.mp4" controls preload="none" hidden><track kind="captions" src="isemri.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="kapasite">
+      <a class="card" data-testid="tanitim-card" href="kapasite.mp4">
+        <span class="thumb"><img src="kapasite.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT47S">0:47</time></span>
+        <span class="title">Kapasite tahmini</span>
+        <span class="summary">Önümüzdeki saatlerde her bölgenin ne kadar dolacağı saat saat çizilir. Kalite bekleme alanı öğleden sonra dolar, vardiya bunu sabahtan görür.</span>
+      </a>
+      <video src="kapasite.mp4" controls preload="none" hidden><track kind="captions" src="kapasite.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="liste">
+      <a class="card" data-testid="tanitim-card" href="liste.mp4">
+        <span class="thumb"><img src="liste.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT93S">1:33</time></span>
+        <span class="title">Liste, filtre ve görünüm</span>
+        <span class="summary">Bütün listeler aynı biçimde: sayılı filtreler, kişiye özel kayıtlı görünüm, sıralanan ve gizlenen sütunlar, tek düğmeyle Excel. Bir kayda tıklayınca detay yanda açılır, liste yerinde kalır.</span>
+      </a>
+      <video src="liste.mp4" controls preload="none" hidden><track kind="captions" src="liste.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="atama">
+      <a class="card" data-testid="tanitim-card" href="atama.mp4">
+        <span class="thumb"><img src="atama.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT76S">1:16</time></span>
+        <span class="title">Görev ataması</span>
+        <span class="summary">Görev ataması görev türü başına kural setinde. Vardiya lideri kimin elinde kaç iş olduğunu, belgelerini ve vardiyasını görür, havuzdaki görevi bir operatöre verir, görev onun el terminalinde çıkar.</span>
+      </a>
+      <video src="atama.mp4" controls preload="none" hidden><track kind="captions" src="atama.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="fason">
+      <a class="card" data-testid="tanitim-card" href="fason.mp4">
+        <span class="thumb"><img src="fason.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT115S">1:55</time></span>
+        <span class="title">Fason ve emanet</span>
+        <span class="summary">Aynı dökme mama iki fason paketleyiciye gider, her biri kendi koduyla torbada geri gönderir. Gönderimde Canias'a fason özel stoka transfer gider, dönüşte dönüş oranına göre bakiye düşer. Paketleyiciler mamayı depoya uğramadan birbirine aktarabilir, irsaliye sonradan eklenir.</span>
+      </a>
+      <video src="fason.mp4" controls preload="none" hidden><track kind="captions" src="fason.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="kasa">
+      <a class="card" data-testid="tanitim-card" href="kasa.mp4">
+        <span class="thumb"><img src="kasa.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT80S">1:20</time></span>
+        <span class="title">Boş kasa ve palet</span>
+        <span class="summary">Tedarikçilerin dönüşlü kasa ve paletleri çevrim sözleşmesiyle izlenir. Boş kasa kendi irsaliyesiyle gönderilir, tedarikçide olandan fazlası geri alınamaz, havuzun bakiyesi her hareketle güncel.</span>
+      </a>
+      <video src="kasa.mp4" controls preload="none" hidden><track kind="captions" src="kasa.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="genel">
+      <a class="card" data-testid="tanitim-card" href="genel.mp4">
+        <span class="thumb"><img src="genel.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT124S">2:04</time></span>
+        <span class="title">Depo yönetim sistemi</span>
+        <span class="summary">Aynı program ofiste, tablette, el terminalinde ve tedarikçi portalında. Menü sistemin tamamını gösterir, durum çubuğu bağlı Canias sistemini ve kuyruğu. Program bir kuru mama fabrikası ölçeğinde kurulu, binlerce palet tek tabloda kayar.</span>
+      </a>
+      <video src="genel.mp4" controls preload="none" hidden><track kind="captions" src="genel.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="sira">
+      <a class="card" data-testid="tanitim-card" href="sira.mp4">
+        <span class="thumb"><img src="sira.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT93S">1:33</time></span>
+        <span class="title">FIFO, FEFO ve son kullanma tarihi</span>
+        <span class="summary">Çıkış sırası kural setinde malzeme grubu başına seçilir. Tavuk grubu FIFO'dayken sonra gelen tavuk yağı paleti reddedilir, grup FEFO'ya çevrilince son kullanma tarihi yakın olan palet hatta gider.</span>
+      </a>
+      <video src="sira.mp4" controls preload="none" hidden><track kind="captions" src="sira.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="toplu">
+      <a class="card" data-testid="tanitim-card" href="toplu.mp4">
+        <span class="thumb"><img src="toplu.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT128S">2:08</time></span>
+        <span class="title">Toplu transfer</span>
+        <span class="summary">Yere istiflenmiş lokasyon tek okutmayla forklifte alınır, başka paletler eklenir. Hedef bölge premiksin koşulunu sağlamıyorsa sistem hiçbir paleti bırakmaz ve nedenini yazar. Ofis taşımayı önceden planlar, görev operatörün terminaline düşer.</span>
+      </a>
+      <video src="toplu.mp4" controls preload="none" hidden><track kind="captions" src="toplu.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="lifo">
+      <a class="card" data-testid="tanitim-card" href="lifo.mp4">
+        <span class="thumb"><img src="lifo.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT84S">1:24</time></span>
+        <span class="title">LIFO</span>
+        <span class="summary">FIFO ve FEFO'nun yanında LIFO: en son giren önce çıkar. Protein grubu LIFO'ya çevrilince önce gelen balık unu paleti reddedilir, en son gelen hatta gider.</span>
+      </a>
+      <video src="lifo.mp4" controls preload="none" hidden><track kind="captions" src="lifo.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="depolama">
+      <a class="card" data-testid="tanitim-card" href="depolama.mp4">
+        <span class="thumb"><img src="depolama.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT88S">1:28</time></span>
+        <span class="title">Depolama koşulları</span>
+        <span class="summary">Depolama koşulu malzeme grubu başına, her bölgenin sağladığı koşul ana veride. Premiks serin odada durur, kokulu balık unu ambalajla aynı lokasyona konmaz. Normal alana bırakılmak istenen premiks paleti reddedilir, serin bölgede kabul edilir.</span>
+      </a>
+      <video src="depolama.mp4" controls preload="none" hidden><track kind="captions" src="depolama.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="teyit">
+      <a class="card" data-testid="tanitim-card" href="teyit.mp4">
+        <span class="thumb"><img src="teyit.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT161S">2:41</time></span>
+        <span class="title">İşlem doğrulama</span>
+        <span class="summary">Yerleştirmede emin misiniz sorusu kural setinden açılır. Araç plakayla kabul edilir, operatör paleti rafa götürüp okutur, sistem ne yapılacağını yazıp onay ister. Sıkı ayarda miktar gösterilmez, operatör sayıp yazar, yanlış sayı paleti yerleştirmez.</span>
+      </a>
+      <video src="teyit.mp4" controls preload="none" hidden><track kind="captions" src="teyit.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="randevu-kurali">
+      <a class="card" data-testid="tanitim-card" href="randevu-kurali.mp4">
+        <span class="thumb"><img src="randevu-kurali.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT73S">1:13</time></span>
+        <span class="title">Randevu kuralları</span>
+        <span class="summary">Firma başına günlük randevu hakkı ve izinli rampalar kural setinde. Tedarikçi randevu alırken yalnız izinli rampaları görür, günlük hakkı dolunca ilk boş saat yarına düşer.</span>
+      </a>
+      <video src="randevu-kurali.mp4" controls preload="none" hidden><track kind="captions" src="randevu-kurali.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="dalga">
+      <a class="card" data-testid="tanitim-card" href="dalga.mp4">
+        <span class="thumb"><img src="dalga.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT135S">2:15</time></span>
+        <span class="title">Dalga toplama</span>
+        <span class="summary">Vardiya lideri en erken teslimatları tek dalgada başlatır, sistem her bölge için tek rota çıkarır. Toplayıcı el terminalinde sıradaki rafı görür, paletler FEFO sırasıyla gelir. Tek teslimatlık toplamada yanlış palet durdurulur.</span>
+      </a>
+      <video src="dalga.mp4" controls preload="none" hidden><track kind="captions" src="dalga.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Demo ortamı: Canias bağlantısı mock, firmalar ve veriler kurgu. Menüde soluk görünen ekranlar kapsamda, bu demoda kapalı.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>

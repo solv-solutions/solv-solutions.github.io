@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv Production · Esnek Ambalaj · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  .langs { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; margin: -16px 0 20px; font-size: 15px; }
+  .langs a { color: #9fb3cc; text-decoration: none; }
+  .langs a:hover, .langs a:focus-visible { color: #3aa0ff; }
+  .langs [aria-current] { color: #f5f9ff; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="langs" data-testid="tanitim-languages">
+    <a href="../production-df7576baf5ec8cf7/" lang="en" hreflang="en">English</a>
+    <a href="../production-sl-b3b1c592b52367c3/" lang="sl" hreflang="sl">Slovenščina</a>
+    <a href="../production-hr-db3cc145ef118234/" lang="hr" hreflang="hr">Hrvatski</a>
+    <span lang="tr" aria-current="page">Türkçe</span>
+  </nav>
+  <h1>Solv Production · Esnek Ambalaj</h1>
+  <p class="sub">Siparişten teslim tarihine kadar, üç cihazda. Sipariş girildiği anda tarih gerekçesiyle çıkar. Atölye her bobini bildirir. Bir koli tek okutmada izlenir. Her rakam, verisinin ne kadar onaylı olduğunu gösterir.</p>
+  <p class="hint">Videoları bilgisayarda, büyük ekranda ve tam ekran izlemenizi öneririz.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="overview.mp4">
+        <span class="thumb"><img src="overview.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT90S">1:30</time></span>
+        <span class="title">Genel bakış</span>
+        <span class="summary">Tek program masada, vardiya amirinin tabletinde ve her makinedeki terminalde çalışır. Tesisin kullandığı ERP'nin yanında durur.</span>
+      </a>
+      <video src="overview.mp4" controls preload="none" hidden><track kind="captions" src="overview.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="order">
+      <a class="card" data-testid="tanitim-card" href="order.mp4">
+        <span class="thumb"><img src="order.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT116S">1:56</time></span>
+        <span class="title">Müşteri arar, tarih çıkar</span>
+        <span class="summary">Sipariş birkaç kalemle girilir. Her kalemin tarihi bütün gerekçesiyle gelir. Kür süresi bekleme olarak görünür. Bir varsayım onaylanınca tarih yeşile döner. Müşteri onayı kendi dilinde alır.</span>
+      </a>
+      <video src="order.mp4" controls preload="none" hidden><track kind="captions" src="order.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="material">
+      <a class="card" data-testid="tanitim-card" href="material.mp4">
+        <span class="thumb"><img src="material.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT101S">1:41</time></span>
+        <span class="title">Her kilo nereden gelir</span>
+        <span class="summary">Laminat katlarıyla görünür. Fire adım adım hesaplanır. Alınacak film belli olur. Siparişin gününü hangi kalemin belirlediği görünür. Partiler en eskiden başlar.</span>
+      </a>
+      <video src="material.mp4" controls preload="none" hidden><track kind="captions" src="material.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="planning">
+      <a class="card" data-testid="tanitim-card" href="planning.mp4">
+        <span class="thumb"><img src="planning.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT69S">1:09</time></span>
+        <span class="title">Kapasite, kür ve iki siparişe tek laminat</span>
+        <span class="summary">Makine yükü iki hafta ileriyi gösterir. Program iki siparişi tek laminatta birleştirmeyi önerir, film ve ayar süresi kazandırır. Planlamacı onaylar.</span>
+      </a>
+      <video src="planning.mp4" controls preload="none" hidden><track kind="captions" src="planning.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="terminal">
+      <a class="card" data-testid="tanitim-card" href="terminal.mp4">
+        <span class="thumb"><img src="terminal.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT121S">2:01</time></span>
+        <span class="title">Makine başında</span>
+        <span class="summary">Operatör partileri okutur, program en eskisini önerir. Yanlış ağırlık yakalanır. Bobin etiketi basılır. Duruş firesiyle kaydedilir.</span>
+      </a>
+      <video src="terminal.mp4" controls preload="none" hidden><track kind="captions" src="terminal.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="stops">
+      <a class="card" data-testid="tanitim-card" href="stops.mp4">
+        <span class="thumb"><img src="stops.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT57S">0:57</time></span>
+        <span class="title">Bir arıza ve maliyeti</span>
+        <span class="summary">Vardiya lideri her duruşu tabletten görür. Aynı sabah geciken siparişler panoya düşer.</span>
+      </a>
+      <video src="stops.mp4" controls preload="none" hidden><track kind="captions" src="stops.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="ready">
+      <a class="card" data-testid="tanitim-card" href="ready.mp4">
+        <span class="thumb"><img src="ready.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT88S">1:28</time></span>
+        <span class="title">Son koli ve müşteri</span>
+        <span class="summary">Son koli bitince sipariş toleransı içinde tamamlanır. Müşteri aynı dakika haber alır.</span>
+      </a>
+      <video src="ready.mp4" controls preload="none" hidden><track kind="captions" src="ready.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="trace">
+      <a class="card" data-testid="tanitim-card" href="trace.mp4">
+        <span class="thumb"><img src="trace.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT70S">1:10</time></span>
+        <span class="title">Bir şikâyet, tek okutmada</span>
+        <span class="summary">Koli film partilerine kadar geri, müşterilere kadar ileri izlenir. Kütle dengesi kimsenin yazmadığı kaybı gösterir.</span>
+      </a>
+      <video src="trace.mp4" controls preload="none" hidden><track kind="captions" src="trace.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="trust">
+      <a class="card" data-testid="tanitim-card" href="trust.mp4">
+        <span class="thumb"><img src="trust.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT79S">1:19</time></span>
+        <span class="title">İlk gün kırmızı, sonra yeşil</span>
+        <span class="summary">Program tesisin kendi verisiyle başlar. Henüz onaylanmamış bilgiler kırmızı görünür ve tek tek onaylanır.</span>
+      </a>
+      <video src="trust.mp4" controls preload="none" hidden><track kind="captions" src="trust.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Demo tesis: müşteriler, siparişler ve rakamlar kurgudur. Makineler, kurallar ve veri kaynakları programın gerçek bir tesisten okuduklarıdır.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>

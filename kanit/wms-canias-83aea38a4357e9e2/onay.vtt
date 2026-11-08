@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:02.538 --> 00:00:12.023
+Operatör toplama görevini açıp bir palet okutuyor.
+
+2
+00:00:12.670 --> 00:00:18.411
+Sistem FEFO kırmızısı veriyor. Tarihi daha yakın palet çıkmalı.
+
+3
+00:00:19.034 --> 00:00:31.461
+Operatör öncelikli palete erişemiyor, nedenini yazıp onay istiyor.
+
+4
+00:00:36.605 --> 00:00:43.916
+Talep onaylayacak kişiye bildirim olarak düştü. Bildirim uygulamaya ve Teams'e gitti.
+
+5
+00:00:47.102 --> 00:00:53.844
+Akışta yazan hedef süre işliyor. Vardiya lideri 10 dakika içinde karar verir.
+
+6
+00:00:54.463 --> 00:01:02.242
+Vardiya lideri talebi onaylıyor.
+
+7
+00:01:04.534 --> 00:01:12.924
+Sebep kodu ve kapanış nedeni kendiliğinden kayda geçti. Kim, ne zaman, neden: hepsi akış geçmişinde.
+
+8
+00:01:17.982 --> 00:01:25.274
+Operatör paleti yeniden okutuyor.
+
+9
+00:01:25.916 --> 00:01:29.177
+Palet bu istisnayla geçiyor.
+
+10
+00:01:36.748 --> 00:01:45.072
+Hedef süresinde karar verilmeyen talep depo müdürüne yükseldi. Yükselme anı da bildirim de kayıtta.
+
+11
+00:01:51.028 --> 00:01:59.416
+Eksik belgeyle şartlı kabulün onayı iki seviyeli. Vardiya lideri onayladı, karar şimdi mali işlerde.
+
+12
+00:02:05.296 --> 00:02:12.374
+Bütün istisnalar aynı motorla çalışıyor. 19 akışın her biri bu tabloda bir satır.
+
+13
+00:02:13.017 --> 00:02:21.570
+Satırda istisna türü, onay seviyeleri ve hedef süre var. Eskalasyon, form ve bildirim de aynı satırda.

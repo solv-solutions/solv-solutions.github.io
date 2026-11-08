@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:04.242 --> 00:00:13.413
+Canias'tan bir COGI kaydı geldi. Birinci ekstruder vitamin premiksini tüketemedi, sistemde hatta premiks yoktu.
+
+2
+00:00:14.043 --> 00:00:21.864
+Sistem kendiliğinden bir sayım emri açtı. Premiksin son görüldüğü lokasyon ve hat sayılacak.
+
+3
+00:00:29.251 --> 00:00:37.135
+Sayımın nerede açılacağı kural setinde. Son görüldüğü yerler ya da bulunduğu bölgelerin tümü.
+
+4
+00:00:37.751 --> 00:00:42.141
+Sayımın türü de orada: var-yok ya da miktar.
+
+5
+00:00:46.369 --> 00:00:52.732
+Görev el terminaline öncelikli düşüyor.
+
+6
+00:00:53.354 --> 00:01:00.415
+Operatör premiksin son görüldüğü lokasyonu açıyor.
+
+7
+00:01:01.055 --> 00:01:12.278
+Paleti okutuyor; sistemdeki miktarı görmüyor. Kör sayım: premiksi kendisi tartıp sayar.
+
+8
+00:01:12.902 --> 00:01:20.595
+Saydığı 280 kiloyu yazıyor.
+
+9
+00:01:21.219 --> 00:01:26.378
+Lokasyonu kapatıyor.
+
+10
+00:01:27.002 --> 00:01:33.644
+Hattı da kontrol ediyor: hat boş.
+
+11
+00:01:34.269 --> 00:01:40.528
+İki lokasyon da kapandı, sayım bitiyor.
+
+12
+00:01:41.152 --> 00:01:48.546
+Fark 120 kilo, depo müdürünün onayına düştü. Her fark gibi bu da onaysız kayda geçmez.
+
+13
+00:01:54.450 --> 00:02:01.133
+Depo müdürü fark talebini açıyor.
+
+14
+00:02:01.748 --> 00:02:07.711
+Farkı onaylıyor.
+
+15
+00:02:10.032 --> 00:02:18.069
+Eksik sayım eksiği hareketiyle Canias'a gitti. Canias'ta stok düzelince COGI kaydı işlenebilir.
