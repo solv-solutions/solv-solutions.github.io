@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv WMS: ikinci tur · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Solv WMS: ikinci tur</h1>
+  <p class="sub">İlk demodan sonra sorulan konular ve yeni gelenler: dalga toplama, liste ve kayıtlı görünüm, toplu transfer, LIFO ve depolama koşulu, görev ataması ve işlem teyidi, sayım ve COGI, randevu kuralları ve plakayla kabul, yük altında SAP kuyruğu.</p>
+  <p class="hint">Videoları bilgisayarda, büyük ekranda ve tam ekran izlemenizi öneririz.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="ikinci-tur.mp4">
+        <span class="thumb"><img src="ikinci-tur.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT1419S">23:39</time></span>
+        <span class="title">Genel bakış</span>
+      </a>
+      <video src="ikinci-tur.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="dalga">
+      <a class="card" data-testid="tanitim-card" href="dalga.mp4">
+        <span class="thumb"><img src="dalga.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT134S">2:14</time></span>
+        <span class="title">Dalga toplama ve yönlendirmeli toplama</span>
+        <span class="summary">Birlikte sevk edilecek teslimatlar tek dalgada toplanır: bölge başına tek rota, raflar yürüme sırasıyla, paletler FIFO ve FEFO sırasıyla. El terminali sıradaki rafı ve paleti yazar. Tek teslimatlık toplamada da yol gösterir.</span>
+      </a>
+      <video src="dalga.mp4" controls preload="none" hidden><track kind="captions" src="dalga.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="liste">
+      <a class="card" data-testid="tanitim-card" href="liste.mp4">
+        <span class="thumb"><img src="liste.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT94S">1:34</time></span>
+        <span class="title">Liste, filtre ve kayıtlı görünüm</span>
+        <span class="summary">Bütün listeler aynı biçimde: 20.000'i aşkın palet tek tabloda, sayılı filtreler, kişiye özel kayıtlı görünüm, sütun düzeni, Excel'e aktarma. Kayda tıklayınca detay yanda.</span>
+      </a>
+      <video src="liste.mp4" controls preload="none" hidden><track kind="captions" src="liste.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="toplu">
+      <a class="card" data-testid="tanitim-card" href="toplu.mp4">
+        <span class="thumb"><img src="toplu.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT133S">2:13</time></span>
+        <span class="title">Toplu taşıma, iki okutmayla</span>
+        <span class="summary">Palet yerinde okutulup alınır, forklifte geçer ve eski yeri boşalır. Hedef okutulunca hepsi oraya bırakılır, biri kurala uymazsa hiçbiri bırakılmaz. Her palet bırakıldığı anda SAP'ye ayrı transfer olarak gider. Ofis taşımayı planlayabilir: hedef ayrılır, görev terminale düşer. Kritik malzemenin taşıması onayla planlanır.</span>
+      </a>
+      <video src="toplu.mp4" controls preload="none" hidden><track kind="captions" src="toplu.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="lifo">
+      <a class="card" data-testid="tanitim-card" href="lifo.mp4">
+        <span class="thumb"><img src="lifo.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT84S">1:24</time></span>
+        <span class="title">LIFO</span>
+        <span class="summary">FIFO ve FEFO'nun yanında LIFO: en son giren önce çıkar. Malzeme grubu başına kural setinde, gerekirse tek bir malzemeye kendi sırası verilir. Hat beslemede sıra dışı palet reddedilir.</span>
+      </a>
+      <video src="lifo.mp4" controls preload="none" hidden><track kind="captions" src="lifo.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="depolama">
+      <a class="card" data-testid="tanitim-card" href="depolama.mp4">
+        <span class="thumb"><img src="depolama.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT90S">1:30</time></span>
+        <span class="title">Depolama koşulları ve ayrı tutma</span>
+        <span class="summary">Malzeme grubu başına depolama koşulu ve her bölgenin sağladığı koşul ana veride. Kimyasal iklimlendirilmiş alan dışına taşınamaz. Yanıcı kimyasal ile ambalaj gibi gruplar aynı lokasyonda durmaz. Yerleştirme ve taşıma bu kurallara uyar.</span>
+      </a>
+      <video src="depolama.mp4" controls preload="none" hidden><track kind="captions" src="depolama.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="atama">
+      <a class="card" data-testid="tanitim-card" href="atama.mp4">
+        <span class="thumb"><img src="atama.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT76S">1:16</time></span>
+        <span class="title">Görev ataması</span>
+        <span class="summary">Görev türü başına havuz ya da otomatik atama. İş yalnız vardiyada olan ve gereken belgeye sahip olana verilir (forklift işleri ehliyetliye). Vardiyadan çıkanın başlamamış işleri yeniden dağıtılır. Vardiya lideri kişi ve bölge başına açık işi görür, görevi kişiye verir.</span>
+      </a>
+      <video src="atama.mp4" controls preload="none" hidden><track kind="captions" src="atama.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="teyit">
+      <a class="card" data-testid="tanitim-card" href="teyit.mp4">
+        <span class="thumb"><img src="teyit.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT160S">2:40</time></span>
+        <span class="title">İşlem doğrulama</span>
+        <span class="summary">İş doğru olsa bile sistem sorar: bu palet, bu yer, bu miktar. Emin misiniz? Yerleştirme, taşıma, hat besleme, toplama ve yüklemede ayrı ayrı açılır. Hangi malzemede sorulacağı kural setinde. İstenirse miktar sayılıp yazılır, tutmazsa hiçbir şey kaydedilmez.</span>
+      </a>
+      <video src="teyit.mp4" controls preload="none" hidden><track kind="captions" src="teyit.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="sayim">
+      <a class="card" data-testid="tanitim-card" href="sayim.mp4">
+        <span class="thumb"><img src="sayim.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT252S">4:12</time></span>
+        <span class="title">Sayım</span>
+        <span class="summary">Kör sayım: sayan kişi beklenen paleti ve miktarı görmez. Sayım sürerken lokasyona palet girmez, çıkmaz. Her lokasyon okunarak ya da boş kaydedilerek kapanır. Sistemde olmayan palet malzemesiyle sayılır. Her fark onaya gider (711/712). İstenirse küçük farklar için tolerans tanımlanır.</span>
+      </a>
+      <video src="sayim.mp4" controls preload="none" hidden><track kind="captions" src="sayim.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="cogi">
+      <a class="card" data-testid="tanitim-card" href="cogi.mp4">
+        <span class="thumb"><img src="cogi.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT142S">2:22</time></span>
+        <span class="title">COGI'den otomatik sayım</span>
+        <span class="summary">SAP'den gelen COGI kaydı sayım emrini kendiliğinden açar: son görüldüğü lokasyonlar ve hat. Operatör kör sayar, iki lokasyonu da kapatır. Fark onaylanınca SAP'de stok düzelir.</span>
+      </a>
+      <video src="cogi.mp4" controls preload="none" hidden><track kind="captions" src="cogi.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="randevu-kurali">
+      <a class="card" data-testid="tanitim-card" href="randevu-kurali.mp4">
+        <span class="thumb"><img src="randevu-kurali.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT73S">1:13</time></span>
+        <span class="title">Randevu kuralları</span>
+        <span class="summary">Firma başına günlük randevu hakkı ve izinli rampalar. Portal yalnız izin verilenleri gösterir.</span>
+      </a>
+      <video src="randevu-kurali.mp4" controls preload="none" hidden><track kind="captions" src="randevu-kurali.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="plaka">
+      <a class="card" data-testid="tanitim-card" href="plaka.mp4">
+        <span class="thumb"><img src="plaka.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT93S">1:33</time></span>
+        <span class="title">Plaka bazında kabul ve ret</span>
+        <span class="summary">Plaka yazılınca araçtaki irsaliye, sipariş ve etiketler görünür. Araç tek tek okutmadan bütünüyle kabul ya da gerekçesiyle reddedilir.</span>
+      </a>
+      <video src="plaka.mp4" controls preload="none" hidden><track kind="captions" src="plaka.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+    <li id="kuyruk">
+      <a class="card" data-testid="tanitim-card" href="kuyruk.mp4">
+        <span class="thumb"><img src="kuyruk.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT89S">1:29</time></span>
+        <span class="title">SAP kuyruğu yük altında</span>
+        <span class="summary">Okutma SAP'yi beklemez. Birikme arkada boşalır, üretim ve mal girişi önce gider. Kapasite ve uyarı eşiği kural setinde. 2.400 hareketlik yük testi.</span>
+      </a>
+      <video src="kuyruk.mp4" controls preload="none" hidden><track kind="captions" src="kuyruk.vtt" srclang="tr" label="Altyazı"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Demo ortamı: SAP bağlantısı, firmalar ve veriler kurgu.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>
