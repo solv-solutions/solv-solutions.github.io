@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:03.787 --> 00:00:27.708
+Bir müşteri arıyor: 60.000 vakum torbası ve 15.000 m kapak filmi istiyor, ikisi de on gün içinde. Satış her ürünü siparişin bir kalemi olarak giriyor.
+
+2
+00:00:28.336 --> 00:00:36.740
+Tek tık bugünkü plana bir tarih soruyor. Henüz hiçbir şey ayrılmıyor.
+
+3
+00:00:37.368 --> 00:00:42.654
+Siparişin tamamı için cevap: istenen günden bir gün önce.
+
+4
+00:00:43.287 --> 00:00:58.954
+Her kalemin kendi günü var: kapak filmi üç gün, torbalar bir gün erken. Siparişin gününü torbalar belirliyor. Kalemler sırayla soruluyor. Bu yüzden makineleri ve filmi sahada olacağı gibi paylaşıyorlar.
+
+5
+00:00:59.585 --> 00:01:09.323
+Tarih bütün gerekçesiyle geliyor, satır satır: stoktan film, laminasyon, kür, dilme, en erken bitirecek makinede torba.
+
+6
+00:01:09.954 --> 00:01:19.822
+Kür saatle beklenir, hafta sonu dahil. Bitmeden dilme başlayamaz. Bağı oturmadan dilinen laminat müşteride sorun çıkarır.
+
+7
+00:01:20.449 --> 00:01:27.455
+Tarih bir varsayıma dayanıyor: torba makinesi 1'in hızını henüz kimse onaylamadı.
+
+8
+00:01:28.082 --> 00:01:34.487
+Planlama onaylıyor, tarih yeşile dönüyor.
+
+9
+00:01:35.117 --> 00:01:44.571
+Satış siparişi onaylıyor. Adımlar makine kuyruklarına giriyor, ERP'ye haber gidiyor.
+
+10
+00:01:46.069 --> 00:01:50.324
+Meso Lipa d.o.o. onayı kendi dilinde aldı.

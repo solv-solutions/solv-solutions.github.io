@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv Production · Flexible Packaging · walkthrough</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  .langs { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; margin: -16px 0 20px; font-size: 15px; }
+  .langs a { color: #9fb3cc; text-decoration: none; }
+  .langs a:hover, .langs a:focus-visible { color: #3aa0ff; }
+  .langs [aria-current] { color: #f5f9ff; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="langs" data-testid="tanitim-languages">
+    <span lang="en" aria-current="page">English</span>
+    <a href="../production-sl-b3b1c592b52367c3/" lang="sl" hreflang="sl">Slovenščina</a>
+    <a href="../production-hr-db3cc145ef118234/" lang="hr" hreflang="hr">Hrvatski</a>
+  </nav>
+  <h1>Solv Production · Flexible Packaging</h1>
+  <p class="sub">Order to delivery date, on three devices: a date with its reasons the moment an order is entered, the shop floor reporting reel by reel, traceability in one scan, every figure marked by how far its data is confirmed.</p>
+  <p class="hint">We recommend watching the films on a computer with a large screen, in full screen.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="overview.mp4">
+        <span class="thumb"><img src="overview.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT92S">1:32</time></span>
+        <span class="title">Overview</span>
+        <span class="summary">One program at the desk, on the shift lead's tablet and on a terminal at every machine, beside the ERP the plant already uses.</span>
+      </a>
+      <video src="overview.mp4" controls preload="none" hidden><track kind="captions" src="overview.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="order">
+      <a class="card" data-testid="tanitim-card" href="order.mp4">
+        <span class="thumb"><img src="order.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT120S">2:00</time></span>
+        <span class="title">From the phone call to a date</span>
+        <span class="summary">An order of several lines, a date for every line with every reason, curing as a wait, one assumption confirmed and the date turns green, the customer's confirmation in their language.</span>
+      </a>
+      <video src="order.mp4" controls preload="none" hidden><track kind="captions" src="order.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="material">
+      <a class="card" data-testid="tanitim-card" href="material.mp4">
+        <span class="thumb"><img src="material.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT98S">1:38</time></span>
+        <span class="title">Where every kilogram comes from</span>
+        <span class="summary">The laminate as layers, waste step by step, the film to buy, the line that sets the order's day, lots oldest first.</span>
+      </a>
+      <video src="material.mp4" controls preload="none" hidden><track kind="captions" src="material.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="planning">
+      <a class="card" data-testid="tanitim-card" href="planning.mp4">
+        <span class="thumb"><img src="planning.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT72S">1:12</time></span>
+        <span class="title">Capacity, curing and one laminate for two orders</span>
+        <span class="summary">Machine load over two weeks, and a slitting combination that saves film and setup, accepted by the planner.</span>
+      </a>
+      <video src="planning.mp4" controls preload="none" hidden><track kind="captions" src="planning.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="terminal">
+      <a class="card" data-testid="tanitim-card" href="terminal.mp4">
+        <span class="thumb"><img src="terminal.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT126S">2:06</time></span>
+        <span class="title">At the machine</span>
+        <span class="summary">Lots scanned at the start with the oldest-first suggestion, a wrong weight caught, a reel's label, a stop with its scrap.</span>
+      </a>
+      <video src="terminal.mp4" controls preload="none" hidden><track kind="captions" src="terminal.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="stops">
+      <a class="card" data-testid="tanitim-card" href="stops.mp4">
+        <span class="thumb"><img src="stops.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT55S">0:55</time></span>
+        <span class="title">A breakdown and what it costs</span>
+        <span class="summary">The shift lead's tablet, every stop on record, the late orders on the board the same morning.</span>
+      </a>
+      <video src="stops.mp4" controls preload="none" hidden><track kind="captions" src="stops.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="ready">
+      <a class="card" data-testid="tanitim-card" href="ready.mp4">
+        <span class="thumb"><img src="ready.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT91S">1:31</time></span>
+        <span class="title">The last carton and the customer</span>
+        <span class="summary">The last carton, the order within its tolerance, the customer told the same minute.</span>
+      </a>
+      <video src="ready.mp4" controls preload="none" hidden><track kind="captions" src="ready.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="trace">
+      <a class="card" data-testid="tanitim-card" href="trace.mp4">
+        <span class="thumb"><img src="trace.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT69S">1:09</time></span>
+        <span class="title">A complaint, traced in one scan</span>
+        <span class="summary">Back to the film lots, forward to every customer, and the mass balance with the loss nobody wrote down.</span>
+      </a>
+      <video src="trace.mp4" controls preload="none" hidden><track kind="captions" src="trace.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+    <li id="trust">
+      <a class="card" data-testid="tanitim-card" href="trust.mp4">
+        <span class="thumb"><img src="trust.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT49S">0:49</time></span>
+        <span class="title">Day one red, then green</span>
+        <span class="summary">The plant's own data, the facts nobody confirmed yet, confirmed one by one.</span>
+      </a>
+      <video src="trust.mp4" controls preload="none" hidden><track kind="captions" src="trust.vtt" srclang="en" label="Subtitles"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">A demonstration plant: customers, orders and figures are invented. The machines, rules and data sources are the ones the program reads from a real plant.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>

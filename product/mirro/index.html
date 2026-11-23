@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/product/mirro/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet" />
+  <title>Mirro</title>
+  <!-- Boot loader: on screen while the bundle downloads and the scene paints.
+       Inline so it shows before any script runs; src/lib/bootLoader.ts lifts
+       it the moment the scene is ready. It is the website's loading mark: the
+       same Mirro monogram (solv-brand-identity, artifact/logo/mirro-mark),
+       held at a quarter of the height, breathing. -->
+  <style>
+    #boot-loader {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #0f1f34;
+      transition: opacity 600ms ease-out;
+    }
+    #boot-loader[data-leaving] { opacity: 0; pointer-events: none; }
+    #boot-loader svg {
+      height: 25vh;
+      width: auto;
+      animation: boot-breathe 1.8s ease-in-out infinite;
+    }
+    @keyframes boot-breathe {
+      0%, 100% { transform: scale(0.9); opacity: 0.55; }
+      50% { transform: scale(1.04); opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #boot-loader svg { animation: none; }
+    }
+  </style>
+  <script type="module" crossorigin src="/product/mirro/assets/index-C2xAwvuk.js"></script>
+  <link rel="stylesheet" crossorigin href="/product/mirro/assets/index-M6W8PbK9.css">
+</head>
+
+<body>
+  <div id="boot-loader" data-testid="boot-loader" role="progressbar" aria-label="Mirro">
+    <svg viewBox="0 0 497 252" aria-hidden="true">
+      <g fill="none" stroke="#ffffff" stroke-width="16.908345" stroke-miterlimit="10" transform="translate(21.155466 246)">
+        <path d="M 155.047659 -240 L 155.047659 0" />
+        <path d="M 316.801566 -240 L 316.801566 0" />
+        <path d="M 460.907034 -190.746094 C 460.907034 -168.210938 442.641409 -149.945312 420.110159 -149.945312 C 397.575003 -149.945312 379.309378 -168.210938 379.309378 -190.746094 C 379.309378 -213.277344 397.575003 -231.546875 420.110159 -231.546875 C 442.641409 -231.546875 460.907034 -213.277344 460.907034 -190.746094" />
+      </g>
+      <path fill="#ffffff" d="M 6 246 L 164.398438 6 L 184.660156 6 L 26.257812 246 Z" />
+      <path fill="#ffffff" d="M 167.75 246 L 326.152344 6 L 346.410156 6 L 188.007812 246 Z" />
+    </svg>
+  </div>
+  <script>
+    // The website's viewer (brandHandoff) holds its own copy of this mark over
+    // the iframe and flies it into the corner. Two marks would show, so the
+    // embed drops its own before the first paint. Truthy values match
+    // parseFlag in src/lib/appQueryParams.ts.
+    if (/^(1|true|on|yes)$/i.test(new URLSearchParams(location.search).get("brandHandoff") || "")) {
+      document.getElementById("boot-loader").remove();
+    }
+  </script>
+  <div id="root"></div>
+</body>
+
+</html>

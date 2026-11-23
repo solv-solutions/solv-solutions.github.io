@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>AutoLead · Ambalaj ihracatı · kanıt</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  .langs { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; margin: -16px 0 20px; font-size: 15px; }
+  .langs a { color: #9fb3cc; text-decoration: none; }
+  .langs a:hover, .langs a:focus-visible { color: #3aa0ff; }
+  .langs [aria-current] { color: #f5f9ff; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>AutoLead · Ambalaj ihracatı</h1>
+  <p class="sub">Esnek ambalaj ihracatçısı için yeni alıcı bulma ve takip: tarama, firma kartı, e-posta onayı, asistan, takip, raporlar, fuar listeleri ve haberler. Kurgu bir ihracatçının sekizinci haftası, program canlıda nasıl çalışıyorsa öyle.</p>
+  <p class="hint">Videoları bilgisayarda, büyük ekranda ve tam ekran izlemenizi öneririz.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="kisa.mp4">
+        <span class="thumb"><img src="kisa.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT158S">2:38</time></span>
+        <span class="title">Üç dakikada</span>
+        <span class="summary">Yeni bir pazar, firmanın kartı, İtalyanca e-posta, haftanın işi ve siparişe dönen bir cevap.</span>
+      </a>
+      <video src="kisa.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="tarama">
+      <a class="card" data-testid="tanitim-card" href="tarama.mp4">
+        <span class="thumb"><img src="tarama.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT84S">1:24</time></span>
+        <span class="title">Yeni pazarda firma bulmak</span>
+        <span class="summary">İtalya'daki kahve kavurucuları espresso ürünüyle daraltılarak taranır, on iki firma haritaya düşer. Müşteri listesinde başka yazılmış olan tanınır ve soğuk e-postaya kapanır.</span>
+      </a>
+      <video src="tarama.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="kart">
+      <a class="card" data-testid="tanitim-card" href="firma-karti.mp4">
+        <span class="thumb"><img src="firma-karti.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT43S">0:43</time></span>
+        <span class="title">Firma kartı: neden bu firma</span>
+        <span class="summary">Sitesinden okunan özet Türkçe, yeni ürün işareti, puanın gerekçesi ve doğrulanmış e-postasıyla kişiler tek kartta.</span>
+      </a>
+      <video src="firma-karti.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="eposta">
+      <a class="card" data-testid="tanitim-card" href="eposta.mp4">
+        <span class="thumb"><img src="eposta.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT81S">1:21</time></span>
+        <span class="title">E-posta: yazdırmak ve onaylamak</span>
+        <span class="summary">E-posta İtalyanca yazılır, altında Türkçesi durur. Katalog eklenir, onaylanan e-posta Outlook'ta Taslaklar'a düşer, gönder tuşuna kişi basar.</span>
+      </a>
+      <video src="eposta.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="asistan">
+      <a class="card" data-testid="tanitim-card" href="asistan.mp4">
+        <span class="thumb"><img src="asistan.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT92S">1:32</time></span>
+        <span class="title">Asistan: söyleyerek çalışmak</span>
+        <span class="summary">Durum, harita, firma kartı ve haftanın işi asistana sorulur, cevaplar sesli gelir.</span>
+      </a>
+      <video src="asistan.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="takip">
+      <a class="card" data-testid="tanitim-card" href="takip.mp4">
+        <span class="thumb"><img src="takip.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT82S">1:22</time></span>
+        <span class="title">Takip: cevap, numune, sipariş</span>
+        <span class="summary">Gelen cevap bağlı kutudan kendiliğinden düşer, cevabı firmanın kendi dilinde yazdırılır. Numunesi onaylanan firmanın siparişi kaydedilir, firma kazanılır. Aşamalar ve numuneler tek ekranda.</span>
+      </a>
+      <video src="takip.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="raporlar">
+      <a class="card" data-testid="tanitim-card" href="raporlar.mp4">
+        <span class="thumb"><img src="raporlar.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT40S">0:40</time></span>
+        <span class="title">Raporlar: aşama dağılımı ve yönetim özeti</span>
+        <span class="summary">Havuzdan siparişe yedi adımlı aşama dağılımı, alıcı grubuna ve ülkeye göre kırılım, haftalık plan ve tek sayfalık yönetim raporu.</span>
+      </a>
+      <video src="raporlar.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="fuar">
+      <a class="card" data-testid="tanitim-card" href="fuar.mp4">
+        <span class="thumb"><img src="fuar.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT37S">0:37</time></span>
+        <span class="title">Fuar katılımcı listeleri</span>
+        <span class="summary">Fuar sitesindeki katılımcı listesi yapıştırılır, havuzdaki firmalar işaretlenir, kartta fuar ve stand görünür.</span>
+      </a>
+      <video src="fuar.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="haberler">
+      <a class="card" data-testid="tanitim-card" href="haberler.mp4">
+        <span class="thumb"><img src="haberler.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT51S">0:51</time></span>
+        <span class="title">Sektör haberleri</span>
+        <span class="summary">Günün özeti asistanla açılır, her madde kaynağına bağlıdır. Sabahın bülteni üst şeritte: model günün haberlerini tartar, işe dokunanları Türkçe yazar.</span>
+      </a>
+      <video src="haberler.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="kayit">
+      <a class="card" data-testid="tanitim-card" href="kayit.mp4">
+        <span class="thumb"><img src="kayit.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT15S">0:15</time></span>
+        <span class="title">Denetim izi</span>
+        <span class="summary">Kimin ne zaman neyi onayladığı, gönderdiği ve kaydettiği tek listede, süzgeçleriyle.</span>
+      </a>
+      <video src="kayit.mp4" controls preload="none" hidden></video>
+    </li>
+    <li id="genel">
+      <a class="card" data-testid="tanitim-card" href="tanitim.mp4">
+        <span class="thumb"><img src="tanitim.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT525S">8:45</time></span>
+        <span class="title">Genel bakış</span>
+        <span class="summary">Dokuz konu arka arkaya: yeni pazarda taramadan siparişe.</span>
+      </a>
+      <video src="tanitim.mp4" controls preload="none" hidden></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Firmalar, kişiler ve haberler kurgudur. E-postaları, cevapları ve sabah bültenini model yazdı, asistanın sesi ürünün ses servisinden geliyor.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>

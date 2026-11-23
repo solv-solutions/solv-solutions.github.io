@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="hr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Solv Production · Fleksibilna ambalaža · predstavljanje</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 16px 48px; background: #04070c; color: #d3deec; font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1080px; margin: 0 auto; }
+  .langs { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; margin: -16px 0 20px; font-size: 15px; }
+  .langs a { color: #9fb3cc; text-decoration: none; }
+  .langs a:hover, .langs a:focus-visible { color: #3aa0ff; }
+  .langs [aria-current] { color: #f5f9ff; }
+  h1 { margin: 0 0 6px; font-size: 26px; line-height: 1.25; font-weight: 600; color: #f5f9ff; }
+  .sub { margin: 0; max-width: 72ch; color: #9fb3cc; }
+  .hint { margin: 14px 0 0; padding-left: 12px; border-left: 2px solid #1f8fff; color: #f5f9ff; }
+  .cards { list-style: none; margin: 36px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px 20px; }
+  .card { display: block; color: inherit; text-decoration: none; }
+  .card:focus-visible { outline: 2px solid #3aa0ff; outline-offset: 4px; }
+  .thumb { position: relative; display: block; aspect-ratio: 16 / 9; background: #000; border: 1px solid rgba(102, 152, 210, 0.28); overflow: hidden; }
+  .thumb img { display: block; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.15s; }
+  .thumb::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -18px 0 0 -12px; border-style: solid; border-width: 18px 0 18px 30px; border-color: transparent transparent transparent #f5f9ff; opacity: 0; transition: opacity 0.15s; }
+  .card:hover .thumb, .card:focus-visible .thumb { border-color: #3aa0ff; }
+  .card:hover .thumb img, .card:focus-visible .thumb img { opacity: 0.45; }
+  .card:hover .thumb::after, .card:focus-visible .thumb::after { opacity: 0.95; }
+  .time { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; background: rgba(4, 7, 12, 0.85); color: #f5f9ff; font-size: 13px; font-variant-numeric: tabular-nums; }
+  .title { display: block; margin-top: 10px; font-weight: 600; line-height: 1.35; color: #f5f9ff; }
+  .card:hover .title { color: #3aa0ff; }
+  .summary { display: block; margin-top: 4px; font-size: 15px; line-height: 1.45; color: #9fb3cc; }
+  video { display: block; width: 100%; background: #000; }
+  video[hidden] { display: none; }
+  a { color: #3aa0ff; }
+  .docs { margin: 40px 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; }
+  .docs span { color: #9fb3cc; }
+  .note { margin: 20px 0 0; max-width: 72ch; font-size: 15px; color: #9fb3cc; }
+  .foot { margin-top: 28px; color: #9fb3cc; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <nav class="langs" data-testid="tanitim-languages">
+    <a href="../production-df7576baf5ec8cf7/" lang="en" hreflang="en">English</a>
+    <a href="../production-sl-b3b1c592b52367c3/" lang="sl" hreflang="sl">Slovenščina</a>
+    <span lang="hr" aria-current="page">Hrvatski</span>
+  </nav>
+  <h1>Solv Production · Fleksibilna ambalaža</h1>
+  <p class="sub">Od narudžbe do roka isporuke, na tri uređaja: rok s razlozima u trenutku unosa narudžbe, izvještavanje iz proizvodnje rolu po rolu, sljedivost jednim skeniranjem, uz svaki broj oznaka koliko su podaci potvrđeni.</p>
+  <p class="hint">Preporučujemo da filmove gledate na računalu s velikim zaslonom, preko cijelog zaslona.</p>
+  <ul class="cards">
+    <li>
+      <a class="card" data-testid="tanitim-card" href="overview.mp4">
+        <span class="thumb"><img src="overview.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT91S">1:31</time></span>
+        <span class="title">Pregled</span>
+        <span class="summary">Jedan program u uredu, na tabletu voditelja smjene i na terminalu uz svaki stroj, uz ERP koji pogon već koristi.</span>
+      </a>
+      <video src="overview.mp4" controls preload="none" hidden><track kind="captions" src="overview.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="order">
+      <a class="card" data-testid="tanitim-card" href="order.mp4">
+        <span class="thumb"><img src="order.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT120S">2:00</time></span>
+        <span class="title">Od poziva do roka</span>
+        <span class="summary">Narudžba s više stavki, rok za svaku stavku sa svim razlozima, otvrdnjavanje kao čekanje, potvrđena pretpostavka i zeleni rok, potvrda kupcu na njegovom jeziku.</span>
+      </a>
+      <video src="order.mp4" controls preload="none" hidden><track kind="captions" src="order.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="material">
+      <a class="card" data-testid="tanitim-card" href="material.mp4">
+        <span class="thumb"><img src="material.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT103S">1:43</time></span>
+        <span class="title">Odakle dolazi svaki kilogram</span>
+        <span class="summary">Laminat po slojevima, otpad korak po korak, folija za nabavu, stavka koja određuje rok narudžbe, lotovi po starosti.</span>
+      </a>
+      <video src="material.mp4" controls preload="none" hidden><track kind="captions" src="material.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="planning">
+      <a class="card" data-testid="tanitim-card" href="planning.mp4">
+        <span class="thumb"><img src="planning.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT77S">1:17</time></span>
+        <span class="title">Kapacitet, otvrdnjavanje i jedan laminat za dvije narudžbe</span>
+        <span class="summary">Opterećenje strojeva za dva tjedna i kombinacija rezanja koja štedi foliju i postavljanje.</span>
+      </a>
+      <video src="planning.mp4" controls preload="none" hidden><track kind="captions" src="planning.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="terminal">
+      <a class="card" data-testid="tanitim-card" href="terminal.mp4">
+        <span class="thumb"><img src="terminal.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT125S">2:05</time></span>
+        <span class="title">Na stroju</span>
+        <span class="summary">Skenirani lotovi s prijedlogom najstarijeg, uhvaćena pogrešna težina, naljepnica role, zastoj s otpadom.</span>
+      </a>
+      <video src="terminal.mp4" controls preload="none" hidden><track kind="captions" src="terminal.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="stops">
+      <a class="card" data-testid="tanitim-card" href="stops.mp4">
+        <span class="thumb"><img src="stops.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT57S">0:57</time></span>
+        <span class="title">Kvar i njegova cijena</span>
+        <span class="summary">Tablet voditeljice smjene, svaki zastoj zapisan, zakašnjele narudžbe na pregledu istog jutra.</span>
+      </a>
+      <video src="stops.mp4" controls preload="none" hidden><track kind="captions" src="stops.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="ready">
+      <a class="card" data-testid="tanitim-card" href="ready.mp4">
+        <span class="thumb"><img src="ready.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT91S">1:31</time></span>
+        <span class="title">Zadnja kutija i kupac</span>
+        <span class="summary">Zadnja kutija, narudžba u toleranciji, kupac obaviješten iste minute.</span>
+      </a>
+      <video src="ready.mp4" controls preload="none" hidden><track kind="captions" src="ready.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="trace">
+      <a class="card" data-testid="tanitim-card" href="trace.mp4">
+        <span class="thumb"><img src="trace.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT74S">1:14</time></span>
+        <span class="title">Reklamacija jednim skeniranjem</span>
+        <span class="summary">Natrag do lotova folije, naprijed do svakog kupca, i bilanca mase s gubitkom koji nitko nije zapisao.</span>
+      </a>
+      <video src="trace.mp4" controls preload="none" hidden><track kind="captions" src="trace.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+    <li id="trust">
+      <a class="card" data-testid="tanitim-card" href="trust.mp4">
+        <span class="thumb"><img src="trust.jpg" alt="" width="640" height="360" loading="lazy"><time class="time" datetime="PT51S">0:51</time></span>
+        <span class="title">Prvi dan crveno, zatim zeleno</span>
+        <span class="summary">Vlastiti podaci pogona, još nepotvrđeni podaci, potvrđeni jedan po jedan.</span>
+      </a>
+      <video src="trust.mp4" controls preload="none" hidden><track kind="captions" src="trust.vtt" srclang="hr" label="Titlovi"></video>
+    </li>
+  </ul>
+  <p class="note" data-testid="tanitim-note">Demonstracijski pogon: kupci, narudžbe i brojevi su izmišljeni. Strojevi, pravila i izvori podataka su oni koje program čita iz stvarnog pogona.</p>
+  <p class="foot">Solv · solv.com.tr</p>
+</main>
+<script>
+(() => {
+  for (const card of document.querySelectorAll(".card")) {
+    const video = card.nextElementSibling;
+    const close = () => { video.pause(); video.hidden = true; card.focus(); };
+    card.addEventListener("click", (event) => {
+      if (!video.requestFullscreen && !video.webkitEnterFullscreen) return;
+      event.preventDefault();
+      video.hidden = false;
+      if (video.requestFullscreen) {
+        video.requestFullscreen().then(() => video.play(), () => { video.hidden = true; location.href = card.href; });
+      } else {
+        video.play();
+        if (video.readyState > 0) video.webkitEnterFullscreen();
+      }
+    });
+    video.addEventListener("fullscreenchange", () => { if (document.fullscreenElement !== video) close(); });
+    video.addEventListener("webkitendfullscreen", close);
+    video.addEventListener("ended", () => { if (document.fullscreenElement === video) document.exitFullscreen(); });
+  }
+})();
+</script>
+</body>
+</html>
